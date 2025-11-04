@@ -64,9 +64,13 @@ async function generateGrammarQuiz() {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
-  const prompt = `Generate 5 English grammar multiple-choice questions. 
+  const timestamp = Date.now();
+  const prompt = `Generate 10 UNIQUE English grammar multiple-choice questions. 
   
-  Topics to cover: tenses, subject-verb agreement, articles, prepositions, conditionals.
+  IMPORTANT: Create completely NEW and DIFFERENT questions each time. Avoid repeating common examples.
+  Generation ID: ${timestamp}
+  
+  Topics to cover: tenses, subject-verb agreement, articles, prepositions, conditionals, modals, passive voice, reported speech.
   
   Return ONLY a valid JSON array with this exact structure:
   [
@@ -78,7 +82,7 @@ async function generateGrammarQuiz() {
     }
   ]
   
-  Make questions practical and relevant to everyday English usage.`;
+  Make questions practical, varied, and relevant to everyday English usage. Use different sentence structures and contexts.`;
 
   const res = await fetch(OPENAI_API_URL, {
     method: 'POST',
@@ -92,7 +96,7 @@ async function generateGrammarQuiz() {
         { role: 'system', content: 'You are an expert English grammar teacher. Generate clear, educational quiz questions.' },
         { role: 'user', content: prompt }
       ],
-      temperature: 0.8,
+      temperature: 0.9,
     }),
   });
 
@@ -114,10 +118,14 @@ async function generateVocabularyQuiz() {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
-  const prompt = `Generate 5 English vocabulary multiple-choice questions.
+  const timestamp = Date.now();
+  const prompt = `Generate 10 UNIQUE English vocabulary multiple-choice questions.
   
-  Focus on: word meanings, synonyms, antonyms, word usage in context.
-  Use intermediate to advanced vocabulary words.
+  IMPORTANT: Create completely NEW and DIFFERENT vocabulary words each time. Avoid repeating common words.
+  Generation ID: ${timestamp}
+  
+  Focus on: word meanings, synonyms, antonyms, word usage in context, collocations.
+  Use intermediate to advanced vocabulary words from diverse topics (business, science, arts, daily life).
   
   Return ONLY a valid JSON array with this exact structure:
   [
@@ -129,7 +137,7 @@ async function generateVocabularyQuiz() {
     }
   ]
   
-  Make questions engaging and educational.`;
+  Make questions engaging, varied, and educational. Use different question formats.`;
 
   const res = await fetch(OPENAI_API_URL, {
     method: 'POST',
@@ -143,7 +151,7 @@ async function generateVocabularyQuiz() {
         { role: 'system', content: 'You are an expert English vocabulary teacher. Generate clear, educational quiz questions.' },
         { role: 'user', content: prompt }
       ],
-      temperature: 0.8,
+      temperature: 0.9,
     }),
   });
 
@@ -164,10 +172,18 @@ async function generateReadingComprehensionQuiz() {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
-  const prompt = `Generate a reading comprehension exercise with 1 passage and 5 questions.
+  const timestamp = Date.now();
+  const topics = ['science', 'history', 'culture', 'technology', 'environment', 'health', 'business', 'arts', 'sports', 'travel'];
+  const randomTopic = topics[Math.floor(Math.random() * topics.length)];
   
-  Create an interesting passage (150-200 words) on a general topic (science, history, culture, technology, etc.).
-  Then create 5 multiple-choice questions based on the passage.
+  const prompt = `Generate a reading comprehension exercise with 1 UNIQUE passage and 10 questions.
+  
+  IMPORTANT: Create a completely NEW and DIFFERENT passage each time. Avoid repeating topics or content.
+  Generation ID: ${timestamp}
+  Suggested topic area: ${randomTopic}
+  
+  Create an interesting passage (200-300 words) on a fresh topic related to ${randomTopic} or similar areas.
+  Then create 10 multiple-choice questions based on the passage.
   
   Return ONLY a valid JSON array with this exact structure:
   [
@@ -180,8 +196,8 @@ async function generateReadingComprehensionQuiz() {
     }
   ]
   
-  All 5 questions should have the SAME passage text.
-  Make questions test comprehension, inference, and vocabulary from the passage.`;
+  All 10 questions should have the SAME passage text.
+  Make questions test comprehension, inference, vocabulary, and main ideas from the passage.`;
 
   const res = await fetch(OPENAI_API_URL, {
     method: 'POST',
@@ -195,7 +211,7 @@ async function generateReadingComprehensionQuiz() {
         { role: 'system', content: 'You are an expert English reading comprehension teacher. Generate engaging passages and thoughtful questions.' },
         { role: 'user', content: prompt }
       ],
-      temperature: 0.8,
+      temperature: 0.9,
     }),
   });
 
@@ -216,9 +232,14 @@ async function generateIdiomsQuiz() {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
-  const prompt = `Generate 5 English idioms and phrases multiple-choice questions.
+  const timestamp = Date.now();
+  const prompt = `Generate 10 UNIQUE English idioms and phrases multiple-choice questions.
+  
+  IMPORTANT: Create completely NEW and DIFFERENT idioms/phrases each time. Avoid repeating common examples like 'break the ice' or 'piece of cake'.
+  Generation ID: ${timestamp}
   
   Focus on: common idioms, phrasal verbs, expressions, their meanings and usage.
+  Include variety: business idioms, casual expressions, phrasal verbs, and colorful phrases.
   
   Return ONLY a valid JSON array with this exact structure:
   [
@@ -230,7 +251,7 @@ async function generateIdiomsQuiz() {
     }
   ]
   
-  Use commonly used idioms and phrases that are practical for learners.`;
+  Use commonly used but VARIED idioms and phrases that are practical for learners. Mix different types and contexts.`;
 
   const res = await fetch(OPENAI_API_URL, {
     method: 'POST',
@@ -244,7 +265,7 @@ async function generateIdiomsQuiz() {
         { role: 'system', content: 'You are an expert English idioms and phrases teacher. Generate clear, practical quiz questions.' },
         { role: 'user', content: prompt }
       ],
-      temperature: 0.8,
+      temperature: 0.9,
     }),
   });
 
