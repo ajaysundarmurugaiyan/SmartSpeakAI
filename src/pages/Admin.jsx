@@ -390,43 +390,44 @@ const Admin = () => {
     );
   }
 
-  return (
-    <div className="min-h-screen bg-gray-50">
-      <div className="pt-16 pb-8 px-4">
-        <div className="max-w-6xl mx-auto">
-          <div className="flex items-center justify-between mb-6">
-            <div>
-              <h1 className="text-3xl font-bold text-gray-900 mb-2">Admin Dashboard</h1>
-              <p className="text-gray-600">Manage users and view activity data</p>
-            </div>
-            <div className="flex gap-3">
-              {/* Requests Button with Notification Badge */}
-              <button
-                onClick={() => {
-                  setShowRequestsModal(true);
-                  if (unreadCount > 0) {
-                    markAllAsRead();
-                  }
-                }}
-                className="relative px-6 py-3 bg-yellow-500 text-white rounded-xl hover:bg-yellow-600 transition-all shadow-md hover:shadow-lg font-medium flex items-center gap-2"
-              >
-                <Bell className="w-5 h-5" />
-                <span>Requests</span>
-                {unreadCount > 0 && (
-                  <span className="absolute -top-2 -right-2 bg-red-600 text-white text-xs font-bold rounded-full w-6 h-6 flex items-center justify-center animate-pulse">
-                    {unreadCount}
-                  </span>
-                )}
-              </button>
-              <button
-                disabled={refreshing}
-                onClick={loadAll}
-                className="px-6 py-3 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-all disabled:opacity-50 shadow-md hover:shadow-lg font-medium"
-              >
-                {refreshing ? 'Refreshing...' : 'Refresh Data'}
-              </button>
-            </div>
+return (
+  <div className="min-h-screen bg-gray-50">
+    <div className="pt-16 pb-8 px-4">
+      <div className="max-w-6xl mx-auto">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-6 gap-4">
+          <div>
+            <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2">Admin Dashboard</h1>
+            <p className="text-gray-500 text-sm">Manage users and view activity data</p>
           </div>
+          <div className="flex gap-3">
+            {/* Requests Button with Notification Badge */}
+            <button
+              onClick={() => {
+                setShowRequestsModal(true);
+                if (unreadCount > 0) {
+                  markAllAsRead();
+                }
+              }}
+              className="relative px-3 sm:px-4 py-2 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-all font-medium shadow-md hover:shadow-lg flex items-center gap-2 text-sm sm:text-base"
+            >
+              <Bell className="w-4 h-4 sm:w-5 sm:h-5" />
+              <span className="hidden sm:inline">Password Requests</span>
+              <span className="sm:hidden">Requests</span>
+              {unreadCount > 0 && (
+                <span className="absolute -top-2 -right-2 bg-red-600 text-white text-xs font-bold rounded-full w-6 h-6 flex items-center justify-center animate-pulse">
+                  {unreadCount}
+                </span>
+              )}
+            </button>
+            <button
+              disabled={refreshing}
+              onClick={loadAll}
+              className="px-3 sm:px-4 py-2 bg-gray-100 rounded-xl hover:bg-gray-200 transition-all disabled:opacity-50 font-medium text-gray-700 shadow-sm hover:shadow-md text-sm sm:text-base"
+            >
+              {refreshing ? 'Refreshing...' : 'Refresh Data'}
+            </button>
+          </div>
+        </div>
 
           {error && <div className="mb-4 text-red-600 bg-red-50 border border-red-200 px-4 py-3 rounded-xl text-sm">{error}</div>}
 
@@ -510,50 +511,51 @@ const Admin = () => {
               return (
                 <motion.div key={u.id} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="bg-white rounded-2xl shadow-lg border border-gray-100 p-6">
                   {/* User Header */}
-                  <div className="flex items-center justify-between mb-6 pb-6 border-b border-gray-200">
-                    <div>
+                  <div className="flex flex-col lg:flex-row lg:items-center justify-between mb-6 pb-6 border-b border-gray-200 gap-4">
+                    <div className="flex-1 min-w-0">
                       <div className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-1">User</div>
-                      <div className="font-semibold text-gray-900 text-lg">{name}</div>
-                      <div className="text-sm text-gray-600 mt-1">{email}</div>
-                      <div className="text-xs font-mono text-gray-400 mt-1">{u.id}</div>
+                      <div className="font-semibold text-gray-900 text-base sm:text-lg truncate">{name}</div>
+                      <div className="text-sm text-gray-600 mt-1 truncate">{email}</div>
+                      <div className="text-xs font-mono text-gray-400 mt-1 truncate">{u.id}</div>
                     </div>
-                    <div className="flex gap-2">
+                    <div className="flex flex-wrap gap-2">
                       <button 
                         disabled={refreshing} 
                         onClick={() => resetUserToday(u.id)} 
-                        className="px-4 py-2 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg"
+                        className="px-3 sm:px-4 py-2 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-all disabled:opacity-50 text-xs sm:text-sm font-medium shadow-md hover:shadow-lg whitespace-nowrap"
                       >
                         Reset Today
                       </button>
                       <button 
                         disabled={refreshing} 
                         onClick={() => clearUserData(u.id)} 
-                        className="px-4 py-2 bg-orange-600 text-white rounded-xl hover:bg-orange-700 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg"
+                        className="px-3 sm:px-4 py-2 bg-orange-600 text-white rounded-xl hover:bg-orange-700 transition-all disabled:opacity-50 text-xs sm:text-sm font-medium shadow-md hover:shadow-lg whitespace-nowrap"
                       >
                         Clear Data
                       </button>
                       <button 
                         disabled={refreshing} 
                         onClick={() => deleteUser(u.id, email)} 
-                        className="px-4 py-2 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg flex items-center gap-2"
+                        className="px-3 sm:px-4 py-2 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all disabled:opacity-50 text-xs sm:text-sm font-medium shadow-md hover:shadow-lg flex items-center gap-1 sm:gap-2 whitespace-nowrap"
                       >
-                        <Trash2 className="w-4 h-4" />
-                        Delete User
+                        <Trash2 className="w-3 h-3 sm:w-4 sm:h-4" />
+                        <span className="hidden sm:inline">Delete User</span>
+                        <span className="sm:hidden">Delete</span>
                       </button>
                     </div>
                   </div>
 
                   {/* Activity History Table */}
-                  <div className="overflow-x-auto">
+                  <div className="overflow-x-auto -mx-6 sm:mx-0">
                     {u.dates && u.dates.length > 0 ? (
-                      <table className="w-full text-sm">
+                      <table className="w-full text-xs sm:text-sm min-w-[600px]">
                         <thead>
                           <tr className="border-b-2 border-gray-300">
-                            <th className="text-left py-3 px-4 font-semibold text-gray-700">Date</th>
-                            <th className="text-center py-3 px-4 font-semibold text-gray-700">Daily 1</th>
-                            <th className="text-center py-3 px-4 font-semibold text-gray-700">Daily 2</th>
-                            <th className="text-center py-3 px-4 font-semibold text-gray-700">Daily 3</th>
-                            <th className="text-center py-3 px-4 font-semibold text-gray-700">Daily 4</th>
+                            <th className="text-left py-2 sm:py-3 px-2 sm:px-4 font-semibold text-gray-700">Date</th>
+                            <th className="text-center py-2 sm:py-3 px-2 sm:px-4 font-semibold text-gray-700">Daily 1</th>
+                            <th className="text-center py-2 sm:py-3 px-2 sm:px-4 font-semibold text-gray-700">Daily 2</th>
+                            <th className="text-center py-2 sm:py-3 px-2 sm:px-4 font-semibold text-gray-700">Daily 3</th>
+                            <th className="text-center py-2 sm:py-3 px-2 sm:px-4 font-semibold text-gray-700">Daily 4</th>
                           </tr>
                         </thead>
                         <tbody className="divide-y divide-gray-200">
@@ -564,12 +566,12 @@ const Admin = () => {
                             
                             return (
                               <tr key={dateGroup.dateKey} className="hover:bg-gray-50 transition-colors">
-                                <td className="py-4 px-4">
-                                  <div className="font-medium text-gray-900">{formatDate(dateGroup.dateKey)}</div>
-                                  <div className="text-xs text-gray-500 mt-1">{dateGroup.dateKey}</div>
+                                <td className="py-3 sm:py-4 px-2 sm:px-4">
+                                  <div className="font-medium text-gray-900 text-xs sm:text-sm">{formatDate(dateGroup.dateKey)}</div>
+                                  <div className="text-xs text-gray-500 mt-1 hidden sm:block">{dateGroup.dateKey}</div>
                                 </td>
                                 {tasks.map((taskData, idx) => (
-                                  <td key={idx} className="py-4 px-4 text-center">
+                                  <td key={idx} className="py-3 sm:py-4 px-2 sm:px-4 text-center">
                                     <div className="inline-flex flex-col items-center space-y-1">
                                       <div className="text-xs text-gray-600">({taskData.attempts}/2)</div>
                                       <div className="flex items-center gap-2">
@@ -630,7 +632,7 @@ const Admin = () => {
             >
               {/* Modal Header */}
               <div className="flex items-center justify-between p-6 border-b border-gray-200 bg-yellow-50">
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
                   <Bell className="w-6 h-6 text-yellow-600" />
                   <h2 className="text-2xl font-bold text-gray-900">Password Reset Requests</h2>
                   {passwordResetRequests.length > 0 && (
