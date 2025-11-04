@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Bell, X } from 'lucide-react';
+import { Bell, X, Trash2 } from 'lucide-react';
 import { db } from '../firebase/config';
 import { collection, doc, getDoc, getDocs, setDoc, onSnapshot, deleteDoc, query, where, updateDoc } from 'firebase/firestore';
 
@@ -232,6 +232,44 @@ const Admin = () => {
     } catch (e) {
       console.error('Error clearing data:', e);
       setError(`Failed to clear data: ${e?.message || e}`);
+    } finally {
+      setRefreshing(false);
+    }
+  };
+
+  const deleteUser = async (userId, userEmail) => {
+    if (!window.confirm(`⚠️ DELETE USER PERMANENTLY?\n\nEmail: ${userEmail}\nUser ID: ${userId}\n\nThis will:\n- Delete user document\n- Delete all activity data\n- Remove from admin dashboard\n\nThis action CANNOT be undone!\n\nType "DELETE" in the next prompt to confirm.`)) {
+      return;
+    }
+    
+    const confirmText = window.prompt('Type "DELETE" to confirm permanent deletion:');
+    if (confirmText !== 'DELETE') {
+      alert('Deletion cancelled. Confirmation text did not match.');
+      return;
+    }
+
+    try {
+      setRefreshing(true);
+      
+      // Delete all daily activities subcollection
+      const dailySnap = await getDocs(collection(db, 'users', userId, 'dailyActivities'));
+      const deleteOps = [];
+      dailySnap.forEach((d) => {
+        deleteOps.push(deleteDoc(doc(db, 'users', userId, 'dailyActivities', d.id)));
+      });
+      await Promise.all(deleteOps);
+      
+      // Delete user document
+      await deleteDoc(doc(db, 'users', userId));
+      
+      // Remove from local state
+      setUsers(prevUsers => prevUsers.filter(u => u.id !== userId));
+      
+      alert(`User ${userEmail} has been permanently deleted.`);
+    } catch (e) {
+      console.error('Error deleting user:', e);
+      setError(`Failed to delete user: ${e?.message || e}`);
+      alert(`Error: ${e?.message || 'Failed to delete user'}`);
     } finally {
       setRefreshing(false);
     }
@@ -490,9 +528,17 @@ const Admin = () => {
                       <button 
                         disabled={refreshing} 
                         onClick={() => clearUserData(u.id)} 
-                        className="px-4 py-2 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg"
+                        className="px-4 py-2 bg-orange-600 text-white rounded-xl hover:bg-orange-700 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg"
                       >
                         Clear Data
+                      </button>
+                      <button 
+                        disabled={refreshing} 
+                        onClick={() => deleteUser(u.id, email)} 
+                        className="px-4 py-2 bg-red-600 text-white rounded-xl hover:bg-red-700 transition-all disabled:opacity-50 text-sm font-medium shadow-md hover:shadow-lg flex items-center gap-2"
+                      >
+                        <Trash2 className="w-4 h-4" />
+                        Delete User
                       </button>
                     </div>
                   </div>
