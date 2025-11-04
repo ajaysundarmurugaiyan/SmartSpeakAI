@@ -108,15 +108,32 @@ const QuizPage = () => {
           // If a retest was locked from the activities page and not yet seeded, generate a new set now
           if (Boolean(data.retestInProgress) && !Boolean(data.retestSeeded)) {
             let generated;
+            
+            console.log('Generating retest quiz for activity:', activityId);
+            
             if (activityId === 'daily-1') {
+              console.log('Calling OpenAI Grammar Quiz API for retest...');
               generated = await openAIService.generateGrammarQuiz();
             } else if (activityId === 'daily-2') {
+              console.log('Calling OpenAI Vocabulary Quiz API for retest...');
               generated = await openAIService.generateVocabularyQuiz();
             } else if (activityId === 'daily-3') {
+              console.log('Calling OpenAI Reading Comprehension Quiz API for retest...');
               generated = await openAIService.generateReadingComprehensionQuiz();
             } else if (activityId === 'daily-4') {
+              console.log('Calling OpenAI Idioms Quiz API for retest...');
               generated = await openAIService.generateIdiomsQuiz();
+            } else {
+              // Fallback
+              console.log('Unknown activity ID, using grammar quiz as fallback for retest');
+              generated = await openAIService.generateGrammarQuiz();
             }
+            
+            if (!generated || !Array.isArray(generated) || generated.length === 0) {
+              throw new Error('Failed to generate retest quiz questions. Please try again.');
+            }
+            
+            console.log('Retest quiz generated successfully:', generated.length, 'questions');
             
             await setDoc(quizRef, {
               questions: generated,
@@ -138,17 +155,34 @@ const QuizPage = () => {
             return;
           }
         } else {
-          // Generate quiz based on activity type
+          // Generate quiz based on activity type using OpenAI
           let generated;
+          
+          console.log('Generating quiz for activity:', activityId);
+          
           if (activityId === 'daily-1') {
+            console.log('Calling OpenAI Grammar Quiz API...');
             generated = await openAIService.generateGrammarQuiz();
           } else if (activityId === 'daily-2') {
+            console.log('Calling OpenAI Vocabulary Quiz API...');
             generated = await openAIService.generateVocabularyQuiz();
           } else if (activityId === 'daily-3') {
+            console.log('Calling OpenAI Reading Comprehension Quiz API...');
             generated = await openAIService.generateReadingComprehensionQuiz();
           } else if (activityId === 'daily-4') {
+            console.log('Calling OpenAI Idioms Quiz API...');
             generated = await openAIService.generateIdiomsQuiz();
+          } else {
+            // Fallback for any other activity ID
+            console.log('Unknown activity ID, using grammar quiz as fallback');
+            generated = await openAIService.generateGrammarQuiz();
           }
+          
+          if (!generated || !Array.isArray(generated) || generated.length === 0) {
+            throw new Error('Failed to generate quiz questions. Please try again.');
+          }
+          
+          console.log('Quiz generated successfully:', generated.length, 'questions');
           
           await setDoc(quizRef, {
             activityId,
@@ -516,5 +550,3 @@ const QuizPage = () => {
 };
 
 export default QuizPage;
-
-
