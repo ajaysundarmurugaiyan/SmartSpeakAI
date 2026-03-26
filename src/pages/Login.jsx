@@ -3,8 +3,9 @@ import { useNavigate, Link, useLocation } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 import { motion } from 'framer-motion';
 import { Mail, Lock, Chrome, Mic, AlertCircle } from 'lucide-react';
-import { db } from '../firebase/config';
-import { collection, addDoc, serverTimestamp, query, where, getDocs } from 'firebase/firestore';
+import { auth, db } from '../firebase/config';
+import { sendPasswordResetEmail } from 'firebase/auth';
+import { addDoc, collection, serverTimestamp } from 'firebase/firestore';
 
 const Login = () => {
   const [email, setEmail] = useState('');
@@ -61,7 +62,8 @@ const Login = () => {
   };
 
   const handleForgotPassword = async () => {
-    if (!resetEmail) {
+    const normalizedEmail = resetEmail.trim().toLowerCase();
+    if (!normalizedEmail) {
       setResetMessage('Please enter your email address');
       return;
     }
@@ -70,26 +72,26 @@ const Login = () => {
       setLoading(true);
       setResetMessage('');
 
-      // Check if user exists in users collection
-      const usersRef = collection(db, 'users');
-      const q = query(usersRef, where('email', '==', resetEmail.toLowerCase()));
-      const querySnapshot = await getDocs(q);
-
-      if (querySnapshot.empty) {
-        setResetMessage('No account found with this email address');
-        setLoading(false);
-        return;
-      }
-
-      // Create password reset request for admin
-      await addDoc(collection(db, 'passwordResetRequests'), {
-        email: resetEmail.toLowerCase(),
-        requestedAt: serverTimestamp(),
-        status: 'pending',
-        approved: false
+      await sendPasswordResetEmail(auth, normalizedEmail, {
+        url: `${window.location.origin}/login`,
+        handleCodeInApp: false
       });
 
-      setResetMessage('Password reset request sent to admin. You will be notified once approved.');
+      // Best-effort tracking for admin dashboard/history.
+      // Do not store plaintext passwords in Firestore.
+      try {
+        await addDoc(collection(db, 'passwordResetRequests'), {
+          email: normalizedEmail,
+          requestedAt: serverTimestamp(),
+          status: 'reset_email_sent',
+          approved: false,
+          source: 'login_forgot_password'
+        });
+      } catch (trackingErr) {
+        console.warn('Password reset tracking write failed:', trackingErr);
+      }
+
+      setResetMessage('Password reset link sent. Please check your email inbox/spam folder.');
       setTimeout(() => {
         setShowForgotPassword(false);
         setResetEmail('');
@@ -97,7 +99,15 @@ const Login = () => {
       }, 3000);
     } catch (err) {
       console.error('Error requesting password reset:', err);
-      setResetMessage('Failed to send reset request. Please try again.');
+      if (err?.code === 'auth/invalid-email') {
+        setResetMessage('Invalid email address format.');
+      } else if (err?.code === 'auth/too-many-requests') {
+        setResetMessage('Too many reset attempts. Please try again later.');
+      } else if (err?.code === 'auth/user-not-found') {
+        setResetMessage('No account found with this email address.');
+      } else {
+        setResetMessage('Failed to send reset link. Please try again.');
+      }
     } finally {
       setLoading(false);
     }
@@ -239,7 +249,7 @@ const Login = () => {
               Forgot Password?
             </h3>
             <p className="text-gray-600 text-center mb-6 text-sm">
-              Enter your email and we'll send a request to the admin for password reset approval.
+              Enter your email and we will send a password reset link.
             </p>
 
             {resetMessage && (
@@ -284,7 +294,7 @@ const Login = () => {
                 disabled={loading}
                 className="flex-1 px-4 py-3 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-colors font-medium disabled:opacity-50"
               >
-                {loading ? 'Sending...' : 'Send Request'}
+                {loading ? 'Sending...' : 'Send Reset Link'}
               </button>
             </div>
           </motion.div>
