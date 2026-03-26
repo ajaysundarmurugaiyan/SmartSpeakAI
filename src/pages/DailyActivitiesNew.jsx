@@ -19,6 +19,11 @@ const DailyActivities = () => {
   const [streak, setStreak] = useState(0);
   const [userStats, setUserStats] = useState(null);
   const [quizScores, setQuizScores] = useState({});
+  const [firestoreBlocked, setFirestoreBlocked] = useState(false);
+
+  const isPermissionError = (err) =>
+    err?.code === 'permission-denied'
+    || String(err?.message || '').toLowerCase().includes('missing or insufficient permissions');
 
   // Midnight refresh - reset activities at 12:00 AM
   useEffect(() => {
@@ -73,6 +78,7 @@ const DailyActivities = () => {
     if (!currentUser) return;
 
     try {
+      setFirestoreBlocked(false);
       // Load user stats
       const stats = await activityTracker.getUserStats(currentUser.uid);
       setUserStats(stats);
@@ -125,6 +131,17 @@ const DailyActivities = () => {
       setActivities(updated);
     } catch (error) {
       console.error('Error loading user data:', error);
+      if (isPermissionError(error)) {
+        setFirestoreBlocked(true);
+        // Fall back to local/default activity state so the page remains usable.
+        setActivities(dailyTasks.map(a => ({
+          ...a,
+          completed: false,
+          attemptCount: 0,
+          progress: 0,
+          attemptScores: []
+        })));
+      }
     }
   };
 
@@ -133,13 +150,6 @@ const DailyActivities = () => {
       // Enforce lockout on second attempt
       if (activity.attemptCount >= 2) {
         return;
-      }
-      // If one attempt already used, lock retake (attempt 2) before navigating
-      if ((activity.attemptCount || 0) === 1) {
-        const dateKey = getDateKey();
-        const ref = doc(db, 'users', currentUser.uid, 'dailyActivities', `${dateKey}_${activity.id}`);
-        setDoc(ref, { attemptCount: 2, completed: false, retestInProgress: true, retestSeeded: false, retestStartedAt: serverTimestamp() }, { merge: true });
-        setActivities(prev => prev.map(a => a.id === activity.id ? { ...a, attemptCount: 2, completed: false, progress: 50 } : a));
       }
       // Navigate to dedicated quiz page
       navigate(`/activity/${activity.id}`);
@@ -193,6 +203,11 @@ const DailyActivities = () => {
               Daily Activities
             </h1>
             <p className="text-gray-500 text-sm">Complete your daily tasks to improve your English</p>
+            {firestoreBlocked && (
+              <p className="text-amber-600 text-xs mt-2">
+                Firestore permissions are blocking progress sync. Activities run in local mode until rules are fixed.
+              </p>
+            )}
           </motion.div>
 
           {/* Stats Cards */}
