@@ -120,7 +120,6 @@ const UpdatePassword = () => {
       await updateDoc(doc(db, 'passwordResetRequests', requestDocId), {
         status: 'password_reset_sent',
         passwordResetSentAt: new Date(),
-        newPasswordToSet: newPassword,
         message: 'Password reset email sent. Check your email to complete the process.'
       });
 
