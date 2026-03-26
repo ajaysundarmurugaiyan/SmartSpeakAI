@@ -2,8 +2,24 @@
 // NOTE: For production, proxy this call through your backend to keep the API key private.
 
 const OPENAI_API_KEY = import.meta.env.VITE_OPENAI_API_KEY;
-const OPENAI_API_URL = 'https://api.openai.com/v1/chat/completions';
-const DEFAULT_MODEL = import.meta.env.VITE_OPENAI_MODEL || 'gpt-4o-mini';
+const IS_GROQ_KEY = typeof OPENAI_API_KEY === 'string' && OPENAI_API_KEY.startsWith('gsk_');
+const OPENAI_API_URL = import.meta.env.VITE_OPENAI_API_URL
+  || (IS_GROQ_KEY
+    ? 'https://api.groq.com/openai/v1/chat/completions'
+    : 'https://api.openai.com/v1/chat/completions');
+const DEFAULT_MODEL = import.meta.env.VITE_OPENAI_MODEL
+  || (IS_GROQ_KEY ? 'llama-3.1-8b-instant' : 'gpt-4o-mini');
+
+function getDifficultyInstruction(level = 'Beginner') {
+  const normalized = String(level || 'Beginner').toLowerCase();
+  if (normalized.includes('advanced')) {
+    return 'Difficulty: Advanced. Use nuanced vocabulary and harder distractors.';
+  }
+  if (normalized.includes('intermediate')) {
+    return 'Difficulty: Intermediate. Use common-to-mid vocabulary and moderate grammar complexity.';
+  }
+  return 'Difficulty: Beginner. Use simple words, short sentences, and very clear answer options.';
+}
 
 function buildSystemPrompt(mode = 'conversation') {
   return [
@@ -12,6 +28,131 @@ function buildSystemPrompt(mode = 'conversation') {
     'Style: concise, human-like, supportive; avoid long paragraphs; ask short follow-ups.',
     mode === 'voice' ? 'Optimize for being read aloud: short sentences, clear phrasing.' : '',
   ].filter(Boolean).join(' ');
+}
+
+function extractQuizArrayFromParsedJSON(parsed) {
+  if (Array.isArray(parsed)) return parsed;
+  if (!parsed || typeof parsed !== 'object') return null;
+
+  const directKeys = ['questions', 'quiz', 'quizzes', 'items', 'data', 'result'];
+  for (const key of directKeys) {
+    if (Array.isArray(parsed[key])) return parsed[key];
+  }
+
+  // Handle shape like { passage: "...", questions: [{...}] }
+  if (parsed.passage && Array.isArray(parsed.questions)) {
+    return parsed.questions.map((q) => ({ passage: parsed.passage, ...q }));
+  }
+
+  return null;
+}
+
+function extractBalancedJSONArrayCandidates(input) {
+  const candidates = [];
+  let inString = false;
+  let quote = '';
+  let escape = false;
+  let depth = 0;
+  let start = -1;
+
+  for (let i = 0; i < input.length; i += 1) {
+    const ch = input[i];
+
+    if (escape) {
+      escape = false;
+      continue;
+    }
+
+    if (inString) {
+      if (ch === '\\') {
+        escape = true;
+      } else if (ch === quote) {
+        inString = false;
+        quote = '';
+      }
+      continue;
+    }
+
+    if (ch === '"' || ch === "'") {
+      inString = true;
+      quote = ch;
+      continue;
+    }
+
+    if (ch === '[') {
+      if (depth === 0) start = i;
+      depth += 1;
+      continue;
+    }
+
+    if (ch === ']') {
+      if (depth > 0) depth -= 1;
+      if (depth === 0 && start >= 0) {
+        candidates.push(input.slice(start, i + 1));
+        start = -1;
+      }
+    }
+  }
+
+  return candidates;
+}
+
+function parseJSONArrayFromModelContent(content) {
+  const cleaned = String(content || '')
+    .trim()
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/```$/i, '')
+    .trim();
+
+  // First: try parsing entire payload as JSON.
+  try {
+    const parsed = JSON.parse(cleaned);
+    const extracted = extractQuizArrayFromParsedJSON(parsed);
+    if (Array.isArray(extracted)) return extracted;
+  } catch (_) {
+    // Fallback below.
+  }
+
+  // Fallback: find balanced JSON arrays in text and choose a likely quiz array.
+  const candidates = extractBalancedJSONArrayCandidates(cleaned);
+  for (const candidate of candidates) {
+    try {
+      const parsed = JSON.parse(candidate);
+      if (!Array.isArray(parsed)) continue;
+      // Prefer arrays of objects (quiz questions), not arrays of strings (options).
+      const hasObject = parsed.some((item) => item && typeof item === 'object' && !Array.isArray(item));
+      if (hasObject) return parsed;
+    } catch (_) {
+      // Try next candidate.
+    }
+  }
+
+  // Last fallback: return first parseable array candidate.
+  for (const candidate of candidates) {
+    try {
+      const parsed = JSON.parse(candidate);
+      if (Array.isArray(parsed)) return parsed;
+    } catch (_) {
+      // Ignore and continue.
+    }
+  }
+
+  throw new Error('Invalid quiz response format: JSON array not found');
+}
+
+async function parseApiError(res, prefix = 'OpenAI error') {
+  let err;
+  try {
+    err = await res.json();
+  } catch (_) {
+    err = null;
+  }
+  const apiMsg = err?.error?.message || '';
+  const apiCode = err?.error?.code || '';
+  const e = new Error(apiMsg || `${prefix} ${res.status}`);
+  e.status = res.status;
+  e.code = apiCode;
+  throw e;
 }
 
 async function getAIResponse(userText, { mode = 'conversation', contextMessages = [] } = {}) {
@@ -38,20 +179,7 @@ async function getAIResponse(userText, { mode = 'conversation', contextMessages 
     }),
   });
 
-  if (!res.ok) {
-    let err;
-    try {
-      err = await res.json();
-    } catch (_) {
-      err = null;
-    }
-    const apiMsg = err?.error?.message || '';
-    const apiCode = err?.error?.code || '';
-    const e = new Error(apiMsg || `OpenAI error ${res.status}`);
-    e.status = res.status;
-    e.code = apiCode;
-    throw e;
-  }
+  if (!res.ok) await parseApiError(res, 'OpenAI error');
 
   const data = await res.json();
   const content = data?.choices?.[0]?.message?.content?.trim() || "";
@@ -59,13 +187,14 @@ async function getAIResponse(userText, { mode = 'conversation', contextMessages 
 }
 
 // Generate Grammar Quiz
-async function generateGrammarQuiz() {
+async function generateGrammarQuiz(level = 'Beginner') {
   if (!OPENAI_API_KEY) {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
   const timestamp = Date.now();
-  const prompt = `Generate 10 UNIQUE English grammar multiple-choice questions. 
+  const prompt = `Generate 10 UNIQUE English grammar multiple-choice questions.
+  ${getDifficultyInstruction(level)}
   
   IMPORTANT: Create completely NEW and DIFFERENT questions each time. Avoid repeating common examples.
   Generation ID: ${timestamp}
@@ -100,32 +229,28 @@ async function generateGrammarQuiz() {
     }),
   });
 
-  if (!res.ok) throw new Error(`OpenAI error ${res.status}`);
+  if (!res.ok) await parseApiError(res, 'OpenAI error');
   
   const data = await res.json();
   const content = data?.choices?.[0]?.message?.content?.trim() || "";
   
-  // Extract JSON from response
-  const jsonMatch = content.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error('Invalid response format');
-  
-  return JSON.parse(jsonMatch[0]);
+  return parseJSONArrayFromModelContent(content);
 }
 
 // Generate Vocabulary Quiz
-async function generateVocabularyQuiz() {
+async function generateVocabularyQuiz(level = 'Beginner') {
   if (!OPENAI_API_KEY) {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
   const timestamp = Date.now();
   const prompt = `Generate 10 UNIQUE English vocabulary multiple-choice questions.
+  ${getDifficultyInstruction(level)}
   
   IMPORTANT: Create completely NEW and DIFFERENT vocabulary words each time. Avoid repeating common words.
   Generation ID: ${timestamp}
   
   Focus on: word meanings, synonyms, antonyms, word usage in context, collocations.
-  Use intermediate to advanced vocabulary words from diverse topics (business, science, arts, daily life).
   
   Return ONLY a valid JSON array with this exact structure:
   [
@@ -155,19 +280,16 @@ async function generateVocabularyQuiz() {
     }),
   });
 
-  if (!res.ok) throw new Error(`OpenAI error ${res.status}`);
+  if (!res.ok) await parseApiError(res, 'OpenAI error');
   
   const data = await res.json();
   const content = data?.choices?.[0]?.message?.content?.trim() || "";
   
-  const jsonMatch = content.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error('Invalid response format');
-  
-  return JSON.parse(jsonMatch[0]);
+  return parseJSONArrayFromModelContent(content);
 }
 
 // Generate Reading Comprehension Quiz
-async function generateReadingComprehensionQuiz() {
+async function generateReadingComprehensionQuiz(level = 'Beginner') {
   if (!OPENAI_API_KEY) {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
@@ -177,12 +299,13 @@ async function generateReadingComprehensionQuiz() {
   const randomTopic = topics[Math.floor(Math.random() * topics.length)];
   
   const prompt = `Generate a reading comprehension exercise with 1 UNIQUE passage and 10 questions.
+  ${getDifficultyInstruction(level)}
   
   IMPORTANT: Create a completely NEW and DIFFERENT passage each time. Avoid repeating topics or content.
   Generation ID: ${timestamp}
   Suggested topic area: ${randomTopic}
   
-  Create an interesting passage (200-300 words) on a fresh topic related to ${randomTopic} or similar areas.
+  Create an interesting passage (${String(level).toLowerCase().includes('beginner') ? '120-170' : '200-300'} words) on a fresh topic related to ${randomTopic} or similar areas.
   Then create 10 multiple-choice questions based on the passage.
   
   Return ONLY a valid JSON array with this exact structure:
@@ -215,25 +338,23 @@ async function generateReadingComprehensionQuiz() {
     }),
   });
 
-  if (!res.ok) throw new Error(`OpenAI error ${res.status}`);
+  if (!res.ok) await parseApiError(res, 'OpenAI error');
   
   const data = await res.json();
   const content = data?.choices?.[0]?.message?.content?.trim() || "";
   
-  const jsonMatch = content.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error('Invalid response format');
-  
-  return JSON.parse(jsonMatch[0]);
+  return parseJSONArrayFromModelContent(content);
 }
 
 // Generate Idioms and Phrases Quiz
-async function generateIdiomsQuiz() {
+async function generateIdiomsQuiz(level = 'Beginner') {
   if (!OPENAI_API_KEY) {
     throw new Error('Missing VITE_OPENAI_API_KEY');
   }
 
   const timestamp = Date.now();
   const prompt = `Generate 10 UNIQUE English idioms and phrases multiple-choice questions.
+  ${getDifficultyInstruction(level)}
   
   IMPORTANT: Create completely NEW and DIFFERENT idioms/phrases each time. Avoid repeating common examples like 'break the ice' or 'piece of cake'.
   Generation ID: ${timestamp}
@@ -269,15 +390,12 @@ async function generateIdiomsQuiz() {
     }),
   });
 
-  if (!res.ok) throw new Error(`OpenAI error ${res.status}`);
+  if (!res.ok) await parseApiError(res, 'OpenAI error');
   
   const data = await res.json();
   const content = data?.choices?.[0]?.message?.content?.trim() || "";
   
-  const jsonMatch = content.match(/\[[\s\S]*\]/);
-  if (!jsonMatch) throw new Error('Invalid response format');
-  
-  return JSON.parse(jsonMatch[0]);
+  return parseJSONArrayFromModelContent(content);
 }
 
 export default { 
