@@ -28,6 +28,90 @@ const QuizPage = () => {
   const [showExitWarning, setShowExitWarning] = useState(false);
 
   const [dateKey, setDateKey] = useState(getDateKey());
+  const [offlineMode, setOfflineMode] = useState(false);
+  const [userLevel, setUserLevel] = useState('Beginner');
+
+  const isPermissionError = (err) =>
+    err?.code === 'permission-denied'
+    || String(err?.message || '').toLowerCase().includes('missing or insufficient permissions');
+
+  const generateQuizForActivity = async () => {
+    if (activityId === 'daily-1') return openAIService.generateGrammarQuiz(userLevel);
+    if (activityId === 'daily-2') return openAIService.generateVocabularyQuiz(userLevel);
+    if (activityId === 'daily-3') return openAIService.generateReadingComprehensionQuiz(userLevel);
+    if (activityId === 'daily-4') return openAIService.generateIdiomsQuiz(userLevel);
+    return openAIService.generateGrammarQuiz(userLevel);
+  };
+
+  const normalizeQuestions = (items) => {
+    const extractOptions = (q) => {
+      if (Array.isArray(q?.options)) return q.options.filter(Boolean);
+      if (Array.isArray(q?.choices)) return q.choices.filter(Boolean);
+      if (Array.isArray(q?.answers)) return q.answers.filter(Boolean);
+
+      const optionFields = [
+        q?.optionA, q?.optionB, q?.optionC, q?.optionD,
+        q?.option1, q?.option2, q?.option3, q?.option4,
+        q?.A, q?.B, q?.C, q?.D
+      ].filter(Boolean);
+      if (optionFields.length > 0) return optionFields;
+
+      if (q?.options && typeof q.options === 'object') {
+        const objOptions = Object.values(q.options).filter(Boolean);
+        if (objOptions.length > 0) return objOptions;
+      }
+      return [];
+    };
+
+    const inferCorrectIndex = (q, options) => {
+      if (Number.isInteger(q?.correctIndex)) return q.correctIndex;
+      if (Number.isInteger(q?.answerIndex)) return q.answerIndex;
+
+      const fromNumberString = Number.parseInt(String(q?.correctIndex ?? q?.answerIndex ?? ''), 10);
+      if (Number.isInteger(fromNumberString)) return fromNumberString;
+
+      const correctRaw = q?.correctAnswer ?? q?.correctOption ?? q?.answer ?? '';
+      const correctText = String(correctRaw).trim();
+      if (!correctText) return 0;
+
+      const letterMap = { A: 0, B: 1, C: 2, D: 3 };
+      const upper = correctText.toUpperCase();
+      if (upper in letterMap) return letterMap[upper];
+
+      const textMatch = options.findIndex((o) => String(o).trim().toLowerCase() === correctText.toLowerCase());
+      return textMatch >= 0 ? textMatch : 0;
+    };
+
+    if (!Array.isArray(items)) return [];
+    return items
+      .map((q) => {
+        if (!q || typeof q !== 'object') return null;
+        const options = extractOptions(q).map((o) => String(o)).slice(0, 4);
+        if (!q.question || options.length < 2) return null;
+        const parsedCorrect = inferCorrectIndex(q, options);
+        const safeCorrect = parsedCorrect >= 0 && parsedCorrect < options.length ? parsedCorrect : 0;
+        return {
+          ...q,
+          question: String(q.question),
+          options,
+          correctIndex: safeCorrect
+        };
+      })
+      .filter(Boolean);
+  };
+
+  const getUsableQuestions = async (rawQuestions) => {
+    const normalizedExisting = normalizeQuestions(rawQuestions);
+    if (normalizedExisting.length > 0) return normalizedExisting;
+
+    // If existing quiz payload is malformed, regenerate once.
+    const regenerated = await generateQuizForActivity();
+    const normalizedRegenerated = normalizeQuestions(regenerated);
+    if (normalizedRegenerated.length === 0) {
+      throw new Error('Generated quiz had invalid question format');
+    }
+    return normalizedRegenerated;
+  };
 
   const activityTopic = useMemo(() => {
     // Support daily-1..4 IDs from dailyTasks
@@ -88,23 +172,36 @@ const QuizPage = () => {
 
   useEffect(() => {
     if (!currentUser) return;
+    const loadUserLevel = async () => {
+      try {
+        const userRef = doc(db, 'users', currentUser.uid);
+        const userSnap = await getDoc(userRef);
+        const level = userSnap.exists() ? (userSnap.data()?.level || 'Beginner') : 'Beginner';
+        setUserLevel(level);
+      } catch (_) {
+        setUserLevel('Beginner');
+      }
+    };
+    loadUserLevel();
+  }, [currentUser]);
+
+  useEffect(() => {
+    if (!currentUser) return;
     const loadOrCreateQuiz = async () => {
       setLoading(true);
       setError('');
       try {
+        setOfflineMode(false);
         const quizRef = doc(db, 'users', currentUser.uid, 'dailyActivities', `${dateKey}_${activityId}`);
         const snap = await getDoc(quizRef);
         if (snap.exists()) {
           const data = snap.data();
-          setQuestions(data.questions || []);
+          const usableQuestions = await getUsableQuestions(data.questions || []);
+          setQuestions(usableQuestions);
           let ac = data.attemptCount || 0;
           setCompleted(Boolean(data.completed));
           setRetestInProgress(Boolean(data.retestInProgress));
-          // If no attempts yet for today, mark first attempt as started so UI shows 1/2
-          if (ac === 0) {
-            await setDoc(quizRef, { attemptCount: 1, attemptStartedAt: serverTimestamp() }, { merge: true });
-            ac = 1;
-          }
+          // Do not consume attempt on load. Attempts are counted on completion.
           // If a retest was locked from the activities page and not yet seeded, generate a new set now
           if (Boolean(data.retestInProgress) && !Boolean(data.retestSeeded)) {
             let generated;
@@ -134,13 +231,17 @@ const QuizPage = () => {
             }
             
             console.log('Retest quiz generated successfully:', generated.length, 'questions');
+            const normalizedGenerated = normalizeQuestions(generated);
+            if (normalizedGenerated.length === 0) {
+              throw new Error('Retest quiz format invalid');
+            }
             
             await setDoc(quizRef, {
-              questions: generated,
+              questions: normalizedGenerated,
               retestSeeded: true,
               retestAt: serverTimestamp()
             }, { merge: true });
-            setQuestions(generated);
+            setQuestions(normalizedGenerated);
             setSelectedAnswers({});
             setShowResultPerQ({});
             setCurrentIndex(0);
@@ -149,11 +250,6 @@ const QuizPage = () => {
             setRetestInProgress(true);
           }
           setAttemptCount(ac);
-          // If limit reached and not in an active retest, block entry
-          if (ac >= 2 && !data.retestInProgress) {
-            navigate('/activities');
-            return;
-          }
         } else {
           // Generate quiz based on activity type using OpenAI
           let generated;
@@ -184,24 +280,55 @@ const QuizPage = () => {
           
           console.log('Quiz generated successfully:', generated.length, 'questions');
           
+          const normalizedGenerated = normalizeQuestions(generated);
+          if (normalizedGenerated.length === 0) {
+            throw new Error('Generated quiz had invalid question format');
+          }
+
           await setDoc(quizRef, {
             activityId,
             dateKey,
             topic: activityTopic,
-            questions: generated,
-            attemptCount: 1, // immediately count first attempt
+            questions: normalizedGenerated,
+            attemptCount: 0,
             attempts: [],
             completed: false,
             retestInProgress: false,
             createdAt: serverTimestamp()
           });
-          setQuestions(generated);
-          setAttemptCount(1);
+          setQuestions(normalizedGenerated);
+          setAttemptCount(0);
           setRetestInProgress(false);
         }
       } catch (e) {
         console.error('Error loading quiz:', e);
-        setError('Failed to load quiz. Please try again.');
+        const message = String(e?.message || '');
+        if (isPermissionError(e)) {
+          try {
+            const generated = await generateQuizForActivity();
+            const normalizedGenerated = normalizeQuestions(generated);
+            if (!generated || !Array.isArray(generated) || normalizedGenerated.length === 0) {
+              throw new Error('Could not generate quiz in offline mode');
+            }
+            setQuestions(normalizedGenerated);
+            setAttemptCount(0);
+            setRetestInProgress(false);
+            setOfflineMode(true);
+            setError('');
+          } catch (inner) {
+            setError(`Firestore is blocked and offline quiz generation failed: ${inner?.message || 'Unknown error'}`);
+          }
+        } else if (message.includes('Missing VITE_OPENAI_API_KEY')) {
+          setError('Quiz API key is missing. Please set VITE_OPENAI_API_KEY in .env.local and restart the app.');
+        } else if (e?.status === 401 || e?.status === 403) {
+          setError('Quiz API key is invalid or unauthorized. Please verify your key.');
+        } else if (e?.status === 429) {
+          setError('Quiz service is rate-limited right now. Please try again in a minute.');
+        } else if (message) {
+          setError(`Failed to load quiz: ${message}`);
+        } else {
+          setError('Failed to load quiz. Please try again.');
+        }
       } finally {
         setLoading(false);
       }
@@ -254,14 +381,15 @@ const QuizPage = () => {
 
     if (!currentUser) return;
     try {
+      if (offlineMode) return;
       const quizRef = doc(db, 'users', currentUser.uid, 'dailyActivities', `${dateKey}_${activityId}`);
       const snap = await getDoc(quizRef);
       const data = snap.exists() ? snap.data() : {};
       // Keep attemptCount as-is for first finish (already 1 from entry)
       // If retest was in progress, finalize as 2 attempts total
       const newAttemptCount = data.retestInProgress ? 2 : Math.max(1, data.attemptCount || 1);
-      const attempts = data.attempts || [];
-      attempts.push({ score: percent, completedAt: serverTimestamp() });
+      const attempts = Array.isArray(data.attempts) ? [...data.attempts] : [];
+      attempts.push({ score: percent, completedAt: new Date().toISOString() });
       // Explicit fields for admin display
       const nextFields = {};
       if (data.retestInProgress) {
@@ -307,6 +435,28 @@ const QuizPage = () => {
 
   const handleRetest = async () => {
     if (!currentUser) return;
+    if (offlineMode) {
+      setLoading(true);
+      setError('');
+      try {
+        const generated = await generateQuizForActivity();
+        const normalized = normalizeQuestions(generated);
+        if (normalized.length === 0) {
+          throw new Error('Generated quiz had invalid question format');
+        }
+        setQuestions(normalized);
+        setSelectedAnswers({});
+        setShowResultPerQ({});
+        setCurrentIndex(0);
+        setCompleted(false);
+        setScore(0);
+      } catch (e) {
+        setError(`Could not start retest: ${e?.message || 'Unknown error'}`);
+      } finally {
+        setLoading(false);
+      }
+      return;
+    }
     // Re-check server state to enforce limit strictly
     try {
       const quizRef = doc(db, 'users', currentUser.uid, 'dailyActivities', `${dateKey}_${activityId}`);
@@ -334,15 +484,17 @@ const QuizPage = () => {
     setError('');
     try {
       // Generate new, non-repeating questions by prompting for different variations
-      const usedQuestions = questions.map(q => q.question);
-      const isReading = (activityTopic || '').toLowerCase().includes('reading');
-      const generated = await geminiService.generateQuizQuestions(activityTopic, isReading ? 15 : 18, usedQuestions);
+      const generated = await generateQuizForActivity();
+      const normalized = normalizeQuestions(generated);
+      if (normalized.length === 0) {
+        throw new Error('Generated quiz had invalid question format');
+      }
       const quizRef = doc(db, 'users', currentUser.uid, 'dailyActivities', `${dateKey}_${activityId}`);
       await setDoc(quizRef, {
-        questions: generated,
+        questions: normalized,
         retestAt: serverTimestamp()
       }, { merge: true });
-      setQuestions(generated);
+      setQuestions(normalized);
       setSelectedAnswers({});
       setShowResultPerQ({});
       setCurrentIndex(0);
@@ -384,8 +536,25 @@ const QuizPage = () => {
   }
 
   const q = questions[currentIndex];
+  const safeOptions = Array.isArray(q?.options) ? q.options : [];
   const selected = selectedAnswers[currentIndex];
   const feedback = showResultPerQ[currentIndex];
+
+  if (!q || safeOptions.length === 0) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
+        <div className="max-w-md w-full bg-white rounded-2xl shadow-lg border border-gray-100 p-6 text-center">
+          <div className="text-red-600 mb-4">Quiz data format is invalid. Please regenerate the quiz.</div>
+          <button
+            onClick={() => navigate('/activities')}
+            className="px-6 py-2 bg-gray-900 text-white rounded-xl hover:bg-gray-800 transition-all font-medium"
+          >
+            Back to Activities
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
@@ -422,16 +591,19 @@ const QuizPage = () => {
           <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-4">{q.question}</h3>
             <div className="space-y-3">
-              {q.options.map((opt, idx) => {
+              {safeOptions.map((opt, idx) => {
                 const isSelected = selected === idx;
                 const isCorrect = q.correctIndex === idx;
                 const showState = isSelected && feedback;
+                const highlightCorrect = feedback === 'wrong' && isCorrect;
                 return (
                   <button
                     key={idx}
                     onClick={() => handleSelect(currentIndex, idx)}
                     className={`w-full text-left p-4 rounded-xl border-2 transition-all ${
-                      isSelected
+                      highlightCorrect
+                        ? 'border-green-500 bg-green-50'
+                        : isSelected
                         ? feedback === 'correct'
                           ? 'border-green-500 bg-green-50'
                           : 'border-red-500 bg-red-50'
@@ -445,11 +617,24 @@ const QuizPage = () => {
                           {feedback === 'correct' ? '✓ Correct' : '✗ Wrong'}
                         </span>
                       )}
+                      {!showState && highlightCorrect && (
+                        <span className="text-sm font-semibold text-green-600">✓ Correct answer</span>
+                      )}
                     </div>
                   </button>
                 );
               })}
             </div>
+            {feedback === 'wrong' && (
+              <div className="mt-3 p-3 rounded-lg bg-green-50 border border-green-200 text-sm text-green-800">
+                Correct answer: <span className="font-semibold">{safeOptions[q.correctIndex]}</span>
+              </div>
+            )}
+            {feedback === 'wrong' && q.explanation && (
+              <div className="mt-2 p-3 rounded-lg bg-amber-50 border border-amber-200 text-sm text-amber-800">
+                {q.explanation}
+              </div>
+            )}
           </div>
 
           {/* Navigation */}
