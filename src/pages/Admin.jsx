@@ -622,8 +622,19 @@ return (
                       onClick={() => setSelectedUserId(u.id)}
                       className="text-left bg-white rounded-2xl shadow-sm hover:shadow-md border border-gray-100 p-4 transition-all"
                     >
-                      <div className="font-semibold text-gray-900 truncate">{u.displayName || '—'}</div>
-                      <div className="text-xs text-gray-500 truncate">{u.email || '—'}</div>
+                      <div className="flex items-center gap-3">
+                        {u.photoURL ? (
+                          <img src={u.photoURL} alt="" referrerPolicy="no-referrer" className="w-10 h-10 rounded-full object-cover flex-shrink-0" />
+                        ) : (
+                          <div className="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center text-gray-500 font-semibold flex-shrink-0">
+                            {(u.displayName || u.email || '?').charAt(0).toUpperCase()}
+                          </div>
+                        )}
+                        <div className="min-w-0">
+                          <div className="font-semibold text-gray-900 truncate">{u.displayName || '—'}</div>
+                          <div className="text-xs text-gray-500 truncate">{u.email || '—'}</div>
+                        </div>
+                      </div>
                       <div className="flex flex-wrap gap-1.5 mt-3">
                         <span className={`px-2 py-0.5 rounded-md text-xs font-semibold ${p.cls}`}>{p.label}</span>
                         <span className="px-2 py-0.5 rounded-md text-xs font-medium bg-teal-50 text-teal-700">{u.dates ? u.dates.length : 0}d active</span>
@@ -672,6 +683,13 @@ return (
                 <motion.div key={u.id} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="bg-white rounded-2xl shadow-lg border border-gray-100 p-6">
                   {/* User Header */}
                   <div className="flex flex-col lg:flex-row lg:items-center justify-between mb-6 pb-6 border-b border-gray-200 gap-4">
+                    {u.photoURL ? (
+                      <img src={u.photoURL} alt="" referrerPolicy="no-referrer" className="w-16 h-16 rounded-full object-cover flex-shrink-0" />
+                    ) : (
+                      <div className="w-16 h-16 rounded-full bg-gray-200 flex items-center justify-center text-2xl text-gray-500 font-semibold flex-shrink-0">
+                        {(name || email || '?').charAt(0).toUpperCase()}
+                      </div>
+                    )}
                     <div className="flex-1 min-w-0">
                       <div className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-1">User</div>
                       <div className="font-semibold text-gray-900 text-base sm:text-lg truncate">{name}</div>
