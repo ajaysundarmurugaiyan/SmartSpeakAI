@@ -222,15 +222,18 @@ export const AuthProvider = ({ children }) => {
 
   // ---- Entitlements (derived) ----
   const now = Date.now();
-  const isPaidPremium = userProfile?.plan === 'premium';                       // admin/paid, no expiry
   const premiumUntil = typeof userProfile?.premiumUntil === 'number' ? userProfile.premiumUntil : 0;
-  const isBonusPremium = !isPaidPremium && premiumUntil > now;                 // temporary (referrals)
-  const isPremium = isPaidPremium || isBonusPremium;                           // "premium" in the UI
   const trialEndsAt = typeof userProfile?.trialEndsAt === 'number' ? userProfile.trialEndsAt : 0;
+  // premiumUntil === 0 (with plan 'premium') = UNLIMITED/lifetime; premiumUntil > 0 = active only UNTIL that date.
+  const isPaidPremium = userProfile?.plan === 'premium' && (premiumUntil === 0 || premiumUntil > now);
+  const isBonusPremium = userProfile?.plan !== 'premium' && premiumUntil > now; // referral bonus (timed)
+  const isPremium = isPaidPremium || isBonusPremium;                            // "premium" in the UI
   const isTrialActive = !isPremium && trialEndsAt > now;
-  const isPro = isPremium || isTrialActive;                                    // full, unlimited access
+  const isPro = isPremium || isTrialActive;                                     // full, unlimited access
   const daysLeftInTrial = isTrialActive ? Math.max(0, Math.ceil((trialEndsAt - now) / DAY_MS)) : 0;
   const bonusDaysLeft = isBonusPremium ? Math.max(0, Math.ceil((premiumUntil - now) / DAY_MS)) : 0;
+  // Days left on a TIMED premium (0 = unlimited / none)
+  const premiumDaysLeft = (isPremium && premiumUntil > now) ? Math.max(0, Math.ceil((premiumUntil - now) / DAY_MS)) : 0;
 
   // Referral data
   const referralCode = userProfile?.referralCode || currentUser?.uid || '';
@@ -293,7 +296,9 @@ export const AuthProvider = ({ children }) => {
   const devResetTrial = () => updateUserProfile({
     trialEndsAt: Date.now() + TRIAL_DAYS * DAY_MS, premiumUntil: 0, plan: 'free', dailyUsageCount: 0, dailyUsageDate: null,
   });
-  const devTogglePremium = () => updateUserProfile({ plan: isPaidPremium ? 'free' : 'premium' });
+  const devTogglePremium = () => updateUserProfile(
+    isPaidPremium ? { plan: 'free' } : { plan: 'premium', premiumUntil: 0, premiumSince: Date.now() }
+  );
   const devClearUsage = () => updateUserProfile({ dailyUsageCount: 0, dailyUsageDate: null });
   const devSimulateReferral = async () => {
     const count = userProfile?.referralCount || 0;
@@ -325,6 +330,7 @@ export const AuthProvider = ({ children }) => {
     isPro,
     daysLeftInTrial,
     bonusDaysLeft,
+    premiumDaysLeft,
     remainingToday,
     consumeConversation,
     updateUserProfile,

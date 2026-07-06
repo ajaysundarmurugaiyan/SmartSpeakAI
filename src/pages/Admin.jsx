@@ -18,9 +18,11 @@ const DAY_MS = 24 * 60 * 60 * 1000;
 // Derive a plan badge from the user's Firestore fields (plan / trial / bonus premium)
 const planInfo = (u) => {
   const now = Date.now();
-  if (u.plan === 'premium') return { label: 'Premium', cls: 'bg-amber-100 text-amber-700' };
-  if (typeof u.premiumUntil === 'number' && u.premiumUntil > now)
-    return { label: `Bonus Premium (${Math.ceil((u.premiumUntil - now) / DAY_MS)}d)`, cls: 'bg-amber-50 text-amber-700 border border-amber-200' };
+  const pu = typeof u.premiumUntil === 'number' ? u.premiumUntil : 0;
+  if (u.plan === 'premium' && (pu === 0 || pu > now))
+    return { label: pu > now ? `Premium (${Math.ceil((pu - now) / DAY_MS)}d)` : 'Premium', cls: 'bg-amber-100 text-amber-700' };
+  if (u.plan !== 'premium' && pu > now)
+    return { label: `Bonus Premium (${Math.ceil((pu - now) / DAY_MS)}d)`, cls: 'bg-amber-50 text-amber-700 border border-amber-200' };
   if (typeof u.trialEndsAt === 'number' && u.trialEndsAt > now)
     return { label: `Trial (${Math.ceil((u.trialEndsAt - now) / DAY_MS)}d)`, cls: 'bg-blue-50 text-blue-700 border border-blue-200' };
   return { label: 'Free', cls: 'bg-gray-100 text-gray-600' };
@@ -257,8 +259,10 @@ const Admin = () => {
   const setUserPlan = async (userId, plan) => {
     try {
       setRefreshing(true);
-      await updateDoc(doc(db, 'users', userId), { plan });
-      setUsers((prev) => prev.map((u) => (u.id === userId ? { ...u, plan } : u)));
+      // Granting premium = unlimited (premiumUntil 0); also record the start date.
+      const patch = plan === 'premium' ? { plan, premiumUntil: 0, premiumSince: Date.now() } : { plan };
+      await updateDoc(doc(db, 'users', userId), patch);
+      setUsers((prev) => prev.map((u) => (u.id === userId ? { ...u, ...patch } : u)));
     } catch (e) {
       console.error('Error updating plan:', e);
       setError(`Failed to update plan: ${e?.message || e}`);
