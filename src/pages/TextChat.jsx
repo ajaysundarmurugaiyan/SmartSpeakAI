@@ -136,7 +136,7 @@ const TextChat = () => {
           {/* Chat Container */}
           <div className="bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden">
             {/* Messages Area */}
-            <div className="h-[600px] overflow-y-auto p-6 space-y-4">
+            <div className="h-[60vh] min-h-[320px] overflow-y-auto p-4 sm:p-6 space-y-4">
               <AnimatePresence>
                 {messages.map((message, index) => (
                   <motion.div

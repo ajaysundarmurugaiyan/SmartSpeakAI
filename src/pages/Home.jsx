@@ -20,6 +20,7 @@ const Home = () => {
   const [error, setError] = useState('');
   const messagesEndRef = useRef(null);
   const recognitionRef = useRef(null);
+  const listeningRef = useRef(false);
   const synthRef = useRef(window.speechSynthesis);
 
   const scrollToBottom = () => {
@@ -39,7 +40,7 @@ const Home = () => {
     if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
       const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
       recognitionRef.current = new SpeechRecognition();
-      recognitionRef.current.continuous = false;
+      recognitionRef.current.continuous = true;
       recognitionRef.current.interimResults = true;
       recognitionRef.current.lang = 'en-US';
 
@@ -70,13 +71,21 @@ const Home = () => {
 
       recognitionRef.current.onerror = (event) => {
         console.error('Speech recognition error:', event.error);
+        // Ignore transient errors while the user still wants to listen
+        if (event.error === 'no-speech' || event.error === 'aborted') return;
         setError(`Error: ${event.error}`);
+        listeningRef.current = false;
         setIsRecording(false);
       };
 
       recognitionRef.current.onend = () => {
         console.log('🎤 Speech recognition ended');
-        setIsRecording(false);
+        // Mic stays ON until the user taps it again — restart on any auto-stop
+        if (listeningRef.current) {
+          try { recognitionRef.current.start(); } catch (e) { /* already starting */ }
+        } else {
+          setIsRecording(false);
+        }
       };
     } else {
       setError('Speech recognition not supported in this browser');
@@ -112,6 +121,7 @@ const Home = () => {
     }
 
     try {
+      listeningRef.current = true;
       setIsRecording(true);
       setCurrentTranscript('');
       setError('');
@@ -128,6 +138,7 @@ const Home = () => {
   };
 
   const stopRecording = () => {
+    listeningRef.current = false;
     if (recognitionRef.current) {
       recognitionRef.current.stop();
     }
@@ -258,7 +269,7 @@ const Home = () => {
           </motion.div>
 
           {/* Chat Messages */}
-          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-6 mb-6 min-h-[500px] max-h-[600px] overflow-y-auto">
+          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-4 sm:p-6 mb-6 min-h-[300px] h-[55vh] max-h-[600px] overflow-y-auto">
             {messages.length === 0 ? (
               <div className="flex items-center justify-center h-full text-gray-400">
                 <div className="text-center">
