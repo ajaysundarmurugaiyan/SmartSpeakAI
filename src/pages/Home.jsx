@@ -240,24 +240,24 @@ const Home = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="h-[100dvh] bg-gray-50 flex flex-col overflow-hidden">
       <Navbar />
       
       <UpgradeModal open={showUpgrade} onClose={() => setShowUpgrade(false)} />
 
-      <div className="pt-24 pb-8 px-4">
-        <div className="max-w-5xl mx-auto">
+      <div className="flex-1 flex flex-col min-h-0 pt-16 sm:pt-20 pb-3 px-3 sm:px-4">
+        <div className="max-w-3xl w-full mx-auto flex-1 flex flex-col min-h-0">
           <TrialBanner />
           {/* Header */}
           <motion.div
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="text-center mb-8"
+            className="text-center mb-3"
           >
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent mb-2">
+            <h1 className="text-xl sm:text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
               Voice Conversation Practice
             </h1>
-            <p className="text-gray-500 text-sm">
+            <p className="text-gray-500 text-xs hidden sm:block">
               Have a natural conversation with AI - Answer questions and share your thoughts!
             </p>
             {error && (
@@ -269,7 +269,7 @@ const Home = () => {
           </motion.div>
 
           {/* Chat Messages */}
-          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-4 sm:p-6 mb-6 min-h-[300px] h-[55vh] max-h-[600px] overflow-y-auto">
+          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-3 sm:p-4 mb-3 flex-1 min-h-0 overflow-y-auto">
             {messages.length === 0 ? (
               <div className="flex items-center justify-center h-full text-gray-400">
                 <div className="text-center">
@@ -411,7 +411,7 @@ const Home = () => {
             </motion.button>
           </div>
 
-          <p className="text-center mt-4 text-gray-600 font-medium">
+          <p className="text-center mt-3 text-gray-600 text-sm font-medium">
             {isRecording ? '🎤 Listening... Click to stop' : 
              isProcessing ? '⏳ Processing your speech...' :
              isSpeaking ? '🔊 AI is speaking...' :

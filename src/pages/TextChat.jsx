@@ -104,25 +104,25 @@ const TextChat = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="h-[100dvh] bg-gray-50 flex flex-col overflow-hidden">
       <Navbar />
 
       <UpgradeModal open={showUpgrade} onClose={() => setShowUpgrade(false)} />
 
-      <div className="pt-24 pb-8 px-4">
-        <div className="max-w-5xl mx-auto">
+      <div className="flex-1 flex flex-col min-h-0 pt-16 sm:pt-20 pb-3 px-3 sm:px-4">
+        <div className="max-w-3xl w-full mx-auto flex-1 flex flex-col min-h-0">
           <TrialBanner />
           {/* Header */}
           <motion.div
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="flex justify-between items-center mb-6"
+            className="flex justify-between items-center mb-3"
           >
             <div>
-              <h1 className="text-4xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent mb-2">
+              <h1 className="text-xl sm:text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
                 Text Conversation
               </h1>
-              <p className="text-gray-500 text-sm">Practice writing and get instant feedback</p>
+              <p className="text-gray-500 text-xs hidden sm:block">Practice writing and get instant feedback</p>
             </div>
             <button
               onClick={handleClearChat}
@@ -134,9 +134,9 @@ const TextChat = () => {
           </motion.div>
 
           {/* Chat Container */}
-          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden">
+          <div className="bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden flex-1 flex flex-col min-h-0">
             {/* Messages Area */}
-            <div className="h-[60vh] min-h-[320px] overflow-y-auto p-4 sm:p-6 space-y-4">
+            <div className="flex-1 min-h-0 overflow-y-auto p-3 sm:p-4 space-y-3">
               <AnimatePresence>
                 {messages.map((message, index) => (
                   <motion.div
