@@ -4,30 +4,14 @@ import { Check, Crown, Sparkles } from 'lucide-react';
 import Navbar from '../components/Navbar';
 import { useAuth } from '../contexts/AuthContext';
 import { FREE_FEATURES, PREMIUM_FEATURES, PREMIUM_PRICE_INR } from '../config/plan';
-import { startPremiumCheckout } from '../services/payment';
 
 const Pricing = () => {
-  const { currentUser, isPremium, isTrialActive, daysLeftInTrial } = useAuth();
+  const { isPremium, isTrialActive, daysLeftInTrial } = useAuth();
   const [notice, setNotice] = useState('');
-  const [processing, setProcessing] = useState(false);
 
-  // Opens Razorpay checkout. Premium is granted server-side after the
-  // /api/verify-payment function verifies the signature — never from here.
+  // Payment integration is added in a later step. For now this just informs.
   const handleUpgrade = () => {
-    setNotice('');
-    setProcessing(true);
-    startPremiumCheckout({
-      user: currentUser,
-      onSuccess: () => {
-        setProcessing(false);
-        setNotice('🎉 Payment successful — welcome to Premium!');
-      },
-      onError: (e) => {
-        setProcessing(false);
-        const msg = e?.message || 'Something went wrong.';
-        if (!/cancel/i.test(msg)) setNotice(`⚠️ ${msg}`);
-      },
-    });
+    setNotice('💳 Payments are coming soon! Enjoy your free trial in the meantime.');
   };
 
   const subtitle = isPremium
@@ -104,18 +88,14 @@ const Pricing = () => {
               </ul>
               <button
                 onClick={handleUpgrade}
-                disabled={isPremium || processing}
+                disabled={isPremium}
                 className="w-full mt-8 bg-gray-900 text-white py-3 rounded-xl font-medium hover:bg-gray-800 transition-all disabled:opacity-50 flex items-center justify-center gap-2"
               >
-                {isPremium
-                  ? 'You are Premium ✨'
-                  : processing
-                    ? 'Opening payment…'
-                    : (<><Crown className="w-5 h-5" /> Upgrade to Premium</>)}
+                {isPremium ? 'You are Premium ✨' : (<><Crown className="w-5 h-5" /> Upgrade to Premium</>)}
               </button>
               {!isPremium && (
                 <p className="text-center text-xs text-gray-400 mt-3">
-                  Secure UPI / card payment via Razorpay
+                  Secure payment coming soon
                 </p>
               )}
             </motion.div>

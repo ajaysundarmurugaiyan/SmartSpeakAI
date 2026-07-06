@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Bell, X, Trash2 } from 'lucide-react';
+import { Bell, X, Trash2, ArrowLeft, ChevronLeft, ChevronRight, Search } from 'lucide-react';
 import { db } from '../firebase/config';
 import { collection, doc, getDoc, getDocs, setDoc, onSnapshot, deleteDoc, query, where, updateDoc } from 'firebase/firestore';
 import UserActivityTree from '../components/UserActivityTree';
@@ -98,6 +98,9 @@ const Admin = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [users, setUsers] = useState([]);
+  const [selectedUserId, setSelectedUserId] = useState(null);
+  const [page, setPage] = useState(0);
+  const [search, setSearch] = useState('');
   const [refreshing, setRefreshing] = useState(false);
   const [liveUnsubs, setLiveUnsubs] = useState([]);
   const [passInput, setPassInput] = useState('');
@@ -467,6 +470,15 @@ const Admin = () => {
     );
   }
 
+  const PER_PAGE = 9;
+  const q = search.trim().toLowerCase();
+  const filteredUsers = q
+    ? users.filter((u) => (u.displayName || '').toLowerCase().includes(q) || (u.email || '').toLowerCase().includes(q))
+    : users;
+  const totalPages = Math.max(1, Math.ceil(filteredUsers.length / PER_PAGE));
+  const currentPage = Math.min(page, totalPages - 1);
+  const pageUsers = filteredUsers.slice(currentPage * PER_PAGE, currentPage * PER_PAGE + PER_PAGE);
+
 return (
   <div className="min-h-screen bg-gray-50">
     <div className="pt-16 pb-8 px-4">
@@ -581,8 +593,75 @@ return (
             </div>
           )}
 
-          <div className="grid grid-cols-1 gap-6">
-            {users.map((u) => {
+          {!selectedUserId ? (
+            /* ---- COMPACT USER GRID (paginated; click a card for the full view) ---- */
+            <div className="pb-24">
+              <div className="mb-4 relative max-w-md">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
+                <input
+                  type="text"
+                  value={search}
+                  onChange={(e) => { setSearch(e.target.value); setPage(0); }}
+                  placeholder="Search users by name or email…"
+                  className="w-full pl-9 pr-4 py-2.5 border border-gray-200 rounded-xl text-sm bg-white focus:ring-2 focus:ring-gray-900 focus:border-gray-900 outline-none"
+                />
+              </div>
+              {pageUsers.length === 0 && (
+                <div className="text-center text-gray-400 py-10">No users match "{search}".</div>
+              )}
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {pageUsers.map((u) => {
+                  const p = planInfo(u);
+                  return (
+                    <button
+                      key={u.id}
+                      onClick={() => setSelectedUserId(u.id)}
+                      className="text-left bg-white rounded-2xl shadow-sm hover:shadow-md border border-gray-100 p-4 transition-all"
+                    >
+                      <div className="font-semibold text-gray-900 truncate">{u.displayName || '—'}</div>
+                      <div className="text-xs text-gray-500 truncate">{u.email || '—'}</div>
+                      <div className="flex flex-wrap gap-1.5 mt-3">
+                        <span className={`px-2 py-0.5 rounded-md text-xs font-semibold ${p.cls}`}>{p.label}</span>
+                        <span className="px-2 py-0.5 rounded-md text-xs font-medium bg-teal-50 text-teal-700">{u.dates ? u.dates.length : 0}d active</span>
+                        <span className="px-2 py-0.5 rounded-md text-xs font-medium bg-gray-100 text-gray-600">🔥 {u.streak || 0}</span>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+
+              {totalPages > 1 && (
+                <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-40 flex items-center gap-4 bg-white/95 backdrop-blur border border-gray-200 shadow-lg rounded-full px-5 py-2.5">
+                  <button
+                    onClick={() => setPage((p) => Math.max(0, p - 1))}
+                    disabled={currentPage === 0}
+                    className="p-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    aria-label="Previous page"
+                  >
+                    <ChevronLeft className="w-5 h-5" />
+                  </button>
+                  <span className="text-sm font-medium text-gray-600">Page {currentPage + 1} of {totalPages}</span>
+                  <button
+                    onClick={() => setPage((p) => Math.min(totalPages - 1, p + 1))}
+                    disabled={currentPage >= totalPages - 1}
+                    className="p-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    aria-label="Next page"
+                  >
+                    <ChevronRight className="w-5 h-5" />
+                  </button>
+                </div>
+              )}
+            </div>
+          ) : (
+            /* ---- SINGLE USER DETAIL VIEW ---- */
+            <div>
+              <button
+                onClick={() => setSelectedUserId(null)}
+                className="mb-4 inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium transition-colors"
+              >
+                <ArrowLeft className="w-4 h-4" /> Back to all users
+              </button>
+            {users.filter((u) => u.id === selectedUserId).map((u) => {
               const name = u.displayName || '—';
               const email = u.email || '—';
               return (
@@ -627,6 +706,26 @@ return (
                         <span className="hidden sm:inline">Delete User</span>
                         <span className="sm:hidden">Delete</span>
                       </button>
+                    </div>
+                  </div>
+
+                  {/* User profile summary */}
+                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+                    <div className="bg-emerald-50 rounded-xl p-3 text-center">
+                      <div className="text-lg font-bold text-emerald-600">{u.level || 'Beginner'}</div>
+                      <div className="text-xs text-gray-500">Level</div>
+                    </div>
+                    <div className="bg-orange-50 rounded-xl p-3 text-center">
+                      <div className="text-lg font-bold text-orange-600">{u.streak || 0}</div>
+                      <div className="text-xs text-gray-500">Day streak</div>
+                    </div>
+                    <div className="bg-teal-50 rounded-xl p-3 text-center">
+                      <div className="text-lg font-bold text-teal-600">{u.totalLessons || 0}</div>
+                      <div className="text-xs text-gray-500">Lessons</div>
+                    </div>
+                    <div className="bg-cyan-50 rounded-xl p-3 text-center">
+                      <div className="text-lg font-bold text-cyan-600">{Number(u.hoursLearned || 0).toFixed(1)}</div>
+                      <div className="text-xs text-gray-500">Hours</div>
                     </div>
                   </div>
 
@@ -720,7 +819,8 @@ return (
                 </motion.div>
               );
             })}
-          </div>
+            </div>
+          )}
         </div>
       </div>
 
