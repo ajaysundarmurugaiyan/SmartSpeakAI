@@ -15,6 +15,7 @@ import ConversationChallengeActivity from './pages/ConversationChallengeActivity
 import UpdatePassword from './pages/UpdatePassword';
 import Pricing from './pages/Pricing';
 import AdminLogin from './pages/AdminLogin';
+import PracticeExam from './pages/PracticeExam';
 
 function App() {
   return (
@@ -88,6 +89,14 @@ function App() {
             element={
               <ProtectedRoute>
                 <Pricing />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/practice-exam"
+            element={
+              <ProtectedRoute>
+                <PracticeExam />
               </ProtectedRoute>
             }
           />

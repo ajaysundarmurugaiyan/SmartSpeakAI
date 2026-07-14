@@ -1,0 +1,652 @@
+[
+ {
+  "question": "The new employee was very nervous when they start their job.",
+  "options": [
+   "when they start their job",
+   "when they started their job",
+   "since they started their job",
+   "since they start their job"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'when they started their job' because it describes an action that happened in the past and its effect on another action.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their decision to the weather report they had just listened to.",
+  "options": [
+   "base",
+   "are basing",
+   "will base",
+   "have based"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the present continuous tense, indicating an action that is happening now and continuing for some time.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee, having been hired for several years, has become very familiar with the company culture.",
+  "options": [
+   "having been hired for several years",
+   "who has been hired for several years",
+   "who was hired for several years",
+   "which has been hired for several years"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of the appositive 'having been hired for several years' to describe the subject 'the new employee', making the correct answer 'having been hired for several years'.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee is very eager to learn the job and has been working _______ hard.",
+  "options": [
+   "very",
+   "too",
+   "such",
+   "so"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Too' + adjective + 'to' + verb = 'too + adjective' to express extreme effort.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy, which was introduced last year, have been implemented effectively.",
+  "options": [
+   "have been implemented effectively",
+   "has been implemented effectively",
+   "were implemented effectively",
+   "was implemented effectively"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'has been implemented effectively' because the subject of the sentence is 'policy', which is a singular noun, and the action 'implemented' is completed, so we use the third person singular present perfect tense.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ to the party last night.",
+  "options": [
+   "was invited",
+   "had been invited",
+   "am invited",
+   "will be invited"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, indicating a past condition and its past effect.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher asked the student to do his homework.",
+  "options": [
+   "do",
+   "does",
+   "doing",
+   "to do"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Does' is used in the imperative for polite instructions.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company has been struggling financially for years, but they hope to turn things around soon.",
+  "options": [
+   "but they hope to turn things around soon.",
+   "and they have been hoping to turn things around soon.",
+   "they have been trying to turn things around soon.",
+   "they will be able to turn things around soon."
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'but they hope to turn things around soon.' The sentence uses 'but' to contrast the company's current struggle with their future hope.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy, if implemented properly, could benefit the economy greatly; however, its implementation has been delayed indefinitely until further notice.",
+  "options": [
+   "has been delayed indefinitely until further notice",
+   "will be delayed indefinitely until further notice",
+   "are being delayed indefinitely until further notice",
+   "were being delayed indefinitely until further notice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'has been delayed indefinitely until further notice' because the sentence is in the present perfect passive voice, indicating an action that started in the past and continues up to the present.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ______ her phone at midnight last night.",
+  "options": [
+   "wakes",
+   "woke",
+   "is waking",
+   "was waking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes an action that occurred in the past, so it requires the use of the simple past tense.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I _____ more time to study for the exam.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past conditions and their past consequences.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The reason why the company failed to meet its deadline was due to a mix-up in the schedule.",
+  "options": [
+   "due to a mix-up in the schedule",
+   "in the mix-up of the schedule",
+   "to the mix-up of the schedule",
+   "by a mix-up in the schedule"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mix-up' is a common noun, not an adverb, and it requires 'due to' to indicate the cause.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the beach.",
+  "options": [
+   "rained",
+   "had rained",
+   "was raining",
+   "would rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, indicating a past condition and its past consequence.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my phone charger for over three hours and it's still not charging.",
+  "options": [
+   "am charging",
+   "was charging",
+   "have been charging",
+   "charged"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is describing an action that started in the past and continues up to the present, so we use the present perfect continuous tense.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy, which was approved by the board of directors, will be implemented next month.",
+  "options": [
+   "which was approved by the board of directors",
+   "which the board of directors had approved",
+   "that the board of directors has approved",
+   "that the board of directors was approving"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'which was approved by the board of directors' because it provides additional information about the policy and does not require the use of 'that' to introduce it.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework for three hours yesterday.",
+  "options": [
+   "do",
+   "am doing",
+   "have done",
+   "was doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, indicating an action that occurred at a specific time in the past.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ yesterday, we would have gone to the movies.",
+  "options": [
+   "was not raining",
+   "were not raining",
+   "did not rain",
+   "has not rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, and the correct form uses the past simple tense in both the if-clause and the main clause.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will be implemented immediately if the necessary funds ___.",
+  "options": [
+   "have been allocated",
+   "are being allocated",
+   "will be allocated",
+   "can be allocated"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'have been allocated' because it describes an action that was completed in the past and its consequences still apply now.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the correct answer to the multiple-choice question?",
+  "options": [
+   "am",
+   "is",
+   "are",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "'is' is the third person singular form of 'be'.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day since I graduated from college.",
+  "options": [
+   "have been going",
+   "am going",
+   "go",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect continuous tense, indicating an action that started in the past and continues up to the present.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I have been learning to play the guitar for five years, ______ I'm still not very good at it.",
+  "options": [
+   "but",
+   "and",
+   "or",
+   "nor"
+  ],
+  "correctIndex": 0,
+  "explanation": "'But' is used to contrast two ideas, 'still' implies that something is continuing or remaining.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project.",
+  "options": [
+   "had finished",
+   "have finished",
+   "finish",
+   "will finish"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times last week.",
+  "options": [
+   "go",
+   "am going",
+   "went",
+   "have gone"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, indicating an action that occurred one or more times at a particular time in the past.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They have been living in the city for ten years, and they still find it _______.",
+  "options": [
+   "too boring",
+   "as boring as",
+   "very boring",
+   "so boring"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'too boring' because it indicates that the city is considered boring or uninteresting due to something about it.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ______ their homework for two hours.",
+  "options": [
+   "had finished",
+   "have finished",
+   "finish",
+   "were finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to describe an action that occurred before another action in the past.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project for months.",
+  "options": [
+   "had been working on",
+   "were working on",
+   "have worked on",
+   "work on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of the past perfect tense to show an action that occurred before another action in the past.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy is intended for everyone, not just those who are affected by it.",
+  "options": [
+   "not only ... but also",
+   "either ... or",
+   "neither ... nor",
+   "both ... and"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires 'not only ... but also' to indicate that the policy is intended for everyone, not just those affected.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ the book for three weeks now.",
+  "options": [
+   "have read",
+   "read",
+   "am reading",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect tense, indicating an action that started in the past and has continued up to the present.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day for years, but I haven't been lately.",
+  "options": [
+   "go",
+   "am going",
+   "went",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect simple tense, indicating an action that started in the past and continues up to the present.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy was so radical that it caused a lot of people to protest, but in fact, the policy was necessary and beneficial, and it is important for people to understand why it is necessary and beneficial.",
+  "options": [
+   "It is important for people to understand why it is necessary and beneficial",
+   "It is not important for people to understand why it is necessary and beneficial",
+   "People do not need to understand why it is necessary and beneficial",
+   "People can ignore why it is necessary and beneficial"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'It is important for people to understand why it is necessary and beneficial' because it changes the focus from the policy's necessity to the importance of understanding it, which is a common way to emphasize something.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences is grammatically correct?",
+  "options": [
+   "She and I are going to the movies tonight.",
+   "She and me are going to the movies tonight.",
+   "She and I are going movie tonight.",
+   "She and me are going movie tonight."
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject-verb agreement in 'she' and 'we' changes the verb 'are going' from 'is going' to 'are going' because there are two subjects.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had known the answer, I ______ it to you.",
+  "options": [
+   "will have told",
+   "would have told",
+   "have told",
+   "told"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the use of the past perfect tense in the if-clause and the past conditional in the main clause.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to bring their textbooks and notebooks, along with their pens and pencils, homework and projects.",
+  "options": [
+   "along with their homework and projects",
+   "with their homework and projects",
+   "and their homework and projects",
+   "for their homework and projects"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'along with their homework and projects' because it correctly combines items that can be brought together, while 'with' suggests they are doing something, which doesn't fit grammatically.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher asked the students to do their homework on time.",
+  "options": [
+   "do their homework on time",
+   "doing their homework on time",
+   "to do their homework on time",
+   "does their homework on time"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'do their homework on time' because it is the infinitive form used as an instruction or command.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "They have ________ their decision until further notice.",
+  "options": [
+   "put off",
+   "put on",
+   "set aside",
+   "take up"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Put off' means to delay; 'put on' means to put or wear something, such as clothes or makeup; 'set aside' means to reserve or allocate; 'take up' means to occupy or engage someone.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee has been trained for months, and she is expected to be able to do the job well by now.",
+  "options": [
+   "by now",
+   "at this point",
+   "as of now",
+   "at present"
+  ],
+  "correctIndex": 0,
+  "explanation": "'By now' is the correct idiom.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ to the gym three times last week.",
+  "options": [
+   "go",
+   "has gone",
+   "went",
+   "goes"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, indicating an action that occurred once at a specific time.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it had been raining, we ________ an umbrella.",
+  "options": [
+   "would have brought",
+   "would bring",
+   "have brought",
+   "bring"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of the past perfect verb tense to describe a hypothetical past condition and its effect on another past event.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was asked to attend the orientation, but he preferred to read the manual at home rather than attend it.",
+  "options": [
+   "prefer to reading the manual at home",
+   "preferred reading the manual at home",
+   "prefers to read the manual at home",
+   "preferred to read the manual at home"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'preferred reading the manual at home' because it correctly uses the simple past tense to describe a past habitual action.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym three times a week.",
+  "options": [
+   "go",
+   "am going",
+   "goes",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, indicating a habitual or routine action.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher explained the concept to us so clearly ______ we could understand it.",
+  "options": [
+   "that",
+   "so that",
+   "because",
+   "in order to"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'so that' to describe a purpose.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class has ________ from last year because of the new admission policy.",
+  "options": [
+   "decreased",
+   "decreasing",
+   "been decreased",
+   "have decreased"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'decreased' because it is the simple past tense form of the verb 'decrease', and the subject 'number' is a singular noun, requiring the use of 'has decreased'.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "He _______ his homework for three hours yesterday.",
+  "options": [
+   "do",
+   "does",
+   "did",
+   "has done"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, indicating a specific point in the past.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ more time to study for the exam.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the subjunctive mood, used for expressing wishes or hypothetical situations.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's new marketing strategy is so innovative that it has attracted the attention of investors who are eager to invest their money in the company's growth.",
+  "options": [
+   "who are eager to invest their money",
+   "which are eager to invest their money",
+   "that are eager to invest their money",
+   "whose are eager to invest their money"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'who are eager to invest their money' because it introduces a non-restrictive relative clause and uses the subjective 'they' to refer back to 'investors'.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym every day for two years.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 1,
+  "explanation": "'I' is in the third person singular, so 'went' (past simple) is correct.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for two years now, but I still don't know how to drive it properly.",
+  "options": [
+   "have owned",
+   "own",
+   "am owning",
+   "owned"
+  ],
+  "correctIndex": 0,
+  "explanation": "'For two years' indicates a duration, so we use 'have + past participle' in the present perfect.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project for several months.",
+  "options": [
+   "had been working on",
+   "have worked on",
+   "will have worked on",
+   "worked on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of the past perfect tense to describe an action that occurred before another action in the past.",
+  "topic": "Sentence Correction",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _____ to the gym three times last week.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "has gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, indicating a single action.",
+  "topic": "Sentence Correction",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy, which is supposed to help people in need, _______ to be very complicated.",
+  "options": [
+   "turns out",
+   "has turned out",
+   "is turning out",
+   "was turning out"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the passive voice, indicating that the complexity of the policy is not known or easily perceived.",
+  "topic": "Sentence Correction",
+  "level": "Intermediate"
+ }
+]

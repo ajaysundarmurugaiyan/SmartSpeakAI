@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "I ________ speak French fluently if I had studied harder.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' expresses ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I _______ my driving license for ten years.",
+  "options": [
+   "will have",
+   "have",
+   "has",
+   "am having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ finish this project by tomorrow.",
+  "options": [
+   "can",
+   "may",
+   "might",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses capability or ability in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You _________ not drive so fast, it's dangerous.",
+  "options": [
+   "mustn't",
+   "can't",
+   "may not",
+   "shouldn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mustn't' means something is against rules or instructions.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ able to speak three languages by the time I'm 25.",
+  "options": [
+   "will be",
+   "am",
+   "be",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a prediction or expectation about the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak three languages fluently by the time I was 25.",
+  "options": [
+   "am",
+   "was",
+   "were",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, indicating a completed action.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _________ go to the gym every day if I had more time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used in conditional sentences to express ability or possibility in a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will go to the park.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using 'doesn't' to express a present or future condition.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it _______ rain tomorrow, we will go to the beach.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'If' introduces a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be at home if she answers the door.",
+  "options": [
+   "may",
+   "might",
+   "must",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'must' is used to express certainty.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ my driving license for ten years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ___ be at home if she didn't answer the phone.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express a strong deduction or conclusion based on the given information.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ try this restaurant; it's amazing!",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Must' expresses strong obligation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more money, I would travel around the world.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using 'had' to express a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied for the exam, I __________ it.",
+  "options": [
+   "pass",
+   "would pass",
+   "will pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, which is used for past hypothetical situations. 'Would pass' is the correct verb form to use in this context.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ have studied harder to pass the exam.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' expresses ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be at home if I called her.",
+  "options": [
+   "may",
+   "might",
+   "should",
+   "must"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence indicates that it is very likely or probable that someone is in a certain place.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ play the guitar when I was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'could' to express ability in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play the piano when I was a child.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to talk about ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ be able to speak three languages by the time I'm 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a prediction or expectation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ have been able to attend the meeting if I had known about it earlier.",
+  "options": [
+   "might",
+   "should",
+   "would",
+   "can"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is indicating a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be able to speak French fluently by next year.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ attend the meeting, it's mandatory for all staff.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'must' to express a necessity or obligation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I _______ my master's degree.",
+  "options": [
+   "will have completed",
+   "complete",
+   "am completing",
+   "have completed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific time in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will go to the beach.",
+  "options": [
+   "does",
+   "did",
+   "will do",
+   "doesn't"
+  ],
+  "correctIndex": 3,
+  "explanation": "The modal 'doesn't' is used in the negative sentence to talk about a possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ my driving license for five years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You ________ try this cake, it's delicious.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is giving advice or recommendation, indicating a strong likelihood or expectation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the party if I had more time.",
+  "options": [
+   "go",
+   "would go",
+   "went",
+   "have gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'would go' is used in the second conditional to express a hypothetical or uncertain situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ my driving license for ten years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ to the gym every day if I had more time.",
+  "options": [
+   "go",
+   "will go",
+   "would go",
+   "am going"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional, expressing a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ be able to speak French fluently when I'm 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'will' is used to express a prediction or expectation about the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ be able to speak French fluently by next year.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express an intention or prediction about the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ play the guitar when I was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'could' to express ability in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be able to speak three languages by the time she is 30.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ my driver's license for five years.",
+  "options": [
+   "will have",
+   "am having",
+   "have",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed by a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ rain, we will go to the park.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, indicating a possible or likely situation in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ drive carefully in the rain.",
+  "options": [
+   "must",
+   "have to",
+   "need to",
+   "ought to"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ speak English fluently to pass the interview.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'can' to express ability.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ snowing now, we would have built the snowman.",
+  "options": [
+   "was",
+   "is",
+   "were",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using 'was' to express a past condition.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play the piano when I was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to describe ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I would not have gone to that party.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I _______ passed the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "can pass",
+   "might have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional tense, indicating a past hypothetical or uncertain situation and its possible present consequence.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more time, I would learn how to drive.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used in the first conditional to express a possible future condition.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ be on time for my interview.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates a strong obligation or expectation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would learn how to play the guitar.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak French fluently when I was in France.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'could' because it is used to talk about past ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ not been to Europe before.",
+  "options": [
+   "am",
+   "have been",
+   "was",
+   "were"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the present perfect tense, indicating an action that has not occurred up to the present.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ get married when I'm 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Would' expresses what someone thinks or believes now.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ finish her homework before dinner.",
+  "options": [
+   "can",
+   "may",
+   "will",
+   "has to"
+  ],
+  "correctIndex": 3,
+  "explanation": "The modal 'has to' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain, we will have a picnic in the park.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'doesn't' to express a condition in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You _________ not use my phone, it's not yours.",
+  "options": [
+   "mustn't",
+   "shouldn't",
+   "can't",
+   "won't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mustn't' expresses prohibition or something that is forbidden.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I wouldn't have eaten that spicy food.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'were' is used in the second conditional to talk about hypothetical situations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snow tomorrow, we will build a snowman.",
+  "options": [
+   "snows",
+   "snowed",
+   "will snow",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of the present simple tense to describe a future condition or possibility.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently if I had more practice.",
+  "options": [
+   "was",
+   "am",
+   "have been",
+   "would be"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional, using 'would be' for the future result to express ability.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ be able to speak French fluently by the time I'm 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a future prediction or expectation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She _______ be married if she was divorced.",
+  "options": [
+   "is",
+   "was",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'May' is used with the simple present to talk about possibilities, but 'is' is more appropriate here.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently by the time I was 20.",
+  "options": [
+   "am",
+   "was",
+   "will be",
+   "would be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is talking about a past ability, which is an untruthful or unlikely statement in the present.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be at home, she said she would be back by now.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'may' because it is used to talk about possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She _______ have passed her driving test by now.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence expresses possibility or likelihood in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or uncertain situations.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I ________ travel around the world.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ play the guitar when I was a child.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "should"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'could' to express ability in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next month, I ________ my driving license for over ten years.",
+  "options": [
+   "will have",
+   "am having",
+   "have",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be at home if she didn't answer the phone.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to talk about possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ have arrived by now; the bus left an hour ago.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express deduction or logical conclusion.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They ________ be at the party if you hadn't gone yourself.",
+  "options": [
+   "mustn't",
+   "shouldn't",
+   "can't",
+   "couldn't"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Can't' expresses inability.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "He ________ have passed the exam if he had studied harder.",
+  "options": [
+   "should",
+   "must",
+   "would",
+   "can"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'should' is used to express advice or recommendation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ___ come to my party if you want to meet new people.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "would"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates a recommendation or advice.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently if I had studied harder.",
+  "options": [
+   "will be",
+   "would be",
+   "am",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She _______ be at home if she didn't answer the door.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ go to the movies tonight if you want to.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, asking for permission or possibility in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ study harder, I would have passed the exam.",
+  "options": [
+   "studied",
+   "had studied",
+   "will study",
+   "would study"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, expressing a hypothetical past situation and its possible result.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ my degree.",
+  "options": [
+   "will have completed",
+   "complete",
+   "am completing",
+   "have completed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'will have' is used in the future perfect tense to express an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ go to the doctor if you're feeling unwell.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "will"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express strong necessity.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I wouldn't have borrowed that book.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would accept the job offer.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'were' is used in the second conditional to express a hypothetical or uncertain situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ able to speak three languages fluently by the time I'm 25.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express a future prediction or expectation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be at home now, she said she would arrive by 5.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Must' expresses deduction.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You _________ drive carefully in the rain.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain, we will take an umbrella.",
+  "options": [
+   "rains",
+   "rain",
+   "will rain",
+   "is raining"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional tense, indicating a possible future condition and its consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be at least 18 years old to vote.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'must' to express a strong necessity or obligation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ wear a seatbelt while driving.",
+  "options": [
+   "must",
+   "have to",
+   "should",
+   "ought to"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ French for five years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "have studied",
+   "study"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, indicating an action that will be ongoing up to a point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would help you with your project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play the guitar when I was a teenager.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to express ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _________ rain tomorrow, we will go to the beach.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using 'doesn't' to express a possible future condition.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be at home; her car is parked outside.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates a high degree of certainty based on evidence.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the movies if I had more money.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' is used to talk about ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be at home; her car is outside.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express a strong deduction or certainty based on evidence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You _______ play the guitar if you want to join the band.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "would"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express a necessity or obligation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ try this cake if you like chocolate.",
+  "options": [
+   "can",
+   "may",
+   "must",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ play the piano when she was a child.",
+  "options": [
+   "can",
+   "could",
+   "is able to",
+   "has the ability to"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is talking about a past ability, so 'could' is the correct modal to use.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She _______ be at least 18 years old to vote.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates a strong obligation or necessity.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the gym if I had more time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used in the second conditional to talk about unlikely or hypothetical conditions.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be at least 18 years old to join the club.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'must' to express a strong obligation or requirement.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ able to speak three languages by the time I was 10.",
+  "options": [
+   "was",
+   "were",
+   "have been",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is talking about a past ability, which can be expressed with the simple past tense of the verb 'be'.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _________ speak French fluently when I was in France.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "shall"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to express ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I wouldn't eat this spicy food.",
+  "options": [
+   "am",
+   "were",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project by now.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional tense, indicating a past hypothetical situation and its potential consequence.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ___ be at home if I call her.",
+  "options": [
+   "may",
+   "might",
+   "must",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'must' is used to make an inference or conclusion based on evidence.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that sandwich.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next month, I ________ my driving license for over 10 years.",
+  "options": [
+   "will have",
+   "have",
+   "has",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'will have' to express an action that will be completed at a future point in time.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the beach if it doesn't rain tomorrow.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used in this context to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ the opportunity, I would accept it.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, expressing a possible future situation and its consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ you if you called me earlier.",
+  "options": [
+   "would have helped",
+   "will help",
+   "am helping",
+   "help"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, indicating a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ___ speak three languages.",
+  "options": [
+   "can",
+   "cannot",
+   "could",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'can' is used to express ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they _______ their homework.",
+  "options": [
+   "had finished",
+   "have finished",
+   "are finishing",
+   "finish"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ able to speak three languages fluently by the time I'm 30.",
+  "options": [
+   "will be",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a prediction about the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ___ be able to speak French fluently by now.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "'May' is used to express possibility in the present or future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I _________ studying English for five years.",
+  "options": [
+   "will have been",
+   "am",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, indicating an action that will continue up to a point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently by next year.",
+  "options": [
+   "will be",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a planned or predicted action.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak French fluently by the time I was 18.",
+  "options": [
+   "can",
+   "could",
+   "will be able to",
+   "am able to"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used in the simple past to express ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that cake.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they _______ already eaten dinner.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'were' is used in the second conditional to talk about a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ go to the gym if they want to stay fit.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a recommendation or advice.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ have gone to the party last night, but I had to work late.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, expressing a hypothetical situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ study harder, I would pass the exam.",
+  "options": [
+   "study",
+   "studied",
+   "will study",
+   "would study"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'studied' is used in the first conditional to talk about a hypothetical past action.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder, I ________ the exam.",
+  "options": [
+   "pass",
+   "would pass",
+   "will pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, expressing a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ to travel around the world when I retire.",
+  "options": [
+   "plan",
+   "will plan",
+   "am planning",
+   "would plan"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the gym three times a week.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility or permission.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be a doctor, she is very smart.",
+  "options": [
+   "can",
+   "may",
+   "might",
+   "should"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence indicates a high level of certainty or expectation about someone's ability or status.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She _______ be able to speak French fluently if she practices every day.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "'May' expresses possibility.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ not smoke in this room.",
+  "options": [
+   "mustn't",
+   "can't",
+   "may not",
+   "won't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'mustn't' is used to express prohibition or something that is not allowed.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ have finished their project by now.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "will"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence indicates a strong likelihood or expectation based on present evidence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be able to speak French fluently if she studied harder.",
+  "options": [
+   "might",
+   "must",
+   "can",
+   "would"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence expresses a strong possibility or likelihood.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ play the guitar when she was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is asking about a past ability, so 'could' is used to express this.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ get married when I'm 30.",
+  "options": [
+   "can",
+   "may",
+   "might",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence expresses possibility or likelihood in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently when I was in France.",
+  "options": [
+   "was",
+   "am",
+   "were",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past tense, indicating an ability or skill in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be able to speak three languages by now.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence expresses past ability or possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain, we will go to the beach.",
+  "options": [
+   "doesn't",
+   "won't",
+   "can't",
+   "may not"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, which uses 'doesn't' to describe a possible condition.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ speak French fluently when I was in Paris.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is talking about a past ability, which requires the use of 'could'.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ drive carefully in the city.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 3,
+  "explanation": "The modal 'should' is used to give advice or recommendations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ play the guitar when I was 10 years old.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'could' to express ability in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next month, I _________ studying for six months.",
+  "options": [
+   "will have been",
+   "am",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, indicating an action that will be ongoing up to a certain point in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ___ be at home if it's so late.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express deduction or certainty based on evidence.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ try this cake, it's delicious!",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses advice or recommendation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had taken that job offer, I _______ more money now.",
+  "options": [
+   "would have earned",
+   "earn",
+   "will earn",
+   "am earning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional tense, indicating a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ speak English fluently to pass the exam.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'can' because it is used to express ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I ________ passed the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "passed",
+   "can pass"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, using 'would pass' to express a hypothetical past situation and its potential consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ___ be a doctor if she had taken the right courses.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, expressing an unlikely present or future condition and its possible consequence.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ drive carefully in foggy weather.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snow tomorrow, we will go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "snowed",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using the present simple to describe a possible future situation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They ________ attend the meeting if they can.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates that attending the meeting is possible or allowed.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "He ___ be at home, it's 11 pm.",
+  "options": [
+   "must",
+   "may",
+   "might",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express deduction or certainty.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ my driving license for 10 years.",
+  "options": [
+   "will have",
+   "am having",
+   "have",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I won the lottery, I _______ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "would travel",
+   "can travel"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or unlikely situations. 'Would travel' is the correct verb form to use in this context.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be at home now, she said she would be back by 6.",
+  "options": [
+   "may",
+   "might",
+   "must",
+   "can"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Must' expresses deduction about the present or future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will take an umbrella.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, indicating a possible future condition and its consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _________ more money, I would travel the world.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, which uses the past simple to describe a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ be able to speak three languages when you were five.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' is used in the past ability for hypothetical situations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She _________ have eaten breakfast before she left.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is indicating a deduction or logical conclusion based on the given information.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to the gym three times a week if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "will go",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or uncertain situations.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be at home, her car is parked outside.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Must' expresses deduction.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I wouldn't have borrowed money from anyone.",
+  "options": [
+   "were",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought that expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'were' to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I _______ buy a house.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'would' is used in the second conditional to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _________ snow, the roads would be closed.",
+  "options": [
+   "will snow",
+   "snows",
+   "snowed",
+   "would snow"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the first conditional tense, expressing a hypothetical situation and its potential consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak three languages fluently by the time I was 10.",
+  "options": [
+   "was",
+   "am",
+   "have been",
+   "will be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, indicating a completed action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used in the first conditional to talk about a possible future situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ have studied harder when I was at school.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a strong recommendation or advice in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more free time, I would learn how to play the guitar.",
+  "options": [
+   "had",
+   "have",
+   "was having",
+   "were to have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, expressing a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play football when I was a child.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "should"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to talk about ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I _______ buy a house on the beach.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, expressing a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They ________ have arrived by now if they hadn't gotten lost.",
+  "options": [
+   "should",
+   "would",
+   "might",
+   "must"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is using 'would' in the third conditional to express an unlikely or hypothetical situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ________ have arrived by now if they had taken the early flight.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express deduction or certainty.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ________ already eaten.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ have been a better student when I was at school.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence expresses ability in the past, which is no longer true.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ my driving license for 10 years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'will have' is used in the future perfect tense to express an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _________ have been at home when my friend called me.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the use of 'may' to express possibility in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be able to speak three languages by the time she's 30.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence expresses possibility in the future, indicating that it is likely or possible.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "He ________ have studied harder to pass the exam.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'should' is used to express advice or recommendation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ________ eaten dinner.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will have to cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "were raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using the present simple to describe a future situation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak French fluently by next year.",
+  "options": [
+   "can",
+   "will be able to",
+   "would",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'will be able to' is used to express ability in the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ have eaten breakfast before she left.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is indicating that it is very likely or compulsory that someone has done something.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _________ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, using 'had' to express a past condition.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ speak three languages fluently.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'can' is used to express ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ speak three languages fluently by the time she was 25.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, indicating an ability that was possessed at a specific point in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I _________ my driver's license for over ten years.",
+  "options": [
+   "will have had",
+   "am having",
+   "have had",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play the guitar when I was a kid.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to talk about ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I ________ buy a house on the beach.",
+  "options": [
+   "can",
+   "may",
+   "shall",
+   "would"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to the gym every day if I had more time.",
+  "options": [
+   "go",
+   "will go",
+   "went",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Would' expresses a hypothetical action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ___ try this cake, it's delicious!",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Must' expresses strong obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ arrive by 5 o'clock.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is using 'should' to express advice or recommendation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ get to the gym every day if I had more time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' expresses ability in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I wouldn't have eaten that.",
+  "options": [
+   "am",
+   "were",
+   "is",
+   "be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'were' is used in the second conditional to talk about hypothetical situations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more time, I would finish this project.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'have' to express a hypothetical or uncertain situation in the present.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _________ more time, I would finish this project sooner.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "He ________ be at home if I called him.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to talk about possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be tired after working all day.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express deduction or certainty about someone's current state.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ go to the gym every day if I had more time.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, expressing a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that spicy food.",
+  "options": [
+   "am",
+   "were",
+   "is",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, using 'were' to indicate a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _________ be able to finish the project on time if I can get help.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, indicating a possible or likely situation in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it _________ snow tomorrow, we will build a snowman.",
+  "options": [
+   "snows",
+   "will snow",
+   "is snowing",
+   "snowed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, indicating a possible future condition and its consequence.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more free time, I would volunteer.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used in the first conditional to talk about a present or future condition and its possible result.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I would not have borrowed money from anyone.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ be able to speak French fluently by next year.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express a future intention or prediction.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak French fluently if I studied harder.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'could' because it is used to talk about ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ snow tomorrow, we will go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "snowed",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using 'if' to express a possible future condition.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She ________ be able to speak three languages fluently by the time she's 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express future ability or prediction.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I ________ my homework, it was midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'had' is used in the past perfect tense to express an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain, we would go to the park.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "doesn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, indicating a possible future condition and its consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You ___ come to the party if you're free.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Should' expresses advice.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ be quiet in the library.",
+  "options": [
+   "must",
+   "have to",
+   "should",
+   "ought to"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'must' is used to express obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snowing now, we would have built a snowman.",
+  "options": [
+   "is",
+   "was",
+   "were",
+   "be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She _________ be at home if I called her.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "'May' expresses possibility.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ take an umbrella; it's raining outside.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Must' expresses obligation or necessity.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ able to speak French fluently by the end of the year.",
+  "options": [
+   "will be",
+   "am",
+   "was",
+   "would"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a planned or arranged future action.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak three languages by the time I was 10.",
+  "options": [
+   "was",
+   "am",
+   "will be",
+   "would be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ not smoke in the car, it's against the law.",
+  "options": [
+   "mustn't",
+   "needn't",
+   "couldn't",
+   "shouldn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mustn't' is used to express prohibition.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _________ go to the movies tonight if you want to.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the conditional tense, indicating a possible or likely situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak three languages by the time I'm 30.",
+  "options": [
+   "will be",
+   "would be",
+   "am",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a planned or arranged future action.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "can have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used in the first conditional to talk about a hypothetical present situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ the instructions carefully, I would not have broken it.",
+  "options": [
+   "had read",
+   "read",
+   "will read",
+   "would read"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, indicating a past condition and its possible result.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ attend the meeting, but I'm not sure if I can make it.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional tense, expressing possibility in a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ try this restaurant, it's delicious!",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'should' is used to give advice or recommendation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ my driving license for over five years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You _________ take an umbrella; it's raining outside.",
+  "options": [
+   "must",
+   "should",
+   "ought to",
+   "needn't"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is giving advice or recommendation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ the chance, I would become a doctor.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used to talk about future conditions in the present.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ able to swim when I was five years old.",
+  "options": [
+   "am",
+   "was",
+   "were",
+   "are"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Am' is not used in this context; 'was' is the correct answer because it indicates a past ability.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ my master's degree.",
+  "options": [
+   "will have finished",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific point in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be 25 years old by next year.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to express possibility in the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ___ be at home now, her car is parked outside.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a strong probability based on evidence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I _________ my degree in law.",
+  "options": [
+   "will have completed",
+   "complete",
+   "have completed",
+   "am completing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed by a specific time in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You _________ try this cake, it's delicious!",
+  "options": [
+   "can",
+   "may",
+   "must",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'must' is used to express necessity or obligation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ attend the meeting; it's mandatory.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a strong obligation or necessity.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You ________ not drive so fast, it's dangerous.",
+  "options": [
+   "must",
+   "should",
+   "needn't",
+   "oughtn't"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is giving advice or recommendation, indicating a strong preference or expectation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be able to speak French fluently if she practices every day.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the present ability or permission, using 'may' to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ you, I would not have bought that car.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ be able to finish the project by Friday.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses ability or possibility in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak French fluently when I was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "must"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Could' is the past ability.'",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ my driver's license for ten years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed by a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I ________ my degree in law.",
+  "options": [
+   "will have completed",
+   "complete",
+   "am completing",
+   "have completed"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Will have + past participle' for an action that occurs before another action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the movies if I had time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'could' because it is used to talk about past ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ not be able to finish the project on time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is using 'may' to express possibility in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ________ been traveling for ten years.",
+  "options": [
+   "will have been",
+   "would have been",
+   "can have been",
+   "may have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "He ________ be at home now, he said he would be back by five.",
+  "options": [
+   "can",
+   "may",
+   "must",
+   "should"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'must' is used to express deduction or certainty.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ be able to speak French fluently by the end of this course.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express an intention or prediction about the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have gone to the party.",
+  "options": [
+   "were",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, expressing a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ able to speak three languages.",
+  "options": [
+   "am",
+   "was",
+   "were",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'am' is used to express present ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She _______ be a doctor, she studied medicine at university.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence expresses possibility in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ be at my new job by next week.",
+  "options": [
+   "will",
+   "would",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, indicating a planned or arranged event.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ___ not drive so fast, it's dangerous.",
+  "options": [
+   "mustn't",
+   "can't",
+   "shouldn't",
+   "needn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mustn't' expresses prohibition.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ have eaten breakfast before I left for work.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence expresses a strong obligation or necessity.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought this house.",
+  "options": [
+   "were",
+   "am",
+   "have been",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ try this cake; it's delicious.",
+  "options": [
+   "should",
+   "must",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'should' is used to give advice or recommendation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ speak French fluently by the time I was 20.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is talking about a past ability, which indicates something that happened at a specific point in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ finish the project by Friday, if I work hard.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence expresses a possibility or ability in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ speak English fluently if I practiced more.",
+  "options": [
+   "can",
+   "may",
+   "will",
+   "would"
+  ],
+  "correctIndex": 3,
+  "explanation": "The modal 'would' is used in the second conditional to express a hypothetical or uncertain situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ go to the gym every day if I had more time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, using 'could' to express ability in a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ be able to finish this project before the deadline.",
+  "options": [
+   "will",
+   "can",
+   "may",
+   "shall"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Will' is used to express future ability.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ able to speak three languages fluently.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Am' is the correct contraction of 'I am'.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snowing now, we would have a snowball fight.",
+  "options": [
+   "weren't",
+   "isn't",
+   "doesn't",
+   "won't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using 'weren't' to express a hypothetical past condition.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ be able to speak French fluently by the time I am 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Will' expresses ability or intention.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be a doctor; she's very patient.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is using 'may' to express possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I ________ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "may buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ able to speak French fluently by the time I was 10.",
+  "options": [
+   "was",
+   "am",
+   "have been",
+   "will be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, indicating a completed action in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ be at home by 8 o'clock.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "'May' expresses possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ be able to speak French fluently if you practice every day.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence indicates a capability or potential in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ enough money, I would buy a house.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next week, I ________ my driving test.",
+  "options": [
+   "will have passed",
+   "am passing",
+   "pass",
+   "have passed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'will have passed' is used in the future perfect tense to express an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ able to speak French fluently by the time I'm 30.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'will' to express a prediction or expectation about the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have borrowed money from the bank.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ___ speak to me, I'm your friend.",
+  "options": [
+   "can",
+   "may",
+   "have to",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Can' expresses permission or ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more money, I would buy a car.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, expressing a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car serviced every six months.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Have' can be used in the present perfect continuous to indicate an action that started in the past and continues up to the present.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She _______ be at home if she didn't answer the phone.",
+  "options": [
+   "can",
+   "may",
+   "should",
+   "must"
+  ],
+  "correctIndex": 3,
+  "explanation": "The modal 'must' is used to express deduction or certainty.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ English for five years.",
+  "options": [
+   "will have been studying",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, indicating an action that will be in progress up to a point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They ________ have arrived hours ago if they had taken the road less traveled.",
+  "options": [
+   "can",
+   "should",
+   "would",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is using 'would' to express a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ play football when I was younger.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to express ability in the past.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ have eaten the cake if they had known it was poisoned.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, indicating a hypothetical or uncertain situation in the past.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have borrowed that money from him.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I _______ travel around the world.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used to talk about hypothetical or uncertain situations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snowing, we would go skiing.",
+  "options": [
+   "was",
+   "is",
+   "were",
+   "will be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You ___ try this cake; it's delicious.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Must' expresses strong obligation or necessity.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the party if you're going.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The modal 'may' is used to talk about possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I _______ my driving license for 10 years.",
+  "options": [
+   "will have",
+   "have",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific time in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "You ________ go to the doctor if you're not feeling well.",
+  "options": [
+   "should",
+   "must",
+   "needn't",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Should' expresses advice or recommendation.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ go to the gym if I had more free time.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'could' is used in the second conditional to express ability or possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You _________ not smoke in this building, it's against the law.",
+  "options": [
+   "mustn't",
+   "can't",
+   "may not",
+   "shouldn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'mustn't' is used to express prohibition or something that is forbidden.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They ________ have arrived by now if they had taken the express train.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is using 'may' to indicate that it is possible or likely that they could have arrived by now.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _________ more money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'have' is used in the first conditional to express a hypothetical situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ speak louder, I can't hear you.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Must' expresses obligation when talking to somebody.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ be able to speak French fluently by the time I'm 25.",
+  "options": [
+   "will",
+   "would",
+   "shall",
+   "can"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Will' expresses intention or prediction.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ be able to speak three languages.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 2,
+  "explanation": "'May' expresses possibility.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder, I __________ the exam.",
+  "options": [
+   "pass",
+   "passed",
+   "will pass",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional, indicating a past condition and its past consequence.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ be in London by next month.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence expresses a future prediction or certainty.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ speak three languages.",
+  "options": [
+   "can",
+   "cannot",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'can' is used to talk about ability.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ___ be at home; she forgot to turn off the lights.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'must' to express deduction or logical conclusion.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought this expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, indicating a hypothetical or uncertain situation in the present or future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ raining, we would go to the park.",
+  "options": [
+   "were",
+   "is",
+   "was",
+   "will be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The modal 'were' is used in the second conditional to talk about unlikely or hypothetical situations.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "You ________ be able to speak English fluently if you practice every day.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "might"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is giving a possibility or ability in the present or future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ have studied harder when I was in school, now I regret it.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "should"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Should' expresses criticism or regret.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ study harder, I would get better grades.",
+  "options": [
+   "study",
+   "studied",
+   "will study",
+   "can study"
+  ],
+  "correctIndex": 1,
+  "explanation": "The modal 'studied' is used in the second conditional to express a hypothetical past situation.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I _______ been living in London for three years.",
+  "options": [
+   "will have",
+   "would have",
+   "can have",
+   "may have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ finish my homework by the time you call me.",
+  "options": [
+   "will have",
+   "have",
+   "would have",
+   "am having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific time in the future.",
+  "topic": "Modals",
+  "level": "Advanced"
+ },
+ {
+  "question": "You ________ not park here; it's for visitors only.",
+  "options": [
+   "mustn't",
+   "can't",
+   "may not",
+   "shouldn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Mustn't' expresses prohibition.",
+  "topic": "Modals",
+  "level": "Beginner"
+ },
+ {
+  "question": "She ________ be at home; she said she would meet me.",
+  "options": [
+   "must",
+   "can",
+   "may",
+   "should"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is indicating a deduction or conclusion based on a statement or fact.",
+  "topic": "Modals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have been late for the meeting.",
+  "options": [
+   "am",
+   "were",
+   "will be",
+   "would be"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Were' expresses past or contrary to fact.",
+  "topic": "Modals",
+  "level": "Advanced"
+ }
+]

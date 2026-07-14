@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "Which article is used for things we have already mentioned?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "We use 'the' to refer to previously mentioned nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the store to buy some milk.",
+  "options": [
+   "am going",
+   "go",
+   "have gone",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present continuous tense to express an immediate or planned action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will _______ a new CEO next month.",
+  "options": [
+   "appoint",
+   "appoints",
+   "appointed",
+   "have appointed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'appoint' is the correct choice as it means to choose or designate someone for a position.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for non-specific things?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used for non-specific things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ me that they had been on vacation for two weeks.",
+  "options": [
+   "told",
+   "had told",
+   "have told",
+   "were telling"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had told' because it is in the past perfect tense, used to describe an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences is grammatically correct?",
+  "options": [
+   "I'm going to the store today",
+   "I'm going to a store today",
+   "I'm going to the stores today",
+   "I'm going to the store's today"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence 'I'm going to the store today' is grammatically correct because it uses the uncountable noun 'store' correctly.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the beach if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "would go",
+   "will go"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Would + base verb' expresses a hypothetical situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will affect _______ employees of the company.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "When referring to all members of a group, no article is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for general things?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' for general things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would travel around the world.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical situation in the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I _______ my homework, it was midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "was finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What type of article is used before the word 'hour'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Hour' starts with a vowel sound, so 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ________ snow tomorrow.",
+  "options": [
+   "will snow",
+   "would snow",
+   "snows",
+   "snowed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would snow' because it is in the second conditional, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was given _______ lunch voucher for their first week.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lunch vouchers are typically uncountable and non-specific, so 'a' is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with 'a'?",
+  "options": [
+   "the",
+   "no article",
+   "an",
+   "all of the above"
+  ],
+  "correctIndex": 2,
+  "explanation": "'An' is used before a noun that starts with 'a'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ the answer to this question.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'had known' because it is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were very disappointed _______ the news of the cancellation.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a feeling or emotion about something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for plural nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' for plural nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my keys and now I'm locked out of my house.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate that one action was completed before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The professor wrote _______ book on the history of science.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 1,
+  "explanation": "When talking about non-specific books, 'an' is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with 'u'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'A' is used before a noun that starts with 'u'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ______ snow tomorrow so we could go skiing.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "could"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would' because it is used in the third conditional to express a hypothetical situation in the present or future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and made many friends on his first day.",
+  "options": [
+   "introverted",
+   "extroverted",
+   "fastidious",
+   "meticulous"
+  ],
+  "correctIndex": 1,
+  "explanation": "Extroverted means having an inclination to be sociable or outgoing, which is the correct term to describe someone who made many friends on their first day.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for 'man'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "'A' is used for specific things, 'an' for non-specific things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "___ teacher is very strict with ___ students.",
+  "options": [
+   "The",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Teacher' requires the definite article 'the'.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is _______ important tourist destination.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Important' starts with a consonant sound, but 'a' is used before it.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for names of specific things?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 2,
+  "explanation": "We use 'the' for names of specific things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more time to finish this project.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'had' because it is in the past tense, used for hypothetical or unreal situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will affect _______ people in _______ city.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "Geographical and non-specific groups take no articles.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with 'b'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'a' before words starting with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'go' because it is in the present tense, used for habitual or routine actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student _______ his homework before he comes to class.",
+  "options": [
+   "to do",
+   "do",
+   "doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'to do' is used in this context to indicate a preposition or infinitive.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is _______ shelf.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is placed on a surface.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project for three months.",
+  "options": [
+   "had been working on",
+   "are working on",
+   "have been working on",
+   "have worked on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had been working on' because it is used in the past perfect continuous tense to describe an action that started before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses the definite article 'the' correctly?",
+  "options": [
+   "I visited the city yesterday.",
+   "I visited a city yesterday.",
+   "I visited the cities yesterday.",
+   "I visited an city yesterday."
+  ],
+  "correctIndex": 0,
+  "explanation": "'The' is used to refer to a specific city.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before the word 'elephant'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "'An' is used before the word 'elephant' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the party if you invited me.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'would go' because it is in the second conditional, used for hypothetical or unlikely situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will _______ the quality of education in schools.",
+  "options": [
+   "improve",
+   "improved",
+   "improving",
+   "improves"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'improve' is the correct choice as it means to make something better.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before a noun that starts with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They will have _______ their project by next month.",
+  "options": [
+   "finish",
+   "finished",
+   "have finished",
+   "been finishing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'have finished' because it indicates that the action of finishing will be completed by a specific point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ experienced financial difficulties in the past year.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'experienced' to indicate that the company's financial difficulties have occurred without a specific instance being referred to.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following is an example of a countable noun?",
+  "options": [
+   "book",
+   "time",
+   "water",
+   "science"
+  ],
+  "correctIndex": 0,
+  "explanation": "A countable noun is a noun that can be counted, such as 'book'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ snowing now, we would have had a great time skiing.",
+  "options": [
+   "weren't",
+   "isn't",
+   "doesn't",
+   "haven't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using the past simple to describe a hypothetical present situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and quickly became part of the team.",
+  "options": [
+   "inclusive",
+   "inclusion",
+   "included",
+   "include"
+  ],
+  "correctIndex": 0,
+  "explanation": "In this context, 'inclusive' is the correct word to describe someone who is welcoming and making others feel included.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences uses the indefinite article 'a' correctly?",
+  "options": [
+   "I love to eat an apple",
+   "I love to eat a apples",
+   "I love to eat the apple",
+   "I love to eat an apples"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence 'I love to eat an apple' uses the indefinite article 'a' correctly because it refers to any specific type of apple.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day for the past month.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "had gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'go' because it is in the present simple tense, used for habitual or routine actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the woods.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The fixed noun 'woods' requires the preposition 'in' to indicate location within an area.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences uses an indefinite article?",
+  "options": [
+   "I love this city",
+   "I love the city",
+   "I love a city",
+   "I love the cities"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence 'I love this city' uses an indefinite article because it refers to a general category or type.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more time to finish the project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is in the past tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is considering _______ a new marketing strategy to increase sales.",
+  "options": [
+   "implement",
+   "implementing",
+   "implemented",
+   "to implement"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the present participle 'implementing' to indicate an intended or planned action.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun starting with 'u'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'A' is used before a noun starting with 'u'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ________ my homework, it was midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ a new line of products for the winter season.",
+  "options": [
+   "launched",
+   "launching",
+   "launches",
+   "launch"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'launched' is the correct choice as it means to introduce a product or service to the market.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for things we haven't encountered yet?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'a' or 'an' before words starting with a non-silent 'h' sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ a new job since I moved to this city.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'have' because it is in the present perfect tense, indicating an action that started in the past and continues up to the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I ________ my car, it was 10 years old.",
+  "options": [
+   "bought",
+   "have bought",
+   "was buying",
+   "had bought"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'had bought' because it indicates that the action of buying the car occurred before another action in the past, which is the completion of other actions.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the function of an article in a sentence?",
+  "options": [
+   "To describe something",
+   "To indicate the type of noun",
+   "To provide information about the noun",
+   "All of the above"
+  ],
+  "correctIndex": 3,
+  "explanation": "Articles serve to provide information about the noun they precede.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car serviced every year.",
+  "options": [
+   "get",
+   "gets",
+   "got",
+   "have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present simple to indicate a habitual action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and did a great job on her first day.",
+  "options": [
+   "confident",
+   "confidence",
+   "confidently",
+   "confidences"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective 'confident' is the correct choice as it describes someone who feels sure about their abilities.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article used before a noun that starts with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduated, I ______ three languages.",
+  "options": [
+   "speak",
+   "spoke",
+   "have spoken",
+   "had spoken"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to _______ his questions if he didn't understand the lesson.",
+  "options": [
+   "ask",
+   "asks",
+   "asking",
+   "asked"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'ask' because it is used to request or inquire about something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words that start with a consonant sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used before words that start with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ me that they were going to the party.",
+  "options": [
+   "tell",
+   "tells",
+   "are telling",
+   "have told"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'have told' because it is in the present perfect tense, indicating an action that occurred at an unspecified point in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch _______ new product line next year.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "'New' starts with a vowel sound, so 'a'.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the definite article in English?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "The definite article in English is 'the'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ to the movies every weekend.",
+  "options": [
+   "goes",
+   "going",
+   "went",
+   "are going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'goes' because it is in the present simple tense, used for habitual actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will _______ its products at the trade show next month.",
+  "options": [
+   "display",
+   "displays",
+   "displaying",
+   "displayed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'display' is the correct choice as it means to present or showcase something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use with non-specific nouns?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'a' or 'an' with non-specific nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the answer, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'knew' because it is in the second conditional tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student ______ homework she had missed.",
+  "options": [
+   "what",
+   "which",
+   "that",
+   "whose"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'what' because it is used to ask for information about something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use with names of days and months?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We do not use the definite article with days and months.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my keys, so I'm locked out of my house.",
+  "options": [
+   "lose",
+   "lost",
+   "have lost",
+   "was losing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'have lost' because it indicates that the action of losing the keys happened before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch ______ new product line next quarter.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences is correct?",
+  "options": [
+   "I'm going to the store",
+   "I'm going the store",
+   "I'm go to the store",
+   "I'm going in store"
+  ],
+  "correctIndex": 0,
+  "explanation": "The definite article 'the' is used before 'store' because it is a specific place.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ you, I would not have eaten that cake.",
+  "options": [
+   "am",
+   "were",
+   "be",
+   "will be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'were' because it is in the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide ______ best service to all its customers.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' to indicate general or non-specific services.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The word 'a' is used before _______.",
+  "options": [
+   "a noun",
+   "a verb",
+   "an adjective",
+   "a pronoun"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'a' is used before a noun that starts with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had' because it is in the third conditional tense, used for past hypothetical situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was given _______ training on all the company's policies.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "We use no article with 'policies' since it is a general or non-specific category.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article used before words starting with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used before words starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would finish the project earlier.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is in the second conditional tense, used to describe a hypothetical situation in the present or future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city has _______ new public library that opened last year.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "Since the city only has one new public library, it is non-specific and does not require any article.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe something that is uncountable?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' to describe something that is uncountable.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ________ my homework, it was already midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will _______ its products to more countries in the coming year.",
+  "options": [
+   "export",
+   "exports",
+   "exporting",
+   "exported"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'export' is the correct choice as it means to sell goods or services to another country.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences uses a zero article?",
+  "options": [
+   "I love to read books.",
+   "I love to eat breakfast.",
+   "I love to watch movies on Saturday nights.",
+   "I love to play soccer outdoors."
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence 'I love to eat breakfast' uses a zero article because it refers to a general truth or habit.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their project for the past year.",
+  "options": [
+   "have been working on",
+   "worked on",
+   "are working on",
+   "were working on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ to reduce its carbon emissions.",
+  "options": [
+   "set",
+   "to set",
+   "setting",
+   "set off"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'to set' because it is in the infinitive form, used after verbs like 'has' to indicate purpose or intention.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used before words starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous on _______ day at the office.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' to indicate any first day at a job.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for singular nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'An' is used before singular countable nouns starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car serviced regularly to avoid problems.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the use of the present perfect tense to describe an action that is ongoing up to the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and eager to learn new skills.",
+  "options": [
+   "inexperienced",
+   "inexperience",
+   "inexperiences",
+   "inexperiencedly"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective 'inexperienced' is the correct choice as it describes someone who lacks experience.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before the word 'hour'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'An' is used before the word 'hour' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ yesterday, we would have gone to the beach.",
+  "options": [
+   "rains",
+   "rain",
+   "rained",
+   "was raining"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the third conditional, using the past simple to describe a hypothetical situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ______ their dinner.",
+  "options": [
+   "had eaten",
+   "eat",
+   "have eaten",
+   "were eating"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had eaten' because it indicates that the action of eating dinner was completed before the arrival of the speaker.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with a consonant sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'a' before a noun that starts with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would finish this project earlier.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past tense 'had' to indicate a hypothetical or uncertain situation in the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch ______ new product line next year.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'new product line' to indicate any new product line.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The sentence 'I like tea' uses a ___.",
+  "options": [
+   "indefinite article",
+   "definite article",
+   "independent clause",
+   "dependent clause"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence 'I like tea' uses an indefinite article because it refers to a non-specific type of tea.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project for three weeks.",
+  "options": [
+   "had been working on",
+   "have been working on",
+   "are working on",
+   "worked on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had been working on' because it is in the past perfect continuous tense, indicating an action that started before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student ________ his homework for the exam.",
+  "options": [
+   "to do",
+   "do",
+   "doing",
+   "does"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the use of 'to do' to indicate a purpose or request.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe something that has already been mentioned?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "The definite article 'the' is used to describe something that has already been mentioned.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, it was already noon.",
+  "options": [
+   "get",
+   "got",
+   "have got",
+   "was getting"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past simple tense to indicate a completed action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their essays by Friday.",
+  "options": [
+   "submit",
+   "submits",
+   "submitting",
+   "submitted"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'submit' is the correct choice as it means to give or send something to someone in authority.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before a noun starting with 'u'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'a' before a noun starting with 'u'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ______ my master's degree.",
+  "options": [
+   "will have finished",
+   "finish",
+   "have finished",
+   "am finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed before a specific point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is _______ to provide excellent customer service.",
+  "options": [
+   "commit",
+   "committed",
+   "committing",
+   "will commit"
+  ],
+  "correctIndex": 1,
+  "explanation": "The verb 'committed' is the correct choice as it means dedicated or pledged to something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before a noun that starts with 'a'?",
+  "options": [
+   "the",
+   "an",
+   "no article",
+   "any"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the beach every summer.",
+  "options": [
+   "go",
+   "am going",
+   "have gone",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present simple tense 'go' to indicate a habitual action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to _______ his homework before he could go out.",
+  "options": [
+   "do",
+   "does",
+   "doing",
+   "to do"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'do' because it is in the base form, used after certain verbs like 'ask' to indicate a request or demand.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with 'a' sound?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'a' is used before a noun that starts with a non-silent 'a' sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ the answer to that question.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'knew' because it is in the past tense, used for completed actions in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave _______ students a lot of homework.",
+  "options": [
+   "the",
+   "no article",
+   "a",
+   "an"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'no article' with 'students' to indicate all the students in a class.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article used before a noun starting with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used before a noun starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my homework when my phone rang.",
+  "options": [
+   "was doing",
+   "did",
+   "am doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific time.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide _______ excellent service to all its customers.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'excellent service' to indicate any good service.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the article used before words starting with 'a' and 'an'?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'a' or 'an' before words starting with 'a' or 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is in the second conditional form, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will _______ a significant impact on the economy.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'impact' to indicate a general or abstract effect.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following is an example of a non-countable noun?",
+  "options": [
+   "book",
+   "water",
+   "happiness",
+   "music"
+  ],
+  "correctIndex": 1,
+  "explanation": "A non-countable noun is a noun that cannot be counted, such as 'water'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ more time to finish this project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is used in the third conditional to express past conditions and their past consequences.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their homework before class.",
+  "options": [
+   "do",
+   "does",
+   "done",
+   "doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'do' is the correct choice as it means to perform or accomplish an action.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe something you have already mentioned?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'the' to describe something we have already mentioned.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ my new job for over a year.",
+  "options": [
+   "will have been working on",
+   "am working on",
+   "have been working on",
+   "had been working on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their questions until the end of class.",
+  "options": [
+   "write down",
+   "wrote down",
+   "writing down",
+   "written"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'write down' because it is in the present participle passive voice, used after verbs like 'asked' to describe an action that is being requested or instructed.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe specific things?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 2,
+  "explanation": "The definite article 'the' is used to describe specific things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car repaired after it broke down.",
+  "options": [
+   "had",
+   "have",
+   "was having",
+   "am having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I _________ studying for five years.",
+  "options": [
+   "will have been",
+   "am",
+   "have been",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before the word 'apple'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'An' is used before the word 'apple' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would have finished my project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional tense, indicating a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is trying to _______ more customers for its new product.",
+  "options": [
+   "acquire",
+   "procure",
+   "obtained",
+   "bought"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'acquire' is the correct choice as it means to gain or obtain something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The article 'a' is used for _______.",
+  "options": [
+   "names of countries",
+   "things we have",
+   "countable nouns",
+   "uncountable nouns"
+  ],
+  "correctIndex": 2,
+  "explanation": "'A' is used for countable nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would finish the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had' because it is in the second conditional tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous on _______ first day of work.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns, while 'the' is the correct choice for a specific, singular noun.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for singular nouns?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'a' or 'an' before singular countable nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "She is married _______ a lawyer.",
+  "options": [
+   "with",
+   "to",
+   "by",
+   "at"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'to' because it indicates the marital status or partner.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will affect _______ citizens of the city.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "Indefinite articles are used for non-specific singular nouns, but since 'citizens' is plural and referring to all city residents, no article is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for singular countable nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article for singular countable nouns is 'a' or 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ English for five years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the function of the definite article 'the'?",
+  "options": [
+   "To indicate that something is non-specific",
+   "To indicate that something is specific or unique",
+   "To separate items in a list",
+   "To form a possessive"
+  ],
+  "correctIndex": 1,
+  "explanation": "'The' is used to indicate that something is specific or unique.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with a silent 'h'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "'An' is used before a noun that starts with a silent 'h'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the movies every weekend.",
+  "options": [
+   "go",
+   "went",
+   "am going",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present simple tense 'go' to describe a habitual action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city has _______ beautiful parks where people can take walks and enjoy nature.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'parks' to indicate any beautiful parks in the city.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following is an example of a zero article?",
+  "options": [
+   "I have a book -- it's mine.",
+   "I am reading the book -- you read it too.",
+   "The city has a beautiful park -- we often go there.",
+   "I love to eat breakfast -- eggs are my favorite."
+  ],
+  "correctIndex": 0,
+  "explanation": "A zero article is used before nouns that do not require any article, such as 'book' in this case, which is a common noun.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, my alarm had gone off.",
+  "options": [
+   "woke",
+   "wake",
+   "wakes",
+   "have woken"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past tense to indicate an action that occurred at a specific point in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their notes carefully before the exam.",
+  "options": [
+   "read",
+   "reading",
+   "reads",
+   "to read"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the singular verb 'read' to agree with the uncountable noun 'notes', indicating a directive or instruction.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe a non-specific noun?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used to describe a non-specific noun.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ you if I knew your phone number.",
+  "options": [
+   "call",
+   "calls",
+   "calling",
+   "called"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'call' because it is in the base form, used after verbs like 'if' to form a conditional sentence.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and made a lot of friends quickly.",
+  "options": [
+   "social",
+   "socialize",
+   "socially",
+   "socializing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective 'social' is the correct choice as it describes someone who is good at interacting with people.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the article for the word 'book'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'A' is used before the word 'book' because it starts with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I ________ six languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "am learning",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'will have learned' because it is in the future perfect tense, indicating an action that will be completed before a specific point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will _______ its headquarters to New York.",
+  "options": [
+   "move",
+   "moves",
+   "moving",
+   "to move"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'move' is the correct choice as it means to transport something from one place to another.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is _______ place where I was born.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'a' before 'city' because it is a non-specific city.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ five years of experience in marketing.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future perfect tense is used to express an action that will be completed at a specific point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ strong reputation in the industry.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "When referring to a non-specific or generalized category, no article is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for something you haven't seen before?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'a' or 'an' is used for something previously unknown.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I ______ two years of experience in marketing.",
+  "options": [
+   "will have",
+   "am having",
+   "have",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The hotel room had _______ amazing view of the city.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before the word 'apple'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'An' is used before the word 'apple' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using the present simple to describe a hypothetical situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is _______ beautiful sight to see.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before 'hour'?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'The' is used before 'hour'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the movies when I was a child.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'went' because it is in the simple past tense, used for completed actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ been facing financial difficulties for the past year.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'been facing' to indicate general or repeated conditions in the past.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun starting with a consonant sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used before a noun starting with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, it was already 8 o'clock.",
+  "options": [
+   "woke",
+   "wake",
+   "have woken",
+   "was waking"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past simple tense 'woke' to indicate an action that happened at a specific time.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were required to _______ their homework on time.",
+  "options": [
+   "do",
+   "does",
+   "doing",
+   "done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'do' is the correct choice as it means to perform or execute an action.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for something we have already mentioned?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 2,
+  "explanation": "We use 'the' for things previously mentioned.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their new car next month.",
+  "options": [
+   "are selling",
+   "sell",
+   "have sold",
+   "are going to sell"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the future simple tense, indicating a planned or arranged action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is located _______ the west coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'On' expresses the line that separates two areas.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for words starting with a vowel?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before words starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ rain, we would go to the beach.",
+  "options": [
+   "does not",
+   "did not",
+   "does not do",
+   "did not do"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the negative present simple 'does not' to express a habitual or general truth.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is located _______ the coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate proximity or adjacency.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with a consonant?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used before words starting with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, they had left.",
+  "options": [
+   "have",
+   "had",
+   "was having",
+   "were having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide _______ training to all new employees.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'training' to indicate any training provided by the company.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before words starting with a vowel?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before words starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ their wedding on a sunny day.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "having"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'had' because it is used in the past tense to describe a completed action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city of _______ is known for its beautiful beaches.",
+  "options": [
+   "Miami",
+   "New York",
+   "Los Angeles",
+   "Chicago"
+  ],
+  "correctIndex": 0,
+  "explanation": "Miami has been famous for its beaches due to its tropical location and stunning coastline.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article do we use before a noun that starts with 'a' sound?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "'A' is used before a noun that starts with a short vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ______ snow tomorrow.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would' because it is used in the third conditional to talk about past conditions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I'm looking for _______ apartment with _______ bedroom.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "Indefinite articles 'a' and 'an' are used for non-specific, singular nouns; 'the' for specific, singular nouns; no article for generalizations or plural nouns.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article for something singular and non-specific?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ______ in this company for ten years.",
+  "options": [
+   "will have been working",
+   "am working",
+   "have worked",
+   "work"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'will have been working' because it is in the future perfect continuous tense, indicating an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is _______ tourist destination during the summer months.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "'Tourist' begins with a vowel sound, so 'a'.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The word 'an' is used before a noun that starts with a _______ sound.",
+  "options": [
+   "vowel",
+   "consonant",
+   "diphthong",
+   "triphthong"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'an' is used before a noun that starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ me they were on holiday.",
+  "options": [
+   "told",
+   "tell",
+   "are telling",
+   "were telling"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'told' because it is in the simple past tense, used for completed actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I love ______ music of the 1920s.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "We use no article with 'music' when referring to a general category.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The sentence 'I love reading books' uses a _______ article.",
+  "options": [
+   "definite",
+   "indefinite",
+   "independent",
+   "dependent"
+  ],
+  "correctIndex": 1,
+  "explanation": "'I love reading books' is an example of a sentence with an indefinite article.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, they ______ already left.",
+  "options": [
+   "woke up",
+   "wake up",
+   "have woken up",
+   "had woken up"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'had woken up' because it indicates that the action of waking up happened before something else in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their questions on the topic of science.",
+  "options": [
+   "write",
+   "wrote",
+   "writes",
+   "writing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'write' is the correct choice as it indicates the action of expressing something in writing.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for things we haven't seen yet?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "We use 'a' or 'an' before 'yet'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past tense 'had' to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their books and take out pens.",
+  "options": [
+   "open",
+   "opening",
+   "opens",
+   "opened"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'open' is the correct choice as it indicates the action of preparing to read from a book.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with a consonant?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used before a noun that starts with a consonant.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ to the gym three times a week.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'go' because it is in the present simple tense, used for habitual or routine actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and made many friends.",
+  "options": [
+   "social",
+   "in social",
+   "at social",
+   "on social"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective 'social' is the correct choice as it describes someone who is comfortable and enjoys being around people.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following words is a definite article?",
+  "options": [
+   "an",
+   "a",
+   "the",
+   "none"
+  ],
+  "correctIndex": 2,
+  "explanation": "The word 'the' is a definite article.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more free time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'have' because it is used in the first conditional to talk about a present or future condition and its possible result.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will affect _______ citizens living in _______ city.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'citizens' and 'city' to indicate all citizens living in the city.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The article 'a' is used before _______.",
+  "options": [
+   "names of cities",
+   "countable nouns",
+   "uncountable nouns",
+   "indefinite pronouns"
+  ],
+  "correctIndex": 1,
+  "explanation": "The article 'a' is used before countable nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ______ snow tomorrow so we could build a snowman.",
+  "options": [
+   "will",
+   "would",
+   "should",
+   "can"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would' because it is used in the third conditional to express a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences is grammatically incorrect?",
+  "options": [
+   "I love to eat an apple",
+   "I love to eat a apple",
+   "I love to eat the apples",
+   "I love to eat the apple"
+  ],
+  "correctIndex": 1,
+  "explanation": "The noun 'apple' is singular, so the indefinite article 'a' is used, not 'an'.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with a consonant sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used before words starting with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ snow, we would build a snowman.",
+  "options": [
+   "does",
+   "did",
+   "will do",
+   "would do"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'would do' because it is used in the third conditional to describe a past hypothetical situation and its potential consequences.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost in _______ streets of the old city.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "When referring to non-specific or general areas, no article is used.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the article used before the word 'book'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'A' is used before the word 'book'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They will ______ me if they want to borrow money.",
+  "options": [
+   "lend",
+   "leant",
+   "have lent",
+   "lent"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'lend' because it is in the future tense, used for planned or predicted actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their books and be quiet.",
+  "options": [
+   "close",
+   "closes",
+   "closing",
+   "closed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'close' is the correct choice as it means to put something away or shut it.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words that start with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'An' is used before words that start with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ in this city for three years.",
+  "options": [
+   "will have lived",
+   "am living",
+   "have lived",
+   "live"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will ______ new products next quarter.",
+  "options": [
+   "launch",
+   "launches",
+   "launching",
+   "launched"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'launch' is the correct choice as it means to introduce a product to the market.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences uses a definite article?",
+  "options": [
+   "I love to watch the sun rise.",
+   "The movie was amazing.",
+   "My favorite color is blue.",
+   "They eat breakfast at 7am."
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence 'The movie was amazing.' uses a definite article because it refers to a specific movie.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the movies every week.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'go' because it is in the present simple tense, used for habitual actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ a new policy to reduce its carbon footprint.",
+  "options": [
+   "introduced",
+   "introducing",
+   "have introduced",
+   "was introduced"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'introduce' is the correct choice as it means to bring something new into use or awareness.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun that starts with 'a' or 'an'?",
+  "options": [
+   "the",
+   "no article",
+   "an",
+   "a"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'a' before a noun that starts with 'a' or 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past tense to express a hypothetical situation in the present.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ eaten dinner.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the article used before the word 'hour'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Hour' starts with a vowel sound, so 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "am going",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'would go' because it is in the conditional tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has ________ responsibility for the safety of its employees.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for plural nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' for plural nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more money when I was younger.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy has had ______ significant impact on the local community.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' to indicate the policy has had an impact that is general and not specifically referred to.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for non-specific nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' for non-specific nouns that start with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is ______ tourist attraction.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee felt _______ and nervous on his first day of work.",
+  "options": [
+   "awkward",
+   "awkwardness",
+   "awkwarded",
+   "awkwardly"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective 'awkward' is the correct choice as it describes the feeling of being uncomfortable or not confident.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The word 'a' is an example of:",
+  "options": [
+   "definite article",
+   "indefinite article",
+   "inferred article",
+   "unmarked article"
+  ],
+  "correctIndex": 1,
+  "explanation": "An indefinite article is used for non-specific or singular nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more free time to travel.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is in the second conditional form, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's _______ to innovation has led to the creation of several new products.",
+  "options": [
+   "commitment",
+   "commit",
+   "committed",
+   "commits"
+  ],
+  "correctIndex": 0,
+  "explanation": "The noun 'commitment' is the correct choice as it refers to a promise or pledge to do something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun starting with a vowel sound?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before a noun starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next week, I ______ English for three years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a certain point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's _______ to quality has been a key factor in its success.",
+  "options": [
+   "focus",
+   "focusing",
+   "focused",
+   "focuses"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'focus' is the correct choice as it means to concentrate one's efforts or attention on something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is ______ bestseller.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 0,
+  "explanation": "'Bestseller' starts with a consonant sound, so 'a'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ English for three years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'will have been studying' because it is in the future perfect continuous tense, indicating an action that will continue up to a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide ________ training to all employees.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns, but 'training' is specific and already has a noun after it.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following is not an English article?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "on"
+  ],
+  "correctIndex": 3,
+  "explanation": "The word 'on' is not an English article.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more time to finish my project.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is in the past tense, used in the subjunctive mood to express a hypothetical or uncertain situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is _______ excellent location for a beach vacation.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "Geographical locations are not preceded by articles.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with 'a' or 'an'?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'a' or 'an' before words that start with 'a' or 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "She is __ good student and gets good grades.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Good' starts with a vowel sound, so 'an'.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's _______ to innovation has led to the development of several new products.",
+  "options": [
+   "commitment",
+   "commit",
+   "committed",
+   "commits"
+  ],
+  "correctIndex": 0,
+  "explanation": "The noun 'commitment' is the correct choice as it refers to a promise or pledge to do something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before words starting with a vowel?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "We use 'an' before words starting with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ up, it was raining.",
+  "options": [
+   "woke",
+   "am waking",
+   "have woken",
+   "was woken"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'woke' because it is in the simple past tense, used for completed actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous on _______ day at the company.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   ""
+  ],
+  "correctIndex": 3,
+  "explanation": "We use no article with 'day' to indicate any day in the past.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before the word 'orange'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'An' is used before the word 'orange' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ you, I would not have borrowed money from my friend.",
+  "options": [
+   "were",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'were' because it is in the second conditional tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was given _______ lunch break to adjust to the new schedule.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'lunch break' to indicate it is a general term for a meal break.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The sentence 'I love to eat an apple.' uses a:",
+  "options": [
+   "definite article",
+   "indefinite article",
+   "zero article",
+   "contraction"
+  ],
+  "correctIndex": 1,
+  "explanation": "'An' is an indefinite article used before a noun.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more free time, I would travel more.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present tense to express a present ability or condition.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for ten years now.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'have' is the correct choice as it indicates that the action of owning the car started at an unspecified point in the past and continues up to the present.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe a specific thing?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "The definite article 'the' is used to describe a specific thing.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ you, I would not have bought this car.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'were' because it is in the second conditional tense, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ and asked many questions during the training session.",
+  "options": [
+   "confident",
+   "confidence",
+   "confidently",
+   "unconfident"
+  ],
+  "correctIndex": 0,
+  "explanation": "Confident refers to having trust in one's abilities or judgment, which is the correct term to describe the new employee.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe a non-specific, singular noun?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used to describe a non-specific, singular noun.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ a better musician.",
+  "options": [
+   "am",
+   "was",
+   "were",
+   "had been"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'were' because it is in the subjunctive mood, used for hypothetical or uncertain situations.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to _______ their homework before the exam.",
+  "options": [
+   "submit",
+   "submits",
+   "submitting",
+   "submitted"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'submit' is the correct choice as it means to give or send something to someone in authority.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before the word 'apples'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "'An' is used before the word 'apples' because it starts with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "She wishes she ________ more time to finish the project.",
+  "options": [
+   "has",
+   "had",
+   "have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is used in the third conditional to describe past conditions and their possible consequences.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous _______ his first day of work.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The fixed phrase is 'nervous on/upon something'.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used to describe something unique or already mentioned?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "The definite article 'the' is used to describe something unique or already mentioned.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their new house next month.",
+  "options": [
+   "will move",
+   "move",
+   "are moving",
+   "have moved"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future simple tense is used to talk about planned or arranged events in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave the _______ of the class a special assignment.",
+  "options": [
+   "students",
+   "student",
+   "a student",
+   "a group of students"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'a group of' to refer to a collective noun treated as a plural.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The indefinite article 'a' is used to describe:",
+  "options": [
+   "a specific noun",
+   "a general category of nouns",
+   "a plural noun",
+   "a compound noun"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'a' is used to describe a non-specific noun, such as an example or instance.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their wedding photos on Instagram.",
+  "options": [
+   "post",
+   "posts",
+   "posted",
+   "are posting"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Post' is the correct verb form to use in this context.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city's _______ for education is one of its strengths.",
+  "options": [
+   "focus",
+   "focusses",
+   "focused",
+   "focusing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The noun 'focus' is the correct choice as it refers to the city's attention or priority on education.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The article 'a' is used before words that start with a _______ sound.",
+  "options": [
+   "vowel",
+   "consonant",
+   "diphthong",
+   "triphthong"
+  ],
+  "correctIndex": 0,
+  "explanation": "The article 'a' is used before words that begin with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would finish this project.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'have' because it is in the present tense, used in the second conditional to describe a hypothetical present situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city _______ a population of 500,000.",
+  "options": [
+   "has",
+   "have",
+   "is",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'has' is the correct choice as it indicates that the city possesses or contains a certain number of inhabitants.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for things we know the name of?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "We use 'the' for things we know the name of.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "She is ______ excellent teacher.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "Indefinite articles are used for non-specific, singular nouns.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to _______ his homework before class.",
+  "options": [
+   "complete",
+   "completing",
+   "completed",
+   "to complete"
+  ],
+  "correctIndex": 3,
+  "explanation": "Use of 'to complete' is required here as it indicates the purpose or intention behind the action of asking.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The word 'a' is used before a noun that starts with ______.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'A' is used before a noun that starts with 'h' (except when pronounced as 'a' - e.g., hour).",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ enough money to travel.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is used in the third conditional to talk about past conditions and their potential consequences.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to _______ the textbook for the exam.",
+  "options": [
+   "read",
+   "reading",
+   "reads",
+   "read"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'read' is the correct choice as it can be used in both the simple and the infinitive form, and in this context, it is used to indicate the action of the student.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following is a plural noun?",
+  "options": [
+   "book",
+   "books",
+   "the books",
+   "a book"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Books' is a plural noun.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every Monday.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present tense, describing a habitual action.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourist got _______ in the city and had to ask for directions.",
+  "options": [
+   "lost",
+   "lose",
+   "loss",
+   "losing"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Lost' means unable to find one's way or place.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the article used before 'hour'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Hour' starts with a vowel sound, so 'an'.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ______ colder today so I could go swimming.",
+  "options": [
+   "were",
+   "is",
+   "was",
+   "will be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'were' because it is in the subjunctive mood, used to express a wish or hypothetical situation.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students wrote _______ essays on the topic of climate change.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 3,
+  "explanation": "We use 'no article' with 'essays' to indicate any essays written on the topic.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used before a noun starting with 'a'?",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'a' is used before a noun that starts with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more free time to learn how to play the guitar.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past tense to express a hypothetical or uncertain situation in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is looking _______ a new CEO to lead the organization.",
+  "options": [
+   "for",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'for' is used to indicate a search or an inquiry.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the indefinite article used before words that start with 'u'?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "none"
+  ],
+  "correctIndex": 1,
+  "explanation": "The indefinite article 'an' is used before words that start with a vowel sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "___ teacher said that the exam was ___ hardest one I've ever taken.",
+  "options": [
+   "A",
+   "the",
+   "an",
+   "the"
+  ],
+  "correctIndex": 2,
+  "explanation": "'The' for unique things, but 'an' before 'hardest'.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the difference between 'a' and 'an'?",
+  "options": [
+   "No difference",
+   "A is used before nouns that start with a consonant sound, an is used before nouns that start with a vowel sound",
+   "An is used before nouns that start with a consonant sound, a is used before nouns that start with a vowel sound",
+   "There is no difference in meaning or usage"
+  ],
+  "correctIndex": 1,
+  "explanation": "'A' is used before nouns that start with a consonant sound (like 'book'), 'an' is used before nouns that start with a vowel sound (like 'hour').",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for singular countable nouns?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 0,
+  "explanation": "The indefinite article 'a' is used for singular countable nouns.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ______ my driving license for 10 years.",
+  "options": [
+   "will have had",
+   "have",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a point in the future.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee had trouble _______ his colleagues and adapting to the work environment.",
+  "options": [
+   "to get along with",
+   "getting along with",
+   "get along with",
+   "gets along with"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence uses the infinitive form of the verb after 'had trouble'.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which article is used for specific things?",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no article"
+  ],
+  "correctIndex": 2,
+  "explanation": "We use 'the' for specific things.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car repaired last week.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'had' because it is in the past tense, used for completed actions.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city's _______ for clean air has led to a decrease in respiratory illnesses.",
+  "options": [
+   "efforts",
+   "effort",
+   "endeavor",
+   "endeavors"
+  ],
+  "correctIndex": 0,
+  "explanation": "The noun 'efforts' is the correct choice as it refers to the act of trying or working hard to accomplish something.",
+  "topic": "Articles",
+  "level": "Advanced"
+ },
+ {
+  "question": "The word 'a' is used before a noun that starts with _______.",
+  "options": [
+   "a consonant",
+   "a vowel",
+   "any letter",
+   "an abbreviation"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'a' is used before a noun that starts with a consonant sound.",
+  "topic": "Articles",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ to the party, everyone had left.",
+  "options": [
+   "arrive",
+   "will arrive",
+   "have arrived",
+   "had arrived"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Articles",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will _______ for all employees from now on.",
+  "options": [
+   "apply",
+   "applies",
+   "applying",
+   "to apply"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'apply' is the correct choice as it means to use or put something into effect.",
+  "topic": "Articles",
+  "level": "Advanced"
+ }
+]

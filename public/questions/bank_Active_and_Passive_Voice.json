@@ -1,0 +1,1562 @@
+[
+ {
+  "question": "The students are preparing for the exam.",
+  "options": [
+   "The exam is being prepared by the students.",
+   "The students are being prepared by the exam.",
+   "The exam is being prepared by the teacher.",
+   "The teacher is preparing the exam."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the exam rather than the students.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher is giving the students some homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of giving, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is going to hire a new employee.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of hiring an employee, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is grading the students' papers.",
+  "options": [
+   "The students' papers are being graded by the teacher.",
+   "The teacher is grading the students' papers.",
+   "The students are being graded by the teacher.",
+   "The teacher is being graded by the students."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the papers rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The scientist is conducting an experiment.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'scientist' is performing the action 'conducting', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The scientist is researching the new treatment for cancer.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'scientist' is performing the action 'researching', so it is in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students are writing their essays.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is performing the action 'writing', so it's an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The report has been submitted to the manager.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'report' is acted upon by an unspecified person or thing, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will be implemented next month.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'policy' is acted upon by 'be implemented', so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The chef is cooking the dinner.",
+  "options": [
+   "The dinner is being cooked by the chef.",
+   "The chef is being cooked by the dinner.",
+   "The dinner is cooking the chef.",
+   "The chef is cooking the dinner."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the dinner rather than the chef.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher is grading the students' essays.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of grading, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher will grade the students' assignments.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is acted upon by 'assignments', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee is being trained by the HR department.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'employee' is having the action 'trained' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are writing the report.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is performing the action of writing, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The manager is training the new employees.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' performs the action of training, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The team is working on the project.",
+  "options": [
+   "The project is being worked on by the team.",
+   "The team is working on the project.",
+   "The project is working on the team.",
+   "The team is being worked on by the project."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the project rather than the team.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package will be delivered tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is hiring a new sales manager.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of hiring someone, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is giving a lesson to the students.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of giving a lesson, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team will be working on the project for several months.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is performing the action 'working', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is being audited by the government.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is acted upon by 'government', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is giving a lecture.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of giving a lecture.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is investing a lot of money in research and development.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action 'investing', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is going to fire the employee.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of firing the employee, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is correcting the student's homework.",
+  "options": [
+   "The student is being corrected by the teacher.",
+   "The teacher is correcting the student's homework.",
+   "The student is correcting the teacher.",
+   "The teacher is being corrected by the student."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the student rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is being investigated for their unethical practices.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'investigated' done to it, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is being audited for potential fraud.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'audited' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is being read by me.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'book' is acted upon by 'me', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee has been trained by the HR department.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'employee' is having the action 'trained' done to it, which is the definition of a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was trained by the management team.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'employee' is acted upon by 'management team', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is grading the students' homework.",
+  "options": [
+   "The students' homework is being graded by the teacher.",
+   "The teacher's homework is being graded by the students.",
+   "The students are grading their homework.",
+   "The teacher is grading their homework."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the students rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team has been working on the project for months.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is performing the action of working, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will be audited by an independent firm.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'audited' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The manager will hire the new employee next week.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'manager' is having the action 'hired' done to it, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students were being taught by the teacher.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'students' is acted upon by 'teacher', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will be implemented by the end of the year.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'policy' is acted upon by 'will be implemented', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company will be closed on Friday.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'closed' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is hiring new employees to expand its operations.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of hiring employees, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher is explaining the complex theories to her students.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of explaining, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is giving the students a lesson.",
+  "options": [
+   "The students are being given a lesson by the teacher.",
+   "The teacher is giving the lesson to the students.",
+   "Students are giving lessons to the teacher.",
+   "The students are giving a lesson to the teacher."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the students rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are being taught by the teacher.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'students' is having the action 'taught' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The manager will be speaking at the conference next week.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'manager' is acted upon by 'speaking', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee will be trained by the HR department.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'employee' is having the action 'trained' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is hiring new employees.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of hiring employees.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will be implemented by the management team next month.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'policy' is acted upon by 'management team', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new policy will be implemented next year.",
+  "options": [
+   "The policy will be implemented next year.",
+   "The policy will implement next year.",
+   "Next year will implement the policy.",
+   "The policy will be implemented by next year."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the policy rather than who is implementing it.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is being audited by an external firm.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'audited' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The scientist conducted an experiment.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'scientist' performs the action of conducting the experiment, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cake is being eaten by the children.",
+  "options": [
+   "The children are eating the cake.",
+   "The cake is being eaten by the children.",
+   "The children are being eaten by the cake.",
+   "The cake is eating the children."
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the cake rather than the children.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher is correcting the students' homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of correcting, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The manager has been giving instructions to the staff since the new policy was implemented.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'the manager' is performing the action 'giving instructions', making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students are taking notes in the classroom.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is performing the action of taking notes, so it's an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package will be delivered to the customer by the delivery driver.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The package will be delivered to the new address.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The package has been delivered to the address.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The manager is writing the report.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action of writing, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers spent months studying the effects of climate change.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is performing the action of studying, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The manager is meeting with the employees.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action 'meeting', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher is giving the students their homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is performing the action of giving, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is developing new software.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of developing, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company will be visited by the CEO tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'visited' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The manager has been training the employees for months.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action of training, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The package will be delivered to the sender by the courier company.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is acted upon by 'courier company', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is grading the student's assignment.",
+  "options": [
+   "The student is being graded by the teacher.",
+   "The teacher is being graded by the student.",
+   "The assignment is being graded by the student.",
+   "The assignment is being graded by the teacher."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the student rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The chef is preparing the dishes.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'chef' is performing the action of 'preparing', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is being audited for financial irregularities.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'audited' done to it, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The chef is preparing the dish.",
+  "options": [
+   "The dish is being prepared by the chef.",
+   "The chef is being prepared by the dish.",
+   "The dish is preparing the chef.",
+   "The chef is preparing the dish."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the dish rather than the chef.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package was delivered to the office yesterday.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of scientists are working on developing a new vaccine.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'scientists' is being acted upon by an unspecified agent, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "I am learning English.",
+  "options": [
+   "English is learning me.",
+   "I am being learned by English.",
+   "English is being learned by me.",
+   "I am learning English."
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the learner rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The manager will sign the contract.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action of signing the contract, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher marked the students' homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is acted upon by 'students', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The package is being delivered to the customer.",
+  "options": [
+   "The customer is being delivered the package.",
+   "The package is being delivered to the customer.",
+   "The customer is delivering the package.",
+   "The package is delivering the customer."
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the package rather than the customer.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher will be grading the students' assignments tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is having the action of grading done to it, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The manager will be giving a presentation tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'manager' is having the action 'will be giving', so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company is hiring candidates for the job.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of hiring candidates.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The manager will be meeting with the employees tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'manager' is acted upon by 'employees', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is being audited by the accounting department.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action of being audited done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students are doing their homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is performing the action of doing their homework, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The student is writing the report.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'student' is performing the action 'writing', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is investing heavily in research and development.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of investing, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee is learning the company's policies.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'employee' is performing the action of learning, so it is in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is developing a new product.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of developing, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is being audited by the government agency.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'audited' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher corrected the student's homework.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'the teacher' is performing the action 'corrected', so it is in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is being investigated by the authorities.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is having the action 'investigated' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The package is being delivered by the courier service.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is acted upon by 'courier service', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is giving us a lecture.",
+  "options": [
+   "We are being given a lecture by the teacher.",
+   "We are giving a lecture to the teacher.",
+   "The teacher is giving us a lecture.",
+   "The teacher are giving us a lecture."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the students rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package will be delivered by the courier tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team will be working on the project for several weeks.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'team' is acted upon by an unspecified entity ('will be working'), making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company will be inspected next week.",
+  "options": [
+   "The company will inspect us next week.",
+   "We will be inspected by the company next week.",
+   "The company will be inspected by us next week.",
+   "We will inspect the company next week."
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the passive voice because it focuses on the subject (company) rather than the action (inspection).",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The report has been submitted by the team.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'report' is acted upon by 'team', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is developing a new software.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action 'developing', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company is developing new products.",
+  "options": [
+   "New products are being developed by the company.",
+   "The company is being developed by new products.",
+   "New products are developing the company.",
+   "The company is developing new products."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the new products rather than the company.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will be implemented next week.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'policy' is having the action 'implemented' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team is developing the software.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' performs the action of developing the software, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The manager will be interviewed by the journalist tomorrow.",
+  "options": [
+   "The journalist will interview the manager tomorrow.",
+   "The manager will be interviewed by the journalist tomorrow.",
+   "The journalist will be interviewed by the manager tomorrow.",
+   "The manager will interview the journalist tomorrow."
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the manager rather than the journalist.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The research has been published in the journal for several years.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'research' is acted upon by an unspecified agent, making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The chef is preparing the meal for dinner.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'chef' is performing the action of 'preparing', making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cake was eaten by the children.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in passive voice because the subject 'cake' is having the action 'eaten' done to it.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The research is being conducted by the team of scientists.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'research' is acted upon by 'team of scientists', so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The software was written by the team of developers.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'software' is acted upon by 'team', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is giving us instructions.",
+  "options": [
+   "We are being given instructions by the teacher.",
+   "The teacher is giving us instructions.",
+   "The instructions are being given to us by the teacher.",
+   "We are giving instructions to the teacher."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the students rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The manager is giving a speech.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action of giving the speech, so it's an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The package will be delivered by the courier on Monday.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'package' is having the action 'delivered' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is grading the student papers.",
+  "options": [
+   "The student papers are being graded by the teacher.",
+   "The teacher is being graded by the student papers.",
+   "The student papers are grading the teacher.",
+   "The teacher is grading the students."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the student papers rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is looking for a new employee to join their team.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action 'looking', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team is being led by the new manager.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'team' is having the action 'led' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The manager will fire the employee tomorrow.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'manager' is performing the action of firing, so it's an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The scientists are conducting the experiment.",
+  "options": [
+   "The experiment is being conducted by the scientists.",
+   "The scientists are conducting the experiment.",
+   "The experiment is conducting the scientists.",
+   "Scientists are conducting the experiment."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the experiment rather than the scientists.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will be audited by an external firm.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence can be written in active voice as 'An external firm will audit the company' but it is more commonly written in passive voice to focus on the company rather than the auditors.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cake was baked by my mother.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cake' is acted upon by 'my mother', making it a passive voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The researchers are analyzing the data.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'researchers' is performing the action of analyzing, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has been investigating the complaint for weeks.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action of investigating, so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher is teaching the students.",
+  "options": [
+   "The students are being taught by the teacher.",
+   "The teacher is taught by the students.",
+   "The students are teaching the teacher.",
+   "The teacher is teaching the students."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the students rather than the teacher.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team of researchers is conducting the study.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team of researchers' is performing the action 'conducting', so it's in the active voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The chef is preparing the meal.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'chef' is performing the action of preparing the meal, making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company is looking for new employees.",
+  "options": [
+   "New employees are being looked for by the company.",
+   "The company is being looked for by new employees.",
+   "Employees are being looked for by the company.",
+   "The company is looking for new employees."
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence can be rewritten in the passive voice to focus on the new employees rather than the company.",
+  "topic": "Active and Passive Voice",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is hiring candidates for the new position.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is performing the action 'hiring', making it an active voice sentence.",
+  "topic": "Active and Passive Voice",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The software has been updated by the IT department.",
+  "options": [
+   "Active voice",
+   "Passive voice",
+   "Both active and passive voice",
+   "Neither active nor passive voice"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'software' is having the action 'updated' done to it, so it's in the passive voice.",
+  "topic": "Active and Passive Voice",
+  "level": "Advanced"
+ }
+]

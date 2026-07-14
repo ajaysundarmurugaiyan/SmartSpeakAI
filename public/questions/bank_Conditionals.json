@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "By next year, I _______ English for three years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, which is used to talk about an action that will be completed before a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had taken that job, I __________ now in New York.",
+  "options": [
+   "would live",
+   "will live",
+   "live",
+   "lived"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Would live' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were to win the lottery, I _______ a house in the countryside.",
+  "options": [
+   "will buy",
+   "would buy",
+   "bought",
+   "had bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the beach.",
+  "options": [
+   "rains",
+   "rained",
+   "will rain",
+   "had rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it had snowed last night, we ________ skiing.",
+  "options": [
+   "will go",
+   "would go",
+   "go",
+   "went"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had taken that job, I __________ in Paris now.",
+  "options": [
+   "live",
+   "lives",
+   "would live",
+   "would have lived"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ you, I would not have borrowed money from him.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "are"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I ________ the job offer.",
+  "options": [
+   "will accept",
+   "would accept",
+   "accept",
+   "accepted"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I would have been able to finish the project on time if I __________ more efficiently.",
+  "options": [
+   "had worked",
+   "work",
+   "have worked",
+   "was working"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Had worked' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ tomorrow, we will take the bus.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The first conditional is used for likely situations, so 'will rain' is the correct answer to show a future result.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ yesterday, we would have gone to the beach.",
+  "options": [
+   "had rained",
+   "rained",
+   "will rain",
+   "would rain"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations, but 'rained' is more appropriate here as it describes the actual situation.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would finish this project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ (rain) tomorrow, we will go to the beach.",
+  "options": [
+   "rains",
+   "will rain",
+   "rained",
+   "rain"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more free time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it had rained yesterday, the crops _______________.",
+  "options": [
+   "will be saved",
+   "would have been saved",
+   "are saving",
+   "saved"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I _______ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "can travel",
+   "would travel"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ last night, we would have gone to the movies.",
+  "options": [
+   "hadn't been raining",
+   "wasn't raining",
+   "doesn't rain",
+   "didn't rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations. 'Hadn't been raining' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past unreal or hypothetical situations. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ the recipe carefully, I would not have burnt the cake.",
+  "options": [
+   "read",
+   "will read",
+   "had read",
+   "am reading"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'had read' because it is the third conditional, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the contest, I _______ a car.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ you, I would not have bought that expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I _______ a big house.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would buy' because it describes a hypothetical situation in the present or future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I _______ that job.",
+  "options": [
+   "will accept",
+   "accept",
+   "am accepting",
+   "would accept"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional form, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it _______ yesterday, we would have gone to the movies.",
+  "options": [
+   "had snowed",
+   "snows",
+   "is snowing",
+   "will snow"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ enough money, I will buy a house.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "has"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied English when I was younger, I __________ (speak) it fluently now.",
+  "options": [
+   "can speak",
+   "could speak",
+   "would speak",
+   "may speak"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Could speak' is the correct verb form to use in this context, as it expresses ability or possibility in the past.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I _______ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "am buying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would buy' because it is the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ tomorrow, we will take an umbrella.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for likely or possible situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had taken that job, I _______ in New York now.",
+  "options": [
+   "will live",
+   "would live",
+   "live",
+   "lived"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder when I was at school, I ________ passed the exam.",
+  "options": [
+   "will pass",
+   "would have passed",
+   "pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the third conditional form, used for past situations that did not happen. 'Would have passed' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied hard when I was at school, I __________ (pass) my exams.",
+  "options": [
+   "can pass",
+   "could pass",
+   "will pass",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, which is used for past unreal or hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it __________ (snow) so we could go skiing.",
+  "options": [
+   "will snow",
+   "would snow",
+   "snows",
+   "snowed"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the third conditional form, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder, I _______ passed the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "can pass",
+   "may pass"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I __________ (not study) for the exam.",
+  "options": [
+   "do not study",
+   "will not study",
+   "would not study",
+   "am not studying"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ three languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "am learning",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific point in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ you if you called me.",
+  "options": [
+   "will call",
+   "call",
+   "would call",
+   "called"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'would call' because it is the second conditional, which is used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ tomorrow, we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were rich, I _______ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "can buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form. 'Would buy' is the correct answer because it expresses a hypothetical action in the future.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I __________ (travel) around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "traveled",
+   "would travel"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had known about the party, I ________.",
+  "options": [
+   "will go",
+   "would go",
+   "went",
+   "had gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I won the lottery, I _______ my family a big house.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder, I __________ (pass) the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "passed",
+   "pass"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I _______ my master's degree.",
+  "options": [
+   "will have finished",
+   "finish",
+   "have finished",
+   "am finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to the gym every day if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "will go",
+   "had gone"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder, I _______ the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "passed",
+   "had passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would pass' because it is the second conditional, which is used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ next week, we will have to cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for future real situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ (rain), we will take an umbrella.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the first conditional form, which is used for real or possible situations. The correct form is 'if-clause' with the present simple tense.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would have been happy if you _______ me the news earlier.",
+  "options": [
+   "told",
+   "had told",
+   "tell",
+   "would tell"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I would be happy if you _______ me your book.",
+  "options": [
+   "lend",
+   "will lend",
+   "would lend",
+   "can lend"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I won the contest, I _______ a new car.",
+  "options": [
+   "buy",
+   "will buy",
+   "would buy",
+   "bought"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'would + base verb'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ my homework if I had studied earlier.",
+  "options": [
+   "will do",
+   "would do",
+   "do",
+   "did"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ yesterday, we would have gone to the beach.",
+  "options": [
+   "hadn't rained",
+   "doesn't rain",
+   "won't rain",
+   "isn't raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Hadn't rained' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the chance, I would become a doctor.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "would have"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'if + present simple' for the condition.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ snow tomorrow, we will go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "snowed",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ yesterday, the crops would have been saved.",
+  "options": [
+   "had not rained",
+   "does not rain",
+   "rains",
+   "will rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations. 'Had not rained' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ you if I had your phone number.",
+  "options": [
+   "call",
+   "would call",
+   "have called",
+   "called"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I ________ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "would travel",
+   "traveled"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ tomorrow, we will have to cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for future real situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I _______ French for five years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ tomorrow, we will have to cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for real or possible situations. 'Rains' is the correct answer because it is the present simple form of the verb 'rain', used to describe a possible situation.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ more free time, I would learn how to paint.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied hard when I was in school, I _______ my degree.",
+  "options": [
+   "will get",
+   "would get",
+   "get",
+   "got"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would have finished the project on time if I __________ (work) harder.",
+  "options": [
+   "work",
+   "will work",
+   "worked",
+   "had worked"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence uses the third conditional to express a past condition and its past consequence.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were rich, I ___ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for ten years if I had not sold it last year.",
+  "options": [
+   "have owned",
+   "own",
+   "will own",
+   "would have owned"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would have owned' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I __________ the chance, I will buy a house.",
+  "options": [
+   "get",
+   "will get",
+   "got",
+   "gets"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Will get' is the correct answer because it expresses future action based on a present condition.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it rains tomorrow, we _______ the trip.",
+  "options": [
+   "will cancel",
+   "cancel",
+   "are cancelling",
+   "were to cancel"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for real or likely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ yesterday, we would have gone to the movies.",
+  "options": [
+   "rains",
+   "will rain",
+   "rained",
+   "had rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations, but 'rains' is the correct answer as it is the subjunctive mood.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "rain",
+   "is raining"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I __________ (pass) the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would pass' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it _______ yesterday, the crops would have been destroyed.",
+  "options": [
+   "had rained",
+   "rains",
+   "is raining",
+   "will rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used to talk about past conditions and their possible consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would be happy if you _______ me more about your new job.",
+  "options": [
+   "tell",
+   "will tell",
+   "are telling",
+   "told"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'tell' because it is the first conditional, which is used for real or possible situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I __________ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "would travel",
+   "traveled"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations. 'Would travel' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was at university, I _______ my degree.",
+  "options": [
+   "will pass",
+   "would pass",
+   "passed",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence is in the third conditional form, used for past conditions and their past consequences. 'Would have passed' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ you, I would not have eaten that spicy food.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "will be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it had snowed yesterday, we __________ ski.",
+  "options": [
+   "will ski",
+   "would ski",
+   "skied",
+   "had skied"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, used for past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were you, I _______ the job offer.",
+  "options": [
+   "accept",
+   "will accept",
+   "would accept",
+   "accepted"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more free time, I would learn how to play the guitar.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I would be happy if you ___ me your book.",
+  "options": [
+   "lend",
+   "will lend",
+   "would lend",
+   "can lend"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Would' + base form = hypothetical.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ already eaten dinner.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the past perfect tense, used for an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ the job offer if I had known about it earlier.",
+  "options": [
+   "would have accepted",
+   "can accept",
+   "will accept",
+   "accept"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had known you were coming, I _______ some food.",
+  "options": [
+   "will cook",
+   "cook",
+   "would have cooked",
+   "am cooking"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the third conditional form, used for past unreal or hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I __________ you, I would not have bought that expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the contest, I __________ (win) a prize.",
+  "options": [
+   "will win",
+   "would win",
+   "win",
+   "won"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form. The correct form is 'would + base verb' to describe a hypothetical situation.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I ___ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "would travel",
+   "traveled"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I finish my studies, I _______ three years of experience in marketing.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ snowing now, we would go skiing.",
+  "options": [
+   "was",
+   "is",
+   "were",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ more time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, which is used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in college, I _______ my degree.",
+  "options": [
+   "will get",
+   "would get",
+   "get",
+   "would have got"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ last night, we would have gone to the movies.",
+  "options": [
+   "had been raining",
+   "rains",
+   "is raining",
+   "rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I __________ a house in Paris.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "may buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form. 'Would buy' is the correct answer because it expresses a hypothetical action in the future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had not eaten that sandwich, I _______ a stomach ache.",
+  "options": [
+   "will not have",
+   "would not have had",
+   "do not have",
+   "did not have"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project.",
+  "options": [
+   "finish",
+   "have finished",
+   "were finishing",
+   "had finished"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a past perfect sentence, which is used to talk about an action that occurred before another action in the past. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ snow, I will go skiing.",
+  "options": [
+   "snows",
+   "snowed",
+   "will snow",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Snows' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ (rain) tomorrow, we will cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the first conditional form, used for real or likely situations. The correct form is 'if + present simple' for the condition.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the store if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "will go",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ more money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form. 'Have' is the correct answer because it is the conditional form of 'has', used to describe a present or future condition.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ you, I wouldn't have bought this car.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ last night, we would have gone to the movies.",
+  "options": [
+   "had not been raining",
+   "does not rain",
+   "will not rain",
+   "is not raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more free time, I would learn how to paint.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form. 'Have' is the correct answer because it is the present simple form of the verb 'have', used to describe a hypothetical situation.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it had snowed yesterday, the ski resort ________________.",
+  "options": [
+   "would have been open",
+   "will be open",
+   "is open",
+   "opens"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ the chance, I would travel to Mars.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ tomorrow, we will cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, used for future real possibilities.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more free time, I would start learning how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "were having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the second conditional form, which is used for hypothetical or unlikely situations. The correct form is 'if' + present simple.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ the secret, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ the opportunity, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form. 'Have' is the correct answer because it expresses ability in hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I __________ more money, I would buy a bigger house.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I ___ travel around the world.",
+  "options": [
+   "will travel",
+   "would travel",
+   "can travel",
+   "am traveling"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the contest, I __________ all the money to charity.",
+  "options": [
+   "give",
+   "will give",
+   "would give",
+   "shall give"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Would give' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I __________ more free time, I would travel more.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were you, I __________ (not work) so hard.",
+  "options": [
+   "will not work",
+   "do not work",
+   "would not work",
+   "did not work"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I ________ a big house.",
+  "options": [
+   "will buy",
+   "would buy",
+   "am buying",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations. 'Would buy' is the correct answer because it expresses a hypothetical action in the present or future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were to win the lottery, I __________ around the world.",
+  "options": [
+   "will travel",
+   "would travel",
+   "can travel",
+   "may travel"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for hypothetical situations that are unlikely or impossible. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I _______ the job.",
+  "options": [
+   "get",
+   "will get",
+   "got",
+   "would have got"
+  ],
+  "correctIndex": 3,
+  "explanation": "The third conditional is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I ________ a better job now.",
+  "options": [
+   "will get",
+   "would get",
+   "can get",
+   "got"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past unreal or hypothetical situations. 'Would get' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had taken that job in Paris, I ________ now living there.",
+  "options": [
+   "will live",
+   "would live",
+   "live",
+   "would have lived"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ more money, I would buy a house.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ you if I knew your phone number.",
+  "options": [
+   "will call",
+   "would call",
+   "call",
+   "called"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it _______ yesterday, we would have gone to the park.",
+  "options": [
+   "had not rained",
+   "does not rain",
+   "will not rain",
+   "rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were you, I __________ that job offer.",
+  "options": [
+   "will accept",
+   "would accept",
+   "accept",
+   "am accepting"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was younger, I ___ more knowledgeable now.",
+  "options": [
+   "would be",
+   "am",
+   "will be",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied more, I _______ the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "passed",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ you if I were richer.",
+  "options": [
+   "would buy",
+   "will buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was at school, I __________ (pass) the exam.",
+  "options": [
+   "can pass",
+   "could pass",
+   "passed",
+   "will pass"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ my car if I had the money.",
+  "options": [
+   "will buy",
+   "would buy",
+   "bought",
+   "had bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ (learn) how to play the guitar.",
+  "options": [
+   "will have learned",
+   "am learning",
+   "learn",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the future perfect tense to express an action that will be completed before a specific point in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ tomorrow, we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for future likely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ enough money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ snow, we will build a snowman.",
+  "options": [
+   "snows",
+   "snowed",
+   "will snow",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "First conditional uses 'if' + present for likely conditions.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I __________ (not, buy) that expensive watch.",
+  "options": [
+   "do not buy",
+   "will not buy",
+   "would not buy",
+   "cannot buy"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, which is used for hypothetical or unlikely situations. 'Would not buy' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ in this city for ten years.",
+  "options": [
+   "will have lived",
+   "live",
+   "am living",
+   "have lived"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific point in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it _______ raining, we will take an umbrella.",
+  "options": [
+   "is",
+   "was",
+   "were",
+   "were to be"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about likely or possible situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more time, I would finish the project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for real or possible situations. 'Have' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ last night, I would have gone to the party.",
+  "options": [
+   "had not been raining",
+   "was not raining",
+   "does not rain",
+   "rains"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Had not been raining' is the correct answer because it is the past perfect tense of the verb 'rain', which is used to describe a past condition.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ to the party if I had known about it earlier.",
+  "options": [
+   "go",
+   "will go",
+   "would go",
+   "went"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'would go' because it is used in the third conditional to talk about past conditions and their possible past results.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the contest, I ________ everyone at the party.",
+  "options": [
+   "will give",
+   "give",
+   "would give",
+   "gave"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations. 'Would give' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had known about the party, I _______.",
+  "options": [
+   "will attend",
+   "would attend",
+   "would have attended",
+   "had attended"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the third conditional form, used for past unreal or hypothetical situations. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were you, I __________ (not study) so hard.",
+  "options": [
+   "do not study",
+   "will not study",
+   "would not study",
+   "did not study"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'would not study' because it is the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ the book if you hadn't lent it to me.",
+  "options": [
+   "would return",
+   "return",
+   "have returned",
+   "will return"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for future real situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in college, I _______ a better job now.",
+  "options": [
+   "would get",
+   "will get",
+   "get",
+   "got"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would get' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ the answer, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "will know",
+   "had known"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ last night, we would have had dinner.",
+  "options": [
+   "had not snowed",
+   "does not snow",
+   "will not snow",
+   "snows"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Had not snowed' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ English for ten years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect continuous tense, used for an action that will continue up to a point in the future. The correct form is 'will have been + verb-ing'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would have finished the project on time if I __________ more resources.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ tomorrow, we will take the bus.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for likely or possible situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I ________ my dream of becoming an engineer.",
+  "options": [
+   "will achieve",
+   "would have achieved",
+   "can achieve",
+   "have achieved"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ more time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I would have married you if you __________ (marry) first.",
+  "options": [
+   "marries",
+   "married",
+   "will marry",
+   "had married"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I _______ my homework, it was midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "am finishing",
+   "was finishing"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence is in the past perfect tense, describing an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would have been happy if you __________ (come) to my party.",
+  "options": [
+   "come",
+   "will come",
+   "came",
+   "had come"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence uses the third conditional to express a past condition and its possible result.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it rains tomorrow, we ___ the picnic.",
+  "options": [
+   "will cancel",
+   "cancel",
+   "are cancelling",
+   "are going to cancel"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for future likely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were to win the lottery, I _______ a big house in the country.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "may buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were you, I __________ (not be) lazy.",
+  "options": [
+   "am not",
+   "will not be",
+   "was not",
+   "would not be"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied hard, I __________ (pass) the exam.",
+  "options": [
+   "will pass",
+   "can pass",
+   "pass",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, which is used to talk about past conditions and their possible past consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ___ their homework for three hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "did",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were you, I __________ (not be) so pessimistic.",
+  "options": [
+   "am not",
+   "was not",
+   "were not",
+   "will not"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ my homework if I had more time.",
+  "options": [
+   "will do",
+   "would do",
+   "do",
+   "did"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Would do' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ (rain) tomorrow, we will take an umbrella.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the first conditional form, which is used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would go to the party if I ________ invited.",
+  "options": [
+   "am",
+   "were",
+   "will be",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder, I _______ my exam.",
+  "options": [
+   "pass",
+   "would pass",
+   "passed",
+   "will pass"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Would pass' is the correct answer because it expresses a possible future consequence of a past condition.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I _______ my degree, I will have been studying for ten years.",
+  "options": [
+   "will have finished",
+   "finish",
+   "have finished",
+   "am finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ tomorrow, we will go to the beach.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences. The correct form is 'if' + present simple + will.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I _______ that job offer.",
+  "options": [
+   "will accept",
+   "would accept",
+   "accept",
+   "accepted"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I ________ my studies, I will have graduated from college.",
+  "options": [
+   "will finish",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a future perfect sentence, which is used to talk about an action that will be completed before a specific time in the future. The correct form is 'I finish'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ you, I would not have eaten that sandwich.",
+  "options": [
+   "was",
+   "am",
+   "are",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was younger, I ___ a better job now.",
+  "options": [
+   "get",
+   "will get",
+   "would get",
+   "got"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I __________ the job.",
+  "options": [
+   "would have got",
+   "will get",
+   "get",
+   "got"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Would have got' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the contest, I ___ a new car.",
+  "options": [
+   "will buy",
+   "buy",
+   "would buy",
+   "bought"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ the chance, I would become a doctor.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "would have"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Had' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it __________ next week, we will reschedule the meeting.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Rains' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ (rain), we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Rains' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more time, I would finish this project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'had' in the condition to indicate a past situation that is hypothetical.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ rain tomorrow, we will go to the park.",
+  "options": [
+   "doesn't",
+   "won't",
+   "doesn't rain",
+   "won't rain"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ you if I knew your phone number.",
+  "options": [
+   "will call",
+   "call",
+   "would call",
+   "am calling"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ more time, I would finish the project sooner.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for present or future conditions and their probable consequences. However, the correct form is 'have' to describe a present ability.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it _______ tomorrow, we will go to the beach.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their likely consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ you, I would not have eaten that cake.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form. 'Were' is used to describe a hypothetical situation.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied for the exam, I _______ it.",
+  "options": [
+   "would pass",
+   "will pass",
+   "can pass",
+   "passed"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ if I had studied harder for the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ___ if I won the lottery.",
+  "options": [
+   "travel around the world",
+   "will travel around the world",
+   "traveled around the world",
+   "have traveled around the world"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable results.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were rich, I _______ my dream house.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "can buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "Second conditional uses 'would + base form' for hypothetical actions.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder when I was in high school, I _______ a better job now.",
+  "options": [
+   "will get",
+   "would get",
+   "get",
+   "got"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, which is used for unreal or hypothetical situations. 'Would get' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ the keys to your house, I would have given you the money.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used for past unreal or hypothetical situations. 'Had' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I _______ a better job now.",
+  "options": [
+   "get",
+   "got",
+   "will get",
+   "would have got"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ the exam if I had studied.",
+  "options": [
+   "would pass",
+   "will pass",
+   "pass",
+   "passed"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied for the exam, I __________ it.",
+  "options": [
+   "pass",
+   "will pass",
+   "would have passed",
+   "passed"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the third conditional form, used for past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had not eaten that sandwich, I __________ (not be) sick.",
+  "options": [
+   "will not be",
+   "would not be",
+   "am not",
+   "would have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "rained",
+   "is raining"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I _______ six years at this university.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "have studied",
+   "study"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, which is used to describe an action that will continue up to a point in the future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I would have been happy if you _______ to my party.",
+  "options": [
+   "went",
+   "go",
+   "will go",
+   "would go"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the third conditional to express a past condition and its possible result.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ (snow), we will go skiing.",
+  "options": [
+   "will snow",
+   "snows",
+   "is snowing",
+   "snowed"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the first conditional to talk about a possible future condition and its possible result.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had taken that job, I __________ in New York now.",
+  "options": [
+   "live",
+   "lives",
+   "would live",
+   "would have lived"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would learn how to play the guitar.",
+  "options": [
+   "had",
+   "have",
+   "was having",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Had' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ you if I had your phone number.",
+  "options": [
+   "will call",
+   "would call",
+   "call",
+   "called"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would call' because it is the second conditional, which is used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ more money, I could buy a house.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, used for real or possible situations. 'Have' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I won the lottery, I __________ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "may buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the contest, I __________ (win) a car.",
+  "options": [
+   "will win",
+   "won",
+   "win",
+   "would win"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'would win' because it is used in third conditional to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I __________ the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "can pass",
+   "passed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations. 'Would pass' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I _______ the answer, the homework was due.",
+  "options": [
+   "have found",
+   "find",
+   "was finding",
+   "will find"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a past perfect sentence, which is used to talk about an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I __________ more time, I would finish this project sooner.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the first conditional to talk about a possible future situation and its result.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ enough money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ you, I would not have borrowed that book.",
+  "options": [
+   "am",
+   "were",
+   "have been",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ the chance, I will attend the party.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the contest, I __________ (buy) you a car.",
+  "options": [
+   "will buy",
+   "would buy",
+   "can buy",
+   "may buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form. The correct verb form is 'would buy'.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it had snowed last night, the ski resort would ___.",
+  "options": [
+   "have been crowded",
+   "be crowded",
+   "have crowded",
+   "crowd"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past unreal or hypothetical situations. 'Have been crowded' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I graduated, I __________ five languages.",
+  "options": [
+   "had learned",
+   "learned",
+   "am learning",
+   "will learn"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a past perfect tense sentence, which is used to talk about an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ the opportunity if I had known about it earlier.",
+  "options": [
+   "will take",
+   "would have taken",
+   "have taken",
+   "took"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I __________ (be) rich, I would travel the world.",
+  "options": [
+   "am",
+   "were",
+   "will be",
+   "would be"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ (rain) tomorrow, we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form. 'Have' is the correct answer because it is the present simple form of the verb 'have', used to describe a hypothetical situation.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I would have helped you if I _______ your phone number.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the lottery, I ___ my parents.",
+  "options": [
+   "will help",
+   "help",
+   "would help",
+   "am helping"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'would help' because it is the second conditional, which is used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were to win the lottery, I ___ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for unreal or hypothetical situations. 'Would buy' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were rich, I _______________ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "traveled",
+   "would travel"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ________ tomorrow, we will cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was at school, I _______ my degree.",
+  "options": [
+   "will get",
+   "get",
+   "would have got",
+   "would get"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ you, I would not have gone to the party.",
+  "options": [
+   "were",
+   "am",
+   "be",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the second conditional form, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I _______ my degree, I will be 25 years old.",
+  "options": [
+   "get",
+   "will get",
+   "got",
+   "am getting"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a future perfect sentence, which is used to talk about an action that will be completed before a specific time in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had taken that job, I _______ in Paris now.",
+  "options": [
+   "live",
+   "lives",
+   "would live",
+   "would have lived"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the third conditional form, which is used for past unreal or hypothetical situations. 'Would live' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I __________ the chance to travel abroad if I had studied abroad.",
+  "options": [
+   "will have",
+   "would have",
+   "have",
+   "had"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form. The correct form is 'would + base verb' for the consequence because it is unlikely or hypothetical.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ to the gym if I had more time.",
+  "options": [
+   "go",
+   "will go",
+   "would go",
+   "went"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'would + base verb'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ tomorrow, we will cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for possible or likely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it _______ raining, we would go to the park.",
+  "options": [
+   "is",
+   "were",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ___ you if I had your phone number.",
+  "options": [
+   "call",
+   "would call",
+   "called",
+   "am calling"
+  ],
+  "correctIndex": 1,
+  "explanation": "The second conditional is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next year, I ________ English for two years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I _______ the exams.",
+  "options": [
+   "pass",
+   "will pass",
+   "would have passed",
+   "can pass"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would have passed' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ English for five years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the future perfect continuous tense to express an action that will continue up to a certain point in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I __________ (pass) my exams now.",
+  "options": [
+   "will pass",
+   "can pass",
+   "am passing",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, which is used for past unreal or hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the chance, I would become a doctor.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I had studied harder, I ________ better grades.",
+  "options": [
+   "will get",
+   "get",
+   "got",
+   "would have gotten"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ snowing now, we would go skiing.",
+  "options": [
+   "is",
+   "was",
+   "were",
+   "were to be"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, which is used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were you, I _______ the job.",
+  "options": [
+   "will take",
+   "would take",
+   "take",
+   "took"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for present or future conditions and their probable consequences. The correct form is 'would + base verb' for the consequence.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ more money, I could buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "has"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a first conditional sentence, which is used to talk about future conditions and their future consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ you, I would not have borrowed money from my friend.",
+  "options": [
+   "was",
+   "am",
+   "were",
+   "will be"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional form, but the correct answer is in the third conditional to express a hypothetical past situation.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I __________ more money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is the third conditional form used for past unreal or hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it had snowed, we _______ skiing.",
+  "options": [
+   "will go",
+   "would go",
+   "can go",
+   "may go"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I _______ here for ten years.",
+  "options": [
+   "will have been living",
+   "am living",
+   "have lived",
+   "live"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed at a specific time in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were rich, I _______ a big house.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ in this field for ten years.",
+  "options": [
+   "will have been working",
+   "am working",
+   "have worked",
+   "work"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect tense, used for an action that will be completed before a specific time in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ if I had taken that job.",
+  "options": [
+   "will get promoted",
+   "would have gotten promoted",
+   "get promoted",
+   "had gotten promoted"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it had snowed yesterday, we _______ skiing.",
+  "options": [
+   "will ski",
+   "would ski",
+   "skied",
+   "had skied"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the third conditional form, used for past unreal or hypothetical situations. 'Had skied' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ enough money, I would start my own business.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "has"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form. It is used to talk about unlikely or imaginary conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ___ English for three years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a future perfect continuous tense sentence, which is used to describe an action that will continue up to a certain point in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more time, I would finish the project.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _______ to the party if you _______ me.",
+  "options": [
+   "will go, invite",
+   "would go, invite",
+   "am going, will invite",
+   "go, invited"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, which is used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I won the contest, I __________ a new car.",
+  "options": [
+   "buy",
+   "will buy",
+   "bought",
+   "would buy"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ if I could fly to the moon.",
+  "options": [
+   "will fly",
+   "fly",
+   "can fly",
+   "would fly"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were to win the contest, I _______ you with my prize.",
+  "options": [
+   "will give",
+   "would give",
+   "give",
+   "am giving"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ yesterday, we would have gone to the park.",
+  "options": [
+   "rains",
+   "rained",
+   "will rain",
+   "had rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _______ to the party if you invited me.",
+  "options": [
+   "will go",
+   "would go",
+   "am going",
+   "have gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Would go' is the correct answer because it expresses a past habit in the present.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were you, I __________ (not buy) that expensive watch.",
+  "options": [
+   "will not buy",
+   "would not buy",
+   "do not buy",
+   "did not buy"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence is in the second conditional form, used for hypothetical situations. 'Would not buy' is the correct answer because it expresses a strong prohibition or refusal in a hypothetical situation.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ the answer, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "will know",
+   "would know"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'knew' because it is the third conditional, which is used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ last night, the fire wouldn't have happened.",
+  "options": [
+   "had been put out",
+   "is being put out",
+   "will be put out",
+   "puts out"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, which is used for past hypothetical situations. 'Had been put out' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _______ five languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "am learning",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a future perfect sentence, which is used to talk about an action that will be completed at a specific point in the future. The correct form is 'will have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it _______ snow, we will go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "snowed",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or likely situations.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the money, I would have invested it in stocks.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'had + past participle' for the condition.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that cake.",
+  "options": [
+   "were",
+   "am",
+   "be",
+   "been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ next week, we will go to the beach.",
+  "options": [
+   "rains",
+   "will rain",
+   "rainy",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Will rain' is the correct answer because it expresses a future action that is likely to happen.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder for the exam, I _______ it.",
+  "options": [
+   "will pass",
+   "would pass",
+   "pass",
+   "would have passed"
+  ],
+  "correctIndex": 3,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ the answer to this question, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "will know",
+   "would know"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Know' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ raining now, I would go to the beach.",
+  "options": [
+   "is",
+   "was",
+   "were",
+   "were to be"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought this expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "is",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ you, I would help you.",
+  "options": [
+   "am",
+   "were",
+   "will be",
+   "would be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it __________ rain tomorrow, we will go to the beach.",
+  "options": [
+   "doesn't",
+   "won't",
+   "doesn't have to",
+   "didn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had known about the party, I __________.",
+  "options": [
+   "would attend",
+   "will attend",
+   "attend",
+   "would have attended"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I would have helped you if I __________ your phone number.",
+  "options": [
+   "knew",
+   "know",
+   "will know",
+   "would know"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I __________ enough money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for present or future conditions and their probable consequences.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it had rained yesterday, the crops _________.",
+  "options": [
+   "would have been saved",
+   "will save",
+   "are saving",
+   "have been saved"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would have been saved' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I ________ (finish) my homework, it was midnight.",
+  "options": [
+   "will finish",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence uses the past perfect tense to express an action that occurred before another action in the past.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I _______ you, I would not have borrowed money from anyone.",
+  "options": [
+   "were",
+   "am",
+   "have been",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form, used for unreal or hypothetical situations, but since it's about someone else, 'were' is used.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was in school, I _______ the exam.",
+  "options": [
+   "will pass",
+   "would pass",
+   "would have passed",
+   "passed"
+  ],
+  "correctIndex": 2,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past situations that did not happen. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it __________ (snow) tomorrow, we will go skiing.",
+  "options": [
+   "snows",
+   "snowed",
+   "will snow",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Snows' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I __________ (not/quit) that job.",
+  "options": [
+   "wouldn't quit",
+   "won't quit",
+   "didn't quit",
+   "hadn't quit"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional form. 'Wouldn't quit' is the correct answer because it expresses a prediction about the future based on a present condition.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied law, I _______ a lawyer now.",
+  "options": [
+   "would be",
+   "will be",
+   "am",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the second conditional form, used for hypothetical or unlikely situations and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I __________ (finish) my project, it will be December.",
+  "options": [
+   "finish",
+   "will finish",
+   "have finished",
+   "had finished"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence uses the first conditional to talk about a future situation that is likely to happen.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in college, I _______ my degree by now.",
+  "options": [
+   "will have graduated",
+   "would have graduated",
+   "am graduating",
+   "graduated"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past unreal or hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I were rich, I _______ to travel the world.",
+  "options": [
+   "will travel",
+   "would travel",
+   "travel",
+   "traveled"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that sandwich.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical situations. The correct form is 'if' + past simple + another past simple.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ snowing now, I would go skiing.",
+  "options": [
+   "is",
+   "was",
+   "were",
+   "were to be"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional form, used for hypothetical or unlikely situations. 'Were to be' is used in the if-clause to make the hypothetical situation more likely.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the chance to go to that school, I would have been a top student.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "am having"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the third conditional form, used for past unreal or hypothetical situations. The correct form is 'had + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I _______ more time, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unreal or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ English for five years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, used for an action that will be completed before a point in the future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had taken that job, I ________ in Paris now.",
+  "options": [
+   "live",
+   "lived",
+   "will live",
+   "would have lived"
+  ],
+  "correctIndex": 3,
+  "explanation": "This sentence is in the third conditional form, used for past hypothetical situations. 'Would have lived' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I _______ to the party if I had known about it.",
+  "options": [
+   "go",
+   "went",
+   "will go",
+   "would have gone"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'would have gone' because it is used in the third conditional to describe a past condition and its past consequence.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had known you were coming, I _______.",
+  "options": [
+   "will bring",
+   "would bring",
+   "bring",
+   "brought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ more time, I would learn how to cook.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'if' + past simple + would + base form.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I were rich, I __________ (travel) around the world.",
+  "options": [
+   "will travel",
+   "would travel",
+   "travel",
+   "traveled"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or imaginary situations. The correct form is 'would + base form of the verb'.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it _______ snow tomorrow, we will have a winter wonderland.",
+  "options": [
+   "snows",
+   "will snow",
+   "is snowing",
+   "snowed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional form, which is used for real or possible situations. 'Snows' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder when I was at university, I __________ (pass) the exam.",
+  "options": [
+   "will pass",
+   "can pass",
+   "would have passed",
+   "passed"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence is in the third conditional form, which is used to talk about past conditions and their past consequences. The correct form is 'would have + past participle'.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next month, I ________ English for two years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence is in the future perfect continuous tense, which is used to talk about an action that will continue up to a point in the future.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I had studied harder when I was in high school, I _______ my degree.",
+  "options": [
+   "will get",
+   "would get",
+   "am getting",
+   "got"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Would get' is the correct verb form to use in this context.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I _______ the opportunity to travel abroad, I would explore new cultures.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "This is an example of a second conditional sentence, which is used to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ you if I had your number.",
+  "options": [
+   "would call",
+   "call",
+   "will call",
+   "called"
+  ],
+  "correctIndex": 0,
+  "explanation": "The first conditional is used for likely or possible situations, but in this case, it's the second conditional that is needed because it talks about a hypothetical situation in the present.",
+  "topic": "Conditionals",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I were you, I __________ the job.",
+  "options": [
+   "will take",
+   "would take",
+   "take",
+   "took"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional form. 'Would take' is the correct answer because it expresses a hypothetical action in the present or future.",
+  "topic": "Conditionals",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had known you were coming, I _______ more food.",
+  "options": [
+   "would have cooked",
+   "cook",
+   "have cooked",
+   "am cooking"
+  ],
+  "correctIndex": 0,
+  "explanation": "This is an example of a third conditional sentence, which is used to talk about past conditions and their past consequences.",
+  "topic": "Conditionals",
+  "level": "Advanced"
+ }
+]

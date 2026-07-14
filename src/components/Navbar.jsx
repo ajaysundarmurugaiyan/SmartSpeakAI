@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Mic, MessageSquare, Calendar, User, Crown } from 'lucide-react';
+import { Menu, X, Mic, MessageSquare, Calendar, User, Crown, FileText } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAuth } from '../contexts/AuthContext';
 
@@ -13,6 +13,7 @@ const Navbar = () => {
     { name: 'Voice Practice', path: '/home', icon: Mic },
     { name: 'Text Chat', path: '/text-chat', icon: MessageSquare },
     { name: 'Daily Activities', path: '/activities', icon: Calendar },
+    ...(isPremium ? [{ name: 'Practice Exam', path: '/practice-exam', icon: FileText }] : []),
     { name: 'Premium', path: '/pricing', icon: Crown },
     { name: 'Profile', path: '/profile', icon: User },
   ];

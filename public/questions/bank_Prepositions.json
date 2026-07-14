@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "The city is ______ the west coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on a coastline.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company will focus _______ reducing costs.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "at"
+  ],
+  "correctIndex": 1,
+  "explanation": "'On' is used with activities or tasks.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the woods.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a location or position within a defined area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel is ______ the beach.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located directly on the edge of a body of water.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will take place ______ 2 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to specify a particular time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy has been met _______ widespread criticism from the public.",
+  "options": [
+   "with",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a reaction or response to something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will take place ______ 5 o'clock.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room has a balcony _______ the garden.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate something that is attached or belongs to something else.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will be closed _______ the weekend.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "'On' is used to indicate something is happening on a specific day.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a beautiful view ______ the ocean.",
+  "options": [
+   "of",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Of' indicates something is visible or noticeable from a particular location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm going ______ the store to buy some milk.",
+  "options": [
+   "to",
+   "from",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate movement towards a place.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous _______ his first day at the company.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something occurs on a specific date or occasion.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is ______ my sister.",
+  "options": [
+   "for",
+   "to",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'for' indicates something is intended or given to someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel is located _______ the city center.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something is situated within a place or area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to wait _______ her office until she arrived.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 2,
+  "explanation": "The preposition 'at' is used to indicate a specific location or point.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The store is ______ the corner of Main and Elm streets.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' indicates the location or position.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is located _______ the coast of California.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is situated on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were very happy _______ their exam results.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate feelings or emotions about something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ this job.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or engagement in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are having their final exam ______ the next week.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something will happen within a specific time frame.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are working _______ a tight deadline.",
+  "options": [
+   "on",
+   "at",
+   "by",
+   "under"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Under' indicates that the students are working in a restricted or pressured situation.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a view ______ the ocean.",
+  "options": [
+   "of",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company will launch its new product _______ the summer.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something will happen during a period of time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to outsource its customer service _______ a third party.",
+  "options": [
+   "to",
+   "from",
+   "for",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a destination or a place where something is being sent.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm going ______ the store.",
+  "options": [
+   "to",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate movement towards a place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is located _______ the city center.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate location within a specific area or region.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is located _______ the coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a location on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ Saturday night.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company will provide training ___ new employees.",
+  "options": [
+   "to",
+   "for",
+   "with",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'for' because it indicates something that is intended to prepare or equip someone.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch a new product ______ next month.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a period of time when something will happen or be done.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is _______ my birthday.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The gift was sent to my friends _______ New York.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "to"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'to' is used to indicate the recipient of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is looking for someone _______ experience in the field.",
+  "options": [
+   "with",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a quality or attribute that someone possesses.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting is ______ 2 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is familiar _______ the company's policies.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate familiarity or knowledge of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to _______ the book carefully before the exam.",
+  "options": [
+   "read",
+   "reads",
+   "reading",
+   "read"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'carefully' is used to indicate a way or method of doing something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is ______ the desk.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is placed on a surface.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company will deliver the shipment _______ next week.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'in' is used to indicate something will happen or be done at a specific time in the future.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The hotel is located _______ the coast, offering stunning views.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a location or position.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ Monday night.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher asked the student to wait _______ her office.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 2,
+  "explanation": "The preposition 'at' is used to indicate a specific location or point.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the forest.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'In' is the correct preposition to use here.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bus stops ______ the station.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a location or position.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will take place _______ the conference room.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a location or venue for an event.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will continue _______ the new policy.",
+  "options": [
+   "with",
+   "on",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate that something is done or experienced along with something else.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The store is ______ the corner.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' indicates the store is located directly on the corner.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was very nervous _______ his first day.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "'On' is the preposition used to indicate something happens on a specific date.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the crowded streets of the city.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "through"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a location within a specific area or area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a view ______ the city.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate a view or perspective of something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room had beautiful views ______ the ocean.",
+  "options": [
+   "of",
+   "on",
+   "at",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a certain location.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has invested heavily _______ research and development.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate investment or support for something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party will start ______ 8 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ the weekend.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "during"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'during' is used to indicate a period of time when something is happening.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists visited _______ their own accord.",
+  "options": [
+   "by",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'by' is used to indicate something was done or achieved on one's own.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm looking ______ the window.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "through"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a view or gaze.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will take place _______ Tuesday.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a specific day of the week.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are working _______ a team to complete the project.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a group or a team working together.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will start ______ 2 o'clock.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is struggling _______ finding new investors.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a problem or challenge.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are having their final exams _______ the summer.",
+  "options": [
+   "during",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'during' is used to indicate that something occurs within a specific period of time.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting is ______ the conference room.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something is located within a specific place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students will be working on the project _______ groups.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something or someone is within a group or organization.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher spoke _______ the student about his behavior.",
+  "options": [
+   "to",
+   "at",
+   "with",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a conversation or a statement directed at someone.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new restaurant is ______ the corner of Main and Oak streets.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' used to indicate something is located on the corner.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was very nervous _______ her first day of work.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a specific day or date.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch its new product _______ next month.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 2,
+  "explanation": "The preposition 'in' is used to indicate a period of time when something will happen or be done.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ reading books.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are having their exams _______ the next month.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something is happening during a period.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to write the essay ___ her own.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'On' is a preposition that means 'about' or 'related to'.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee was nervous _______ his first day.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something happens on a specific day or date.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room has a beautiful view _______ the ocean.",
+  "options": [
+   "of",
+   "at",
+   "on",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular viewpoint or perspective.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to work _______ pairs to complete the project.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that people or things are working together as a team or group.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bus stopped ______ the traffic lights.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific location or spot.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is famous ______ its beautiful beaches.",
+  "options": [
+   "for",
+   "at",
+   "on",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate something is famous or known for a particular reason.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will come _______ effect on January 1st.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "into"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something will start or come into effect at a specific time.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The flowers are ______ the garden.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate something is located inside a space or area.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is very experienced _______ this industry.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate experience or proficiency in a particular field or area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy is aimed _______ reducing costs.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a target or a goal.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The store is ______ the corner of the street.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' indicates something is located directly on a corner.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are studying for the exam _______ their parents' support.",
+  "options": [
+   "with",
+   "in",
+   "on",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate something or someone is assisting or supporting someone.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will be implemented _______ January 1st.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that an event or action occurs on a specific date or day.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a view _______ the sea.",
+  "options": [
+   "of",
+   "on",
+   "at",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Of' indicates what can be seen from a place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The bus stops ______ the station at 5 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate that something occurs or happens at a specific location or time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous _______ starting the job.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "when"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'when' because it indicates the time when something happens or occurs.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The flowers are ___ the vase.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate something is placed within a container.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is located _______ the coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is situated on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy has been met _______ widespread criticism.",
+  "options": [
+   "with",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a reaction or response to something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is ______ my birthday.",
+  "options": [
+   "on",
+   "at",
+   "for",
+   "in"
+  ],
+  "correctIndex": 2,
+  "explanation": "Preposition 'for' is used to indicate something is meant or dedicated to someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm looking forward ______ the holidays.",
+  "options": [
+   "to",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate anticipation or expectation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy is aimed _______ reducing carbon emissions.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a target or a goal.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on the edge or border of a body of water.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will take place _______ next week.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a period of time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to wait _______ the bus stop.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific location or spot.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The park is ______ the city.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' indicates something is located within a larger area.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company is trying to expand _______ new markets.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "into"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'into' is used to indicate movement or expansion into something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to outsource the research ________ a firm in China.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a destination or a recipient.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm looking ______ the garden.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'in' is used to indicate that someone or something is located within a particular space or area.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher gave the students a lot of homework _______ their exams.",
+  "options": [
+   "for",
+   "to",
+   "with",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate purpose or intent.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was assigned _______ the marketing department.",
+  "options": [
+   "to",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'to' because it indicates that someone has been given a task or responsibility.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ you.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or involvement in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will come ______ effect on January 1st.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "into"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something will start or become effective at a certain time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists were disappointed _______ the fact that their flight was canceled.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate disappointment or dissatisfaction.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The flowers are ___ the garden.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate something is located inside a space.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was very nervous _______ the first day of work.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something happens on a specific day or date.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to outsource its customer service _______ another country.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a destination or a place where something or someone is sent.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The restaurant is ______ the corner of Main and Elm streets.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something is located on a corner.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students studied _______ their textbooks.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something is located or contained within a particular place or environment.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher spoke _______ the students about their behavior.",
+  "options": [
+   "to",
+   "at",
+   "with",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a conversation or a speech directed at someone.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is ______ my friend.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "for"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'for' is used to indicate something is intended or meant for someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is located _______ the coast of France.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something is located on the edge or border of a body of water.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to sell its business _______ a foreign investor.",
+  "options": [
+   "to",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct preposition to use here is 'to' because it indicates that the company is selling its business to a specific person or entity.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ history.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is famous _______ its beautiful beaches.",
+  "options": [
+   "for",
+   "on",
+   "at",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate a reason or purpose.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were able to work _______ their team to complete the project.",
+  "options": [
+   "as",
+   "with",
+   "in",
+   "to"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'with' because it indicates cooperation or working together.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the map.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is depicted or represented on a map.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will affect everyone ______ the company.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "of"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate affecting or involving something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got stranded _______ the middle of the desert.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate location within a defined area or space.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the river.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' indicates the city is located along the river's edge.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room has a beautiful view _______ the city.",
+  "options": [
+   "of",
+   "at",
+   "on",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular vantage point.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will be closed ______ the weekend.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that an event or activity occurs on a specific day.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ Friday.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The gift was given _______ my mother.",
+  "options": [
+   "to",
+   "from",
+   "for",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate the recipient of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is looking for someone _______ experience in marketing.",
+  "options": [
+   "with",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate accompaniment or association.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is ______ the table.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is placed on a surface.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm good ______ math.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The fixed phrase is 'good at'.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very nervous _______ his first day of work.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a specific day or date.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The park is ______ the city center.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate something is located within a place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students worked _______ the weekend to finish the project.",
+  "options": [
+   "during",
+   "on",
+   "at",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'during' is used to indicate that something occurred or was done at a specific time within a period.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students will be working _______ a team to complete the project.",
+  "options": [
+   "as",
+   "in",
+   "on",
+   "with"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'with' because it indicates a partnership or collaboration between two or more people.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will take place ______ the conference room.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' indicates something is located or happens within a place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher asked the students to work _______ teams.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that people are working together as a group.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is looking _______ someone to fill the position.",
+  "options": [
+   "for",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'for' because it indicates a search or hunt for someone.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book is ______ the shelf.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is placed on a surface.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will be held _______ 2 pm.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will launch its new product _______ the first quarter of next year.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that an event or activity will occur during a specific time period.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will be held ______ 2 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room has a view _______ the city.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate a view or perspective of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will be closed _______ maintenance next week.",
+  "options": [
+   "in",
+   "on",
+   "during",
+   "for"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'during' because it indicates the period of time when something is happening or being done.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is located on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is very familiar _______ his job.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate familiarity or experience.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The student's essay is _______________ to the school library.",
+  "options": [
+   "dedicated",
+   "devoted",
+   "given",
+   "submitted"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Submitted' has recently displaced 'dedicated' in this meaning, 'given' is now usually used of money.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The train is ______ the station now.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to indicate something is located or happens at a specific place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is surrounded _______ mountains.",
+  "options": [
+   "by",
+   "on",
+   "at",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'by' is used to indicate proximity or surrounding.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to work _______ groups.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something or someone is located within a specific area or context.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The restaurant is ______ the corner of the street.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located at the end or beginning of a road or street.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is still getting used _______ the software.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a process or adaptation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will focus _______ reducing costs and increasing efficiency.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "for"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'on' because it indicates the object or topic around which something is focused.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a view _______ the ocean.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a certain location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The bus stopped _______ the traffic light.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific location or point.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students have been studying for hours, but they still feel _______ their exam.",
+  "options": [
+   "confident",
+   "unconfident",
+   "confidence",
+   "uncertain"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct preposition to use here is 'uncertain', as it indicates a lack of confidence or assurance.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bus stop is ______ the corner of the street.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'at' is used to indicate a specific location or point.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy has been met _______ resistance from some employees.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a reaction or response to something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to work _______ a group project.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that someone or something is involved in or part of a group or organization.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will take place _______ 2 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to specify a time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The gift is intended ______ my niece.",
+  "options": [
+   "to",
+   "for",
+   "at",
+   "with"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'for' is used to indicate something that is intended or meant for someone.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the student to wait ___ her office.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'at' is used to indicate a specific location or point.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift was given _______ my best friend.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate the recipient of something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel is located _______ the coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is located on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The book was written _______ the author's wife.",
+  "options": [
+   "by",
+   "with",
+   "about",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'by' is used to indicate who wrote something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ learning new languages.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or involvement in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will come _______ effect next month.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "into"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something will start or become effective at a certain point in time.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were studying for their exams _______ the night before.",
+  "options": [
+   "all",
+   "every",
+   "either",
+   "neither"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'all' is used to indicate the duration or period of an action.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the east coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on a coast.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is very familiar _______ the company's policies.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate familiarity or experience with something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the way to the hotel.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct preposition to use here is 'on' because it indicates that something happened during a journey or route.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ the evening.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate a specific evening or night.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room had a breathtaking view _______ the city.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular location.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will take effect _______ the beginning of the year.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific point in time.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ the beach.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "'At' + the is used to indicate a location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will affect _______ all departments.",
+  "options": [
+   "to",
+   "at",
+   "on",
+   "in"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'in' is used to indicate that something affects or is related to a particular group or category.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave the student a chance _______ to finish the project.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate permission or opportunity.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm tired _______ studying all day.",
+  "options": [
+   "of",
+   "from",
+   "with",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate a feeling or emotion based on something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The meeting will take place _______ our usual location.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a specific location or venue.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is committed _______ providing excellent customer service.",
+  "options": [
+   "to",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a commitment or dedication.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a view ______ the sea.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular vantage point.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm looking forward ______ meeting you tomorrow.",
+  "options": [
+   "to",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate expectation or anticipation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got stranded _______ the desert due to bad weather.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate location within a defined area or environment.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new employee is ______ the marketing department.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' indicates the employee belongs or works within a particular department.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm interested ______ learning more about history.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or involvement in something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will merge _______ its rival to form a larger entity.",
+  "options": [
+   "with",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a merger or joining of two entities.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I have my best friend ______ college.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "with"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'in' is used to indicate someone is a member of a group or organization.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The bus is _____ the city centre.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something is located within a specific area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students worked _______ a team to complete the project.",
+  "options": [
+   "as",
+   "in",
+   "on",
+   "to"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'as' is used to indicate that people work together as a team.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift was given _______ my birthday.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was introduced _______ the team.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate an introduction or presentation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourist got lost _______ the way to the beach.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a location or position during a journey.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will be held ______ the conference room.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 2,
+  "explanation": "Preposition 'at' is used to specify a location or venue.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm looking forward ______ meeting you.",
+  "options": [
+   "to",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate expectation or anticipation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were disappointed _______ the delay in the project deadline.",
+  "options": [
+   "with",
+   "at",
+   "from",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate disappointment or dissatisfaction about something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party will take place _______ the summer.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate a period of time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ teams for the project.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that people are part of a group or team.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were able to learn the material _______ their own initiative.",
+  "options": [
+   "on",
+   "at",
+   "by",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate learning or understanding something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is located ______ the coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on a border or edge.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm tired ________ working all day.",
+  "options": [
+   "of",
+   "from",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate a feeling or emotion about something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to outsource its customer service __ a third-party firm.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a destination or a place where something is being sent.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm looking ______ my keys.",
+  "options": [
+   "for",
+   "at",
+   "on",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate search or look for something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ a team.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a group or team that is working together.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to write down their questions _______ the exam.",
+  "options": [
+   "about",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'about' is used to indicate topics or subjects that are being discussed.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the coast of Florida.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate proximity or adjacency.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The flowers are _______ the garden.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something is located within a space or area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will invest _______ a new marketing campaign.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate an investment or a contribution.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The train arrives ______ the station at 10 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific place.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The flowers are arranged _______ the vase.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something is placed within a container or confined space.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee is very experienced _______ this field.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 2,
+  "explanation": "The preposition 'in' is used to indicate knowledge or expertise in a particular subject.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift was given ______ my sister.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'To' indicates the recipient.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is located _______ the coast of Europe.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a location on a coastline.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students were studying for their exams _______ the weekend.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 3,
+  "explanation": "The fixed expression is 'during'.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ 5 o'clock.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city is located _______ the west coast of the country.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is situated on a specific coast or border.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is looking _______ candidates for the new position.",
+  "options": [
+   "for",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate a search or hunt for something or someone.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The event will take place ______ the park.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to specify a location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm interested ______ reading books about history.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "'In' indicates interest or involvement.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourist got lost _______ the woods.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something is located within a specific area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is ______ Friday night.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ the project for months.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that work is being done on a particular task or project.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide training _______ new employees.",
+  "options": [
+   "to",
+   "for",
+   "with",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "The fixed phrase is 'training for'.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new policy will take ______ effect on January 1st.",
+  "options": [
+   "into",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Into' is used to describe movement towards something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm looking forward ______ seeing you tomorrow.",
+  "options": [
+   "to",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate anticipation or expectation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the mountains.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate location within a defined area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party is _______ Friday.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy is aimed ______ reducing carbon emissions.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "to"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate a target or a goal.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The student has been working on the project __________ the summer break.",
+  "options": [
+   "during",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'during' because it indicates that the student's work on the project was concentrated or took place over a period of time within the summer break.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is located ______ the east coast.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate a location on a coastline.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company has decided to invest in _______ new technology.",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "no preposition"
+  ],
+  "correctIndex": 3,
+  "explanation": "When talking about non-specific or general types of technology, no preposition is used.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was nervous _______ his first day of work.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a specific day or date.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift was given ______ my birthday.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something occurs on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher wrote ______ the blackboard.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something is written or drawn on a surface like a blackboard.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee is very ___________ and always tries to improve his skills.",
+  "options": [
+   "self-motivated",
+   "motivated by others",
+   "lazy",
+   "independent"
+  ],
+  "correctIndex": 0,
+  "explanation": "Self-motivated refers to someone who has the ability to drive themselves to achieve their goals, often without external encouragement.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting is ______ Tuesday.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The bus stopped _______ the traffic lights.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate that something is located at a specific point or location.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will focus on _______ reducing costs.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "to reduce"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'reducing' because it is in the gerund form, functioning as a noun.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The new policy will be implemented ______ next year.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'in' is used to indicate something will happen during a period of time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is very good _______ his job.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate skill or proficiency in a particular area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee is very experienced _______ marketing.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate experience or expertise in a particular field or area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm studying ______ French for six years.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "for"
+  ],
+  "correctIndex": 3,
+  "explanation": "The preposition 'for' is used to indicate a period of time or duration.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ their projects.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is being worked on or studied.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy will come ________ effect on January 1st.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "into"
+  ],
+  "correctIndex": 0,
+  "explanation": "'In' is needed before the month/day to indicate when something will start or become effective.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel is ______ the city center.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' indicates something is located within a specific area.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students were working _______ the project for months.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is being worked on or studied.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave the students a lot of homework _______ their studies.",
+  "options": [
+   "to improve",
+   "improve",
+   "to be improved",
+   "that they can improve"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a purpose or intention.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The restaurant is ______ the corner.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something is located at a specific point or position.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy will come ______ effect next month.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "into"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate the time when something will start or become effective.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are very friendly _______ each other.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "in"
+  ],
+  "correctIndex": 1,
+  "explanation": "'With' indicates that the subjects are acting in concert.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm interested ______ music.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or involvement in something.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel is located _______ the beach.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is situated directly on a surface or border.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got stranded ___ the middle of the desert.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate location or position within a defined area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room has a nice view _______ the city.",
+  "options": [
+   "of",
+   "on",
+   "at",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular vantage point.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The tourists visited the museum _______ a group.",
+  "options": [
+   "in",
+   "on",
+   "as",
+   "in a"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something is done by a group or together.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is located _______ the coast of the Gulf of Mexico.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate proximity or adjacency to a coastline.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift was given _______ my sister.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "'To' indicates possession or being given to someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher asked the students to work _______ pairs.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate working together or in a group.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists walked _______ the old street to see the ancient buildings.",
+  "options": [
+   "down",
+   "through",
+   "across",
+   "around"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'down' is used to indicate movement in a downward direction.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will take place _______ Monday.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something happens on a specific day.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are studying for exams _______ the summer.",
+  "options": [
+   "during",
+   "in",
+   "on",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'during' is used to indicate a period of time when something is happening or is planned to happen.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee is still getting used ______ the company's policies.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a process or adaptation.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the coast of France.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate proximity or adjacency.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package will be delivered _______ my brother tomorrow.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate the recipient of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave the students a lot of homework _______ them to practice their skills.",
+  "options": [
+   "to",
+   "with",
+   "for",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a purpose or goal.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The event will take place _______ the summer.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'in' is used to indicate something happens during a season.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students were asked to work _______ the project for six months.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate a task or responsibility.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The student is very familiar _______ the material for the exam.",
+  "options": [
+   "with",
+   "at",
+   "on",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'with' because it indicates a familiarity or knowledge of something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "I'm tired ______ work all day.",
+  "options": [
+   "of",
+   "from",
+   "in",
+   "at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what someone is tired of or experiencing.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher gave the student _______ help if she needed it.",
+  "options": [
+   "for",
+   "to",
+   "with",
+   "by"
+  ],
+  "correctIndex": 2,
+  "explanation": "The preposition 'with' is used to indicate assistance or accompaniment.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are interested _______ learning about history.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate interest or involvement in something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is _______ my brother.",
+  "options": [
+   "for",
+   "to",
+   "with",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'for' indicates something intended or meant for someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students are working _______ their project for months.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is being worked on or dealt with.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists were disappointed _______ the canceled tour.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct preposition to use here is 'with', as it indicates a feeling or emotion about something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the lake.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on the edge of a body of water.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The concert will take place ______ the park.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate something takes place within a specific location.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The city is _______ the coast of France.",
+  "options": [
+   "on",
+   "at",
+   "by",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate that something is located on a coastline or border.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The event is ______ the evening.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something occurs at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room has a beautiful view ______ the city.",
+  "options": [
+   "of",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular vantage point.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are very _______ to their teachers for their guidance.",
+  "options": [
+   "loyal",
+   "faithful",
+   "devoted",
+   "attached"
+  ],
+  "correctIndex": 2,
+  "explanation": "Devoted means being strongly attached or loyal to someone or something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The meeting will be ______ 2 o'clock.",
+  "options": [
+   "at",
+   "on",
+   "in",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to indicate something happens at a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "I'm excited ______ this opportunity.",
+  "options": [
+   "for",
+   "at",
+   "on",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate something that is being looked forward to or desired.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists walked _______ the city streets, enjoying the sights.",
+  "options": [
+   "through",
+   "across",
+   "along",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'through' is used to indicate movement from one side of an area to the other.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The hotel room had a beautiful view _______ the city.",
+  "options": [
+   "of",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular vantage point.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is still getting used _______ the company's software.",
+  "options": [
+   "to",
+   "with",
+   "at",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate a process or adaptation.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourists got lost _______ the crowded market.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "through"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate a location or area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The party will be ______ the evening.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "during"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate a specific time.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students were happy _______ their new school.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'with' is used to indicate a feeling or emotion towards something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The students are studying _______ their exams next week.",
+  "options": [
+   "for",
+   "on",
+   "at",
+   "in"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate preparation or study for something.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bus stop is ______ the corner.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "by"
+  ],
+  "correctIndex": 1,
+  "explanation": "Preposition 'at' is used to indicate something is located on the edge of an area or at a specific point.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The concert will take place _______ the stadium.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that an event or activity is taking place within a designated area or location.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave the student a lot of homework _______ review for the exam.",
+  "options": [
+   "to",
+   "for",
+   "at",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "The preposition 'for' is used to indicate purpose or intention.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city is ______ the east coast of America.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "near"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'on' is used to indicate something is located on a coastline.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel room had a view _______ the city.",
+  "options": [
+   "of",
+   "on",
+   "at",
+   "from"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'of' is used to indicate what can be seen from a particular viewpoint or perspective.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will provide training _______ all new employees.",
+  "options": [
+   "to",
+   "for",
+   "with",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "'For' is used to indicate something that belongs to or is intended for someone.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The train arrives _______ the station at 10 o'clock.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "during"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'at' is used to indicate arrival or departure.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee is very experienced ______ this field.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate experience or expertise in a particular field or area.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The student is good ________ math and always gets high marks.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'at' because it indicates skill or proficiency in a particular area.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is ______ my brother.",
+  "options": [
+   "for",
+   "to",
+   "from",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'for' is used to indicate something is intended for someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The package will be sent _______ my friend.",
+  "options": [
+   "to",
+   "from",
+   "with",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'to' is used to indicate the recipient of something.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company will continue _______ a steady growth.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'at' because it indicates a rate or level of growth.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The train stops ______ the station.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "Preposition 'at' is used to specify a particular station or location.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The flowers are planted ______ the garden.",
+  "options": [
+   "in",
+   "on",
+   "at",
+   "by"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'in' is used to indicate that something is located within a defined space.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has decided to focus _______ developing new products.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate attention or emphasis.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ },
+ {
+  "question": "The gift is _______ my sister.",
+  "options": [
+   "for",
+   "to",
+   "from",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'for' is used to indicate something is intended or meant for someone.",
+  "topic": "Prepositions",
+  "level": "Beginner"
+ },
+ {
+  "question": "The book is located _______ the desk.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "under"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'on' is used to indicate something is physically placed on a surface.",
+  "topic": "Prepositions",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The tourist got _______ the city and decided to stay longer.",
+  "options": [
+   "lost",
+   "losing",
+   "lose",
+   "to lose"
+  ],
+  "correctIndex": 0,
+  "explanation": "The preposition 'lost' is used to indicate a state of being unable to find one's way or location.",
+  "topic": "Prepositions",
+  "level": "Advanced"
+ }
+]

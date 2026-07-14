@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "If I won the lottery, I _______ a house on the beach.",
+  "options": [
+   "will buy",
+   "would buy",
+   "buy",
+   "bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'would buy'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the movies.",
+  "options": [
+   "hadn't snowed",
+   "doesn't snow",
+   "won't snow",
+   "snows"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, using the past perfect tense to describe a hypothetical situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project earlier.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my car three years ago.",
+  "options": [
+   "bought",
+   "buy",
+   "buys",
+   "have bought"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'bought'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ yesterday, we would have gone to the beach.",
+  "options": [
+   "hadn't rained",
+   "doesn't rain",
+   "won't rain",
+   "isn't raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, using the past perfect tense to describe a hypothetical past situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my car last year, but I'm considering buying another one soon.",
+  "options": [
+   "buy",
+   "bought",
+   "have bought",
+   "had bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past simple tense to indicate a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ the book yesterday.",
+  "options": [
+   "read",
+   "am reading",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'read'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ rain, we would go to the beach.",
+  "options": [
+   "does not",
+   "did not",
+   "will not",
+   "would not"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional tense, using the present simple to describe a future condition.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for ten years when I decided to sell it.",
+  "options": [
+   "have owned",
+   "owned",
+   "had owned",
+   "was owning"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I ________ up, my alarm had gone off.",
+  "options": [
+   "woke",
+   "am waking",
+   "will wake",
+   "wake"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ the answer to this question.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, so the past simple tense is used to describe a hypothetical situation in the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ the opportunity, I would have accepted it.",
+  "options": [
+   "had had",
+   "have",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had had' because it describes a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I ________ my homework, it was midnight.",
+  "options": [
+   "finish",
+   "have finished",
+   "was finishing",
+   "had finished"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the past perfect tense, so the correct verb form is 'had finished'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day for the past month.",
+  "options": [
+   "have been going",
+   "am going",
+   "go",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect continuous tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I had studied harder, I _______ the exam.",
+  "options": [
+   "would pass",
+   "will pass",
+   "passed",
+   "pass"
+  ],
+  "correctIndex": 0,
+  "explanation": "This sentence uses the third conditional to express a past condition and its possible present consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ English for three years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have studied'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ to the gym every Monday for the past year.",
+  "options": [
+   "have been going",
+   "was going",
+   "go",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my keys when I arrived at work.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more money, I would travel around the world.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project on time.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more money, I would travel more.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using the present simple to describe a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ______ their dinner.",
+  "options": [
+   "had eaten",
+   "eat",
+   "have eaten",
+   "were eating"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next month, I ______ my driving license for 5 years.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for ten years now.",
+  "options": [
+   "have owned",
+   "own",
+   "owned",
+   "am owning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ tomorrow, we will go to the park.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "This sentence uses the first conditional tense to express a possible future condition and its consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next month, I ________ in this city for three years.",
+  "options": [
+   "will have lived",
+   "live",
+   "am living",
+   "have lived"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed at a specific time in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the answer to this question, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "had known",
+   "were to know"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional, using the past simple to describe an unlikely or hypothetical present situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought this expensive watch.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework at 10 PM.",
+  "options": [
+   "do",
+   "does",
+   "am doing",
+   "will do"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the future continuous tense, describing an action that will be in progress at a specific time.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I got home, my sister ______ her homework for hours.",
+  "options": [
+   "has been doing",
+   "was doing",
+   "had been doing",
+   "did"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes an action that was in progress at a specific point in the past, so the past continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ________ English for ten years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ______ more time, I would finish this project.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the first conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I ______ three languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "have learned",
+   "am learning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed before a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project for three months.",
+  "options": [
+   "had been working on",
+   "were working on",
+   "have been working on",
+   "have worked on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had been working on' because it describes an action that started and continued up to a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ her job last year.",
+  "options": [
+   "leaves",
+   "left",
+   "is leaving",
+   "has left"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I got to the party, they ________ already eaten.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it ______ snow tomorrow so we could go skiing.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would' because it is used in the second conditional to talk about unlikely or hypothetical conditions and their consequences.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ English since I was a child.",
+  "options": [
+   "speak",
+   "speaking",
+   "spoken",
+   "have spoken"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the present perfect tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ more money when I was younger.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, expressing a hypothetical situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my car for ten years, but now I need to replace it.",
+  "options": [
+   "have",
+   "had",
+   "was having",
+   "have had"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ French for three years now.",
+  "options": [
+   "study",
+   "am studying",
+   "have studied",
+   "studied"
+  ],
+  "correctIndex": 2,
+  "explanation": "The present perfect tense is used to describe an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ______ their homework for an hour.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "do",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project for three months.",
+  "options": [
+   "have been working on",
+   "were working on",
+   "had been working on",
+   "were going to work on"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym every Monday.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for ten years when I decided to sell it.",
+  "options": [
+   "have owned",
+   "own",
+   "was owning",
+   "had owned"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my car for five years when I decided to sell it.",
+  "options": [
+   "have owned",
+   "owned",
+   "had owned",
+   "was owning"
+  ],
+  "correctIndex": 2,
+  "explanation": "The correct answer is 'had owned' because it describes an action that occurred before another action in the past (decided to sell). This is an example of the past perfect tense.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to school yesterday.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ French for three years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "have studied",
+   "study"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, so the correct verb form is 'will have been studying'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my car for ten years when I finally decided to sell it.",
+  "options": [
+   "had owned",
+   "own",
+   "have owned",
+   "am owning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ______ to the movies on Saturday night.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "are going"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'went'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the beach.",
+  "options": [
+   "rains",
+   "rained",
+   "will rain",
+   "would rain"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes a past hypothetical situation, so the past simple tense is used in the if-clause.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my homework when I got home.",
+  "options": [
+   "am doing",
+   "was doing",
+   "did",
+   "have done"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific time in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ______ more time, I would finish the project.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would have finished the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ more money when I was younger, so I could have invested it.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If it ______ yesterday, we would have gone to the park.",
+  "options": [
+   "rains",
+   "rained",
+   "will rain",
+   "rain"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional tense, describing a past hypothetical situation and its past consequence.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ yesterday, we would have gone to the park.",
+  "options": [
+   "had not rained",
+   "does not rain",
+   "will not rain",
+   "is raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ______ more time to finish the project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it is used in the third conditional to describe a past condition.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my phone at 9 o'clock.",
+  "options": [
+   "charge",
+   "charging",
+   "charged",
+   "am charging"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week for the past year.",
+  "options": [
+   "have been going",
+   "go",
+   "went",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect continuous tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "When I arrived, they ________ their project for months.",
+  "options": [
+   "have been working on",
+   "were working on",
+   "had been working on",
+   "worked on"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and may have continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the store yesterday.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "goes"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'went'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car every year for the past five years.",
+  "options": [
+   "wash",
+   "am washing",
+   "have washed",
+   "was washing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ more time to finish this project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had' because it describes a past situation that is undesirable or unlikely. This is an example of the subjunctive mood.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ English since I was five years old.",
+  "options": [
+   "study",
+   "am studying",
+   "have studied",
+   "studied"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the present perfect tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more time, I would finish the project.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, which uses the past simple to describe a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to Paris twice now.",
+  "options": [
+   "have gone",
+   "went",
+   "go",
+   "had gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that occurred at an unspecified point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework when the phone rang.",
+  "options": [
+   "was doing",
+   "did",
+   "am doing",
+   "do"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past continuous tense, describing an action that was interrupted.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ my homework, it was midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I _________ my master's degree.",
+  "options": [
+   "will have completed",
+   "complete",
+   "have completed",
+   "am completing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed by a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework when my phone rang.",
+  "options": [
+   "was doing",
+   "did",
+   "am doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past continuous tense, describing an action that was interrupted by another action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the recipe carefully, I would not have burned the cake.",
+  "options": [
+   "read",
+   "had read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ________ in this city for 10 years.",
+  "options": [
+   "will have lived",
+   "live",
+   "have lived",
+   "am living"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym every day.",
+  "options": [
+   "go",
+   "went",
+   "am going",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for ten years when I finally sold it.",
+  "options": [
+   "have",
+   "had",
+   "was having",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes an action that occurred before another action in the past, so the past simple tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ the opportunity to attend that conference.",
+  "options": [
+   "had",
+   "have",
+   "was having",
+   "was have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had' because it is used in the third conditional to describe a past condition and its possible result.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next month, I ______ English for three years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future perfect tense is used to talk about an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my car when I hit the other driver.",
+  "options": [
+   "was driving",
+   "drive",
+   "have driven",
+   "am driving"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ the instructions carefully, I wouldn't have broken the machine.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had read' because it describes a hypothetical or uncertain situation in the past, and it is used in the third conditional to express this.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my car last year.",
+  "options": [
+   "sold",
+   "buy",
+   "buying",
+   "sell"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ to the gym three times a week for six months.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "had gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my keys when I arrived at the party, so I had to pay extra for parking.",
+  "options": [
+   "have lost",
+   "was losing",
+   "had lost",
+   "lose"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ______ you, I would not have bought this expensive watch.",
+  "options": [
+   "am",
+   "were",
+   "is",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'were'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my car since I got it.",
+  "options": [
+   "drive",
+   "have driven",
+   "am driving",
+   "was driving"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the present perfect continuous tense, indicating an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ you if I had your phone number.",
+  "options": [
+   "call",
+   "would call",
+   "will call",
+   "am calling"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Present conditional' for wishes and regrets uses 'would + base form'.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ___ their new car next week.",
+  "options": [
+   "are buying",
+   "buy",
+   "have bought",
+   "will buy"
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense is used to talk about future actions.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the store if I had more time.",
+  "options": [
+   "go",
+   "am going",
+   "will go",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would have finished the project by now.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to school at 8 every day.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "goes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every day for three months now.",
+  "options": [
+   "have been going",
+   "am going",
+   "went",
+   "go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ more time to finish the project.",
+  "options": [
+   "had",
+   "have",
+   "was having",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or unreal situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the gym every Monday.",
+  "options": [
+   "go",
+   "am going",
+   "went",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my homework before I went to bed.",
+  "options": [
+   "do",
+   "am doing",
+   "have done",
+   "was doing"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ______ snow, we would build a snowman.",
+  "options": [
+   "snows",
+   "snowed",
+   "is snowing",
+   "were to snow"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the subjunctive mood in the conditional sentence, which is 'were to snow' for more formal or literary language.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I finish my homework, it __________ midnight.",
+  "options": [
+   "will be",
+   "is",
+   "were",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have finished'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ________ English for three years.",
+  "options": [
+   "will have studied",
+   "study",
+   "have studied",
+   "am studying"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that will be completed at a specific point in the future, so the future perfect tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to the gym three times a week for the past six months.",
+  "options": [
+   "have been going",
+   "go",
+   "went",
+   "was going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym every day if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "will go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present conditional tense, describing a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the recipe carefully, I wouldn't have burned the cake.",
+  "options": [
+   "read",
+   "had read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional form, used for past hypothetical situations. 'Had read' is the correct verb form to use in this context.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their homework for hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "have been doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the store yesterday.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "goes"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'went'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I _______ my homework, it was already midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ the chance, I would study for the exam.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ______ their homework.",
+  "options": [
+   "do",
+   "did",
+   "were doing",
+   "have done"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past continuous tense, describing an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ________ up, they had already left.",
+  "options": [
+   "got",
+   "get",
+   "have got",
+   "were getting"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, describing an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more free time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'have' because it describes a present situation or condition that is hypothetical or uncertain (first conditional).",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ___ my homework before I went to bed.",
+  "options": [
+   "do",
+   "am doing",
+   "did",
+   "have done"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'did'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my car since last month.",
+  "options": [
+   "have washed",
+   "was washing",
+   "washed",
+   "am washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the instructions carefully, I wouldn't have broken the machine.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had read' because it is used in the third conditional to describe a past condition and its possible result.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ______ their new car next week.",
+  "options": [
+   "are buying",
+   "buy",
+   "will buy",
+   "bought"
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense is used to describe a planned or arranged future action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the party if you ______ me.",
+  "options": [
+   "go",
+   "will go",
+   "went",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the conditional tense 'would go' to indicate a hypothetical or uncertain situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ________ English for five years.",
+  "options": [
+   "will have studied",
+   "study",
+   "have studied",
+   "am studying"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my car every day.",
+  "options": [
+   "wash",
+   "washes",
+   "washing",
+   "am washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'wash'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for ten years when I sold it.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past simple tense to indicate a completed action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ last night, we would have gone to the party.",
+  "options": [
+   "had not rained",
+   "does not rain",
+   "will not rain",
+   "is not raining"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my car for ten years.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The present perfect tense is used to describe an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ________ my homework, it was already midnight.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduated, I _______ six languages.",
+  "options": [
+   "had learned",
+   "learn",
+   "have learned",
+   "was learning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I graduated, I ________ English for 10 years.",
+  "options": [
+   "have been studying",
+   "am studying",
+   "was studying",
+   "had been studying"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence describes an action that started before a specific point in the past and continued up to that point, so the past perfect continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week if I had more time.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'would go'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the instructions carefully, I wouldn't have had this problem.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my car every week.",
+  "options": [
+   "wash",
+   "am washing",
+   "will wash",
+   "washes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their new car last month.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "buy"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for 10 years when I decided to sell it.",
+  "options": [
+   "have owned",
+   "owned",
+   "am owning",
+   "had owned"
+  ],
+  "correctIndex": 3,
+  "explanation": "The correct answer is 'had owned' because it describes an action that occurred before another action in the past (deciding to sell). This is an example of the past perfect tense.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the gym every day.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I arrived, they ______ their homework.",
+  "options": [
+   "were doing",
+   "did",
+   "are doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that was in progress when another action happened, so the past continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ more money, I would invest in that startup.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had' because it describes a hypothetical or uncertain situation in the past. This sentence uses the third conditional to express a condition in the present or future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I graduate, I ______ English for five years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have studied'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduated, I ______ four languages.",
+  "options": [
+   "learned",
+   "have learned",
+   "was learning",
+   "had learned"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my car for ten years, but I'm thinking of selling it.",
+  "options": [
+   "have owned",
+   "owned",
+   "own",
+   "was owning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the movies every weekend.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "will go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ yesterday, we would have gone to the movies.",
+  "options": [
+   "had snowed",
+   "snows",
+   "was snowing",
+   "is snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project for six months.",
+  "options": [
+   "had been working on",
+   "are working on",
+   "have worked on",
+   "work on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ English for three years now.",
+  "options": [
+   "study",
+   "am studying",
+   "have studied",
+   "studies"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the present perfect tense, so the correct verb form is 'have studied'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym every Monday for the past three months.",
+  "options": [
+   "have been going",
+   "go",
+   "was going",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect continuous tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the instructions carefully, I would not have broken the machine.",
+  "options": [
+   "had read",
+   "read",
+   "am reading",
+   "have read"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework at 10 PM.",
+  "options": [
+   "do",
+   "does",
+   "did",
+   "am doing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'did'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ______ their homework for two hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "have been doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that was in progress at a point in the past, so the past perfect continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have bought that expensive watch.",
+  "options": [
+   "am",
+   "were",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ______ the money, I would have bought a house.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional tense, describing a past hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more money, I would buy a house.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, using the past simple to describe a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it ________ snow today so we could go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "is snowing",
+   "would snow"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the second conditional to express a hypothetical or uncertain situation in the present or future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the gym three times a week.",
+  "options": [
+   "am going",
+   "go",
+   "went",
+   "will go"
+  ],
+  "correctIndex": 1,
+  "explanation": "The present simple is used for habitual actions.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I won the lottery, I ________ around the world.",
+  "options": [
+   "travel",
+   "will travel",
+   "would travel",
+   "traveled"
+  ],
+  "correctIndex": 2,
+  "explanation": "Second conditional uses the past simple for hypothetical actions.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the instructions carefully, I would not have broken it.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework before I went to bed.",
+  "options": [
+   "do",
+   "am doing",
+   "have done",
+   "was doing"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the past continuous tense, so the correct verb form is 'was doing'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I arrived, they ______ their homework for an hour.",
+  "options": [
+   "were doing",
+   "did",
+   "have done",
+   "are doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that was in progress when another action occurred, so the past continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ rain, we would go to the beach.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'doesn't' because it is used in the first conditional to describe a present or future condition and its possible result.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my phone since I lost it.",
+  "options": [
+   "lose",
+   "am losing",
+   "have lost",
+   "lost"
+  ],
+  "correctIndex": 2,
+  "explanation": "The present perfect tense is used to describe an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I arrived, they ______ their homework for three hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "have been doing",
+   "do"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect continuous tense, describing an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "When I got home, my parents _______ dinner for hours.",
+  "options": [
+   "had been cooking",
+   "were cooking",
+   "have been cooking",
+   "cooked"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that started in the past and continued up to another point in the past, so the past perfect continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ________ already eaten.",
+  "options": [
+   "had",
+   "have",
+   "was",
+   "were"
+  ],
+  "correctIndex": 0,
+  "explanation": "The past perfect tense is used to describe an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my car every month to maintain it.",
+  "options": [
+   "maintain",
+   "maintain",
+   "maintained",
+   "have maintained"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the present perfect tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduated, I _______ four languages.",
+  "options": [
+   "had learned",
+   "learn",
+   "have learned",
+   "am learning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I arrived, they ________ their homework.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "were finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, so the correct verb form is 'had finished'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I ______ six languages.",
+  "options": [
+   "will have learned",
+   "am learning",
+   "learn",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have learned'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have come to this party.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ______ studying English for three years.",
+  "options": [
+   "will have been",
+   "am",
+   "have",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, describing an action that will be completed by a specific time in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I _________ my job three months ago.",
+  "options": [
+   "leave",
+   "leaves",
+   "left",
+   "am leaving"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ tomorrow, we will cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional, using the present simple to describe a possible future condition and its result.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ________ English for five years.",
+  "options": [
+   "will have studied",
+   "study",
+   "am studying",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, describing an action that will be completed by a specific time in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the answer, I would tell you.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past simple tense to indicate a hypothetical situation in the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next month, we ___ in Paris for three years.",
+  "options": [
+   "will have been living",
+   "are living",
+   "live",
+   "have lived"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ________ their new house next month.",
+  "options": [
+   "will move",
+   "move",
+   "are moving",
+   "have moved"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future simple tense is used to talk about planned or arranged events.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their business two years ago.",
+  "options": [
+   "start",
+   "started",
+   "have started",
+   "are starting"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ______ snowing now, we would have gone skiing.",
+  "options": [
+   "were",
+   "is",
+   "was",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express an unlikely or hypothetical situation in the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ________ their car last year.",
+  "options": [
+   "sell",
+   "sells",
+   "sold",
+   "are selling"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'sold'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their relationship after 10 years of marriage.",
+  "options": [
+   "divorced",
+   "have divorced",
+   "were divorcing",
+   "were divided"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I _________ to the gym every day for the past month.",
+  "options": [
+   "have been going",
+   "go",
+   "went",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the movies every weekend.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car since last year.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for five years when I decided to sell it.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I finish my degree, I _________ 3 years of experience.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed by a specific time.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car for ten years, but it still runs well.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect tense, describing an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to Paris if I had more money.",
+  "options": [
+   "will go",
+   "go",
+   "am going",
+   "would go"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the use of the second conditional to express an unlikely or hypothetical condition and its consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework yesterday.",
+  "options": [
+   "do",
+   "did",
+   "am doing",
+   "have done"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'did'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would finish the project on time.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes a hypothetical situation in the present, so the past tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "When I arrived, they ______ their homework for three hours.",
+  "options": [
+   "had been doing",
+   "are doing",
+   "were doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the gym every day for two months.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I arrived, they ________ their homework for an hour.",
+  "options": [
+   "have been doing",
+   "were doing",
+   "had been doing",
+   "did"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes an action that was in progress at a specific point in the past, so the past continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ______ snow tomorrow, we will go skiing.",
+  "options": [
+   "snows",
+   "will snow",
+   "is snowing",
+   "snowed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional tense, which uses the present simple to describe a possible future situation.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the movies last night.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the instructions carefully, I wouldn't have broken it.",
+  "options": [
+   "read",
+   "have read",
+   "had read",
+   "was reading"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it ______ snow tomorrow.",
+  "options": [
+   "will snow",
+   "would snow",
+   "snows",
+   "would have snowed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would snow' because it describes a hypothetical situation in the present or future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next year, I ______ English for three years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "have studied",
+   "study"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, so the correct verb form is 'will have been studying'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ______ their project when I arrived.",
+  "options": [
+   "were working",
+   "are working",
+   "work",
+   "worked"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past continuous tense, describing an action that was in progress when another action happened.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ the recipe carefully, I would not have burned the cake.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my car every weekend.",
+  "options": [
+   "wash",
+   "washes",
+   "washing",
+   "am washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'wash'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their homework for three hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "have been doing",
+   "do"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the beach last summer.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "will go"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past tense, describing an action that occurred at a specific time in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week for the past month.",
+  "options": [
+   "have been going",
+   "went",
+   "go",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ last night, the accident would have been avoided.",
+  "options": [
+   "had not happened",
+   "does not happen",
+   "will not happen",
+   "is not happening"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ________ their project by the end of the month.",
+  "options": [
+   "will finish",
+   "finish",
+   "are finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future simple tense, describing an action that will happen at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ snowing now, we would go skiing.",
+  "options": [
+   "were",
+   "is",
+   "was",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express an unreal or hypothetical situation in the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ more time, I would have finished the project earlier.",
+  "options": [
+   "had had",
+   "have",
+   "has",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my car last year.",
+  "options": [
+   "sold",
+   "am selling",
+   "sell",
+   "have sold"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the simple past tense, so the correct verb form is 'sold'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ more money, I would buy a house.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using the past simple to describe a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ to the movies last night, but I'm too tired now.",
+  "options": [
+   "went",
+   "have gone",
+   "am going",
+   "had gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past simple tense to describe a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the gym every morning.",
+  "options": [
+   "go",
+   "went",
+   "going",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ French for three years when I moved to Paris.",
+  "options": [
+   "have learned",
+   "learned",
+   "was learning",
+   "had been learning"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ______ the instructions carefully, I would not have broken the machine.",
+  "options": [
+   "read",
+   "had read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'had read' because it describes a hypothetical past condition and its potential present consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my phone when the call came through.",
+  "options": [
+   "check",
+   "was checking",
+   "am checking",
+   "have checked"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past continuous tense, so the correct verb form is 'was checking'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I got home, they ________ already eaten dinner.",
+  "options": [
+   "had",
+   "have",
+   "were having",
+   "were eat"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "When I got home, my brother ______ his homework for three hours.",
+  "options": [
+   "was doing",
+   "did",
+   "has done",
+   "had done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have borrowed money from my friend.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, using 'were' to indicate a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ______ more money when I was younger.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had' because it describes a past situation that is not real or possible.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my project when the deadline arrived.",
+  "options": [
+   "was finishing",
+   "had finished",
+   "have finished",
+   "finish"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ football when I was a child.",
+  "options": [
+   "play",
+   "am playing",
+   "played",
+   "have played"
+  ],
+  "correctIndex": 2,
+  "explanation": "The past simple tense is used to describe completed actions in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ________ rain tomorrow, we will have a picnic.",
+  "options": [
+   "doesn't",
+   "won't",
+   "didn't",
+   "hadn't"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present simple tense to express a general truth or habit.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduated, I ________ in three different companies.",
+  "options": [
+   "had worked",
+   "work",
+   "am working",
+   "have worked"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ______ more money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "have had"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ my car fixed when I got it back from the repair shop.",
+  "options": [
+   "have had",
+   "had",
+   "was having",
+   "have been having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence describes an action that was completed at a specific point in the past, so the past simple tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ the new employee's training program when she arrived.",
+  "options": [
+   "was conducting",
+   "am conducting",
+   "have conducted",
+   "conduct"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past continuous tense to indicate an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ more money, I would buy a car.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "They ________ their new car next week.",
+  "options": [
+   "are buying",
+   "buy",
+   "will buy",
+   "bought"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present continuous tense, describing an action that will continue up to the point of speaking.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my job three months ago.",
+  "options": [
+   "have left",
+   "left",
+   "had left",
+   "was leaving"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the simple past tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework if I had studied.",
+  "options": [
+   "will do",
+   "would do",
+   "do",
+   "am doing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'would do'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I finish my degree, I ________ five languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "have learned",
+   "am learning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific time in the future.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ______ more time to finish this project.",
+  "options": [
+   "have",
+   "had",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, expressing a past condition and its present consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework when the phone rang.",
+  "options": [
+   "was doing",
+   "did",
+   "am doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past continuous tense, describing an action that was in progress at a specific point in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ to the gym three times a week for the past year.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "have been going"
+  ],
+  "correctIndex": 3,
+  "explanation": "Present perfect continuous for an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project for over six months.",
+  "options": [
+   "had been working on",
+   "were working on",
+   "have been working on",
+   "are working on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had been working on' because it describes an action that started before a point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I graduate, I ________ five languages.",
+  "options": [
+   "will have learned",
+   "learn",
+   "am learning",
+   "have learned"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have learned'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I ______ my project, I had spent three months on it.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, indicating an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ to the movies every weekend until I was 16.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "had gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past simple tense 'went' to describe a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ the chance, I would travel around the world.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "will have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the first conditional tense, expressing a present or future condition and its possible result.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduated, I ________ French for ten years.",
+  "options": [
+   "have studied",
+   "was studying",
+   "had studied",
+   "have been studying"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence describes an action that was completed before a specific point in the past, so the past perfect tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ last night, we would have gone to the movies.",
+  "options": [
+   "had not snowed",
+   "does not snow",
+   "will not snow",
+   "is not snowing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that happened before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ to the movies last night.",
+  "options": [
+   "go",
+   "went",
+   "am going",
+   "will go"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduate, I ________ my master's degree.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, indicating an action that will be completed before a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ snowing now, we would have built a snowman.",
+  "options": [
+   "weren't",
+   "isn't",
+   "doesn't snow",
+   "won't snow"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ______ their project by the end of next month.",
+  "options": [
+   "will finish",
+   "finish",
+   "have finished",
+   "are finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "Future simple for an action planned or arranged in the present.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "When I got home, my brother ___ his homework for an hour.",
+  "options": [
+   "was doing",
+   "did",
+   "has done",
+   "had done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that was in progress at a specific point in the past, so the past continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ the book when I found out it was written by my favorite author.",
+  "options": [
+   "had read",
+   "read",
+   "have read",
+   "was reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had read' because it describes an action that occurred before another action in the past. This is an example of the third conditional.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my car for ten years.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ to the gym every day for the past month.",
+  "options": [
+   "have been going",
+   "am going",
+   "was going",
+   "go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my project by the end of the week.",
+  "options": [
+   "will have finished",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific time in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I graduated, I ______ three years of experience.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ snowing now, we would build a snowman.",
+  "options": [
+   "is",
+   "were",
+   "was",
+   "will be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, using 'were' to describe a hypothetical present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "When I arrived, they ________ their homework for three hours.",
+  "options": [
+   "had been doing",
+   "were doing",
+   "have been doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'had been doing' because it describes an action that started and continued up to a point in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my dog every morning.",
+  "options": [
+   "walk",
+   "walks",
+   "am walking",
+   "have walked"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my job three months ago.",
+  "options": [
+   "leave",
+   "left",
+   "leaves",
+   "am leaving"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the simple past tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ______ four years of study.",
+  "options": [
+   "will have completed",
+   "complete",
+   "have completed",
+   "am completing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the store every day.",
+  "options": [
+   "go",
+   "am going",
+   "have gone",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish I ________ the answer to this question when you asked me.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "would know"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the third conditional, so the correct verb form is 'knew'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ more time, I would learn how to play the guitar.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence requires the past tense to indicate a hypothetical or uncertain situation in the present.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "She ________ her car for ten years.",
+  "options": [
+   "has",
+   "have",
+   "had",
+   "was"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the opportunity, I would have attended the conference.",
+  "options": [
+   "had had",
+   "have had",
+   "have",
+   "had"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the third conditional, using 'had had' for the past perfect tense to describe a hypothetical past condition.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ________ my car for ten years before I decided to sell it.",
+  "options": [
+   "have owned",
+   "own",
+   "was owning",
+   "had owned"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ___ my car for ten years.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "have had"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the present perfect tense, so the correct verb form is 'have'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If it ______ snowing now, I would go skiing.",
+  "options": [
+   "were",
+   "is",
+   "was",
+   "are"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical situation in the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If it ________ tomorrow, we will have to cancel the picnic.",
+  "options": [
+   "rains",
+   "will rain",
+   "is raining",
+   "rained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present simple tense 'rains' to describe a possible future condition.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "They ______ their business next month.",
+  "options": [
+   "will start",
+   "start",
+   "are starting",
+   "start now"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future simple tense is used for planned or arranged events.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next week, I ______ my homework for three hours.",
+  "options": [
+   "will have finished",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have finished'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ______ their project for months.",
+  "options": [
+   "have been working on",
+   "were working on",
+   "had been working on",
+   "were in the process of working on"
+  ],
+  "correctIndex": 2,
+  "explanation": "This sentence uses the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next week, I ________ English for three months.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect continuous tense, indicating an action that will continue up to a point in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ________ enough money, I would buy a house.",
+  "options": [
+   "had",
+   "have",
+   "will have",
+   "would have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, describing a hypothetical situation in the present or future.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it ________ snow tomorrow so we could go skiing.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'would' because it describes a hypothetical or uncertain situation in the present or future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ English for three years.",
+  "options": [
+   "learn",
+   "learning",
+   "learns",
+   "have learned"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the present perfect tense, so the correct verb form is 'have learned'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ the answer, I would not ask you.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the past conditional tense to express a hypothetical or uncertain situation in the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I arrived, they ________ their project for months.",
+  "options": [
+   "had been working on",
+   "were working on",
+   "have been working on",
+   "are working on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my phone when it rang.",
+  "options": [
+   "charge",
+   "was charging",
+   "charged",
+   "have charged"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past continuous tense, indicating an action that was in progress at a specific time in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ my degree for three years.",
+  "options": [
+   "will have finished",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have finished'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ my job six months ago.",
+  "options": [
+   "left",
+   "have left",
+   "am leaving",
+   "was leaving"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past simple tense to indicate a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ to the movies every Saturday.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "am going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, describing a habitual action.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I wish it ______ snow so we could make a snowman.",
+  "options": [
+   "will",
+   "would",
+   "can",
+   "may"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional, which is used for hypothetical or unlikely situations.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ______ my degree for six years.",
+  "options": [
+   "will have completed",
+   "complete",
+   "am completing",
+   "have completed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "If I ________ you, I would not have eaten that sandwich.",
+  "options": [
+   "were",
+   "am",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional tense, using 'were' to indicate a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ to the gym every day for the past three months.",
+  "options": [
+   "have been going",
+   "am going",
+   "was going",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence describes an action that started in the past and continues up to the present, so the present perfect continuous tense is used.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ______ the answer to that question.",
+  "options": [
+   "knew",
+   "know",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past simple tense to express a desire or regret about a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework last night.",
+  "options": [
+   "do",
+   "did",
+   "will do",
+   "am doing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'did'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduated, I ______ English for seven years.",
+  "options": [
+   "had been studying",
+   "have been studying",
+   "am studying",
+   "study"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect continuous tense to indicate an action that started before a specific point in the past and continued up to that point.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ more money when I was in college.",
+  "options": [
+   "had",
+   "have",
+   "has",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By the time I ______ to school, it was already 8am.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "had gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'went'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By the time I graduated, I ________ English for five years.",
+  "options": [
+   "had studied",
+   "study",
+   "have studied",
+   "am studying"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish it ________ yesterday so we could have gone to the movies.",
+  "options": [
+   "does not rain",
+   "did not rain",
+   "will not rain",
+   "rained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The correct answer is 'did not rain' because it describes an unreal or hypothetical situation in the past. This is an example of the third conditional.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "By next month, we ________ our new project.",
+  "options": [
+   "will have finished",
+   "finish",
+   "have finished",
+   "are finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The future perfect tense is used to describe an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to Paris last year.",
+  "options": [
+   "travel",
+   "have traveled",
+   "was traveling",
+   "have been traveling"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the simple past tense, describing a completed action.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I ______ to the party if I had known it was being held.",
+  "options": [
+   "go",
+   "went",
+   "have gone",
+   "would have gone"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence requires the use of the second conditional to express a hypothetical past condition and its potential present consequence.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ___ to the gym every day for the past month.",
+  "options": [
+   "go",
+   "am going",
+   "have gone",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The present simple is used for habitual or general truths.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my job next month.",
+  "options": [
+   "will have",
+   "have",
+   "am having",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the future perfect tense, so the correct verb form is 'will have'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I ________ up, they had already eaten breakfast.",
+  "options": [
+   "woke",
+   "wake",
+   "had woken",
+   "have woken"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence requires the past perfect tense to indicate an action that occurred before another action in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ___ to school every day.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "will go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present simple tense, so the correct verb form is 'go'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to Paris three times.",
+  "options": [
+   "have been",
+   "am going",
+   "went",
+   "was going"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect simple tense, describing an action that occurred at an unspecified point in the past.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By next year, I ______ my degree and start my career.",
+  "options": [
+   "will have finished",
+   "finish",
+   "am finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a specific point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my car for five years.",
+  "options": [
+   "buy",
+   "bought",
+   "have bought",
+   "am buying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, describing a completed action in the past.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "If I ______ more time, I would travel around the world.",
+  "options": [
+   "have",
+   "had",
+   "has",
+   "will have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the second conditional tense, so the correct verb form is 'had'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ________ the opportunity to travel more when I was younger.",
+  "options": [
+   "had taken",
+   "take",
+   "will take",
+   "have taken"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the past perfect tense to indicate a hypothetical or uncertain situation in the past.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ________ my homework by the time you called me.",
+  "options": [
+   "had finished",
+   "finish",
+   "have finished",
+   "was finishing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the past perfect tense, so the correct verb form is 'had finished'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ______ to the gym three times a week for the past six months.",
+  "options": [
+   "have been going",
+   "was going",
+   "am going",
+   "go"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the present perfect continuous tense to indicate an action that started in the past and continues up to the present.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If I ________ you, I would not have borrowed that money.",
+  "options": [
+   "were",
+   "am",
+   "was",
+   "had been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the second conditional, using the past simple tense to describe a hypothetical situation.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework last night.",
+  "options": [
+   "do",
+   "did",
+   "am doing",
+   "have done"
+  ],
+  "correctIndex": 1,
+  "explanation": "The sentence is in the past simple tense, so the correct verb form is 'did'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "By next month, I ______ my degree in law for three years.",
+  "options": [
+   "will have completed",
+   "am completing",
+   "have completed",
+   "complete"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect tense to indicate an action that will be completed at a point in the future.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "I wish I ______ the answer to that question when you asked me.",
+  "options": [
+   "know",
+   "knew",
+   "have known",
+   "had known"
+  ],
+  "correctIndex": 1,
+  "explanation": "'I wish' expresses regret in the present or future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ },
+ {
+  "question": "I ______ my homework when my phone rang.",
+  "options": [
+   "am doing",
+   "did",
+   "have done",
+   "was doing"
+  ],
+  "correctIndex": 3,
+  "explanation": "The sentence is in the past continuous tense, so the correct verb form is 'was doing'.",
+  "topic": "Tenses",
+  "level": "Beginner"
+ },
+ {
+  "question": "I ________ my car for ten years now.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is in the present perfect simple tense, so the correct verb form is 'have'.",
+  "topic": "Tenses",
+  "level": "Intermediate"
+ },
+ {
+  "question": "By the time I graduate, I ________ English for seven years.",
+  "options": [
+   "will have been studying",
+   "am studying",
+   "study",
+   "have studied"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence requires the future perfect continuous tense to indicate an action that will continue up to a point in the future.",
+  "topic": "Tenses",
+  "level": "Advanced"
+ }
+]

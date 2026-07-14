@@ -1,0 +1,652 @@
+[
+ {
+  "question": "What is the function of a comma (,)?",
+  "options": [
+   "To separate items in a list",
+   "To end a sentence",
+   "To start a sentence",
+   "To show a range"
+  ],
+  "correctIndex": 0,
+  "explanation": "A comma is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of an apostrophe (' )?",
+  "options": [
+   "To indicate possession",
+   "To separate items in a list",
+   "To end a sentence",
+   "To introduce a quote"
+  ],
+  "correctIndex": 0,
+  "explanation": "'s is the most common abbreviation for 'is' or 'owned by'.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences is punctuated correctly?",
+  "options": [
+   "The new employee was very excited about starting work.",
+   "The new employee was very excited about starting work.",
+   "The new employee was very excited about starting work.",
+   "The new employee was very excited about starting work."
+  ],
+  "correctIndex": 0,
+  "explanation": "'The' is not an appropriate conjunction in this sentence, 'about' is not a preposition, and 'work.' is the correct end punctuation.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of a comma (,)?",
+  "options": [
+   "To separate items in a list",
+   "To end a sentence",
+   "To indicate a pause",
+   "To separate clauses"
+  ],
+  "correctIndex": 0,
+  "explanation": "A comma is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a direct quote?",
+  "options": [
+   ",",
+   ".",
+   ";",
+   "\""
+  ],
+  "correctIndex": 3,
+  "explanation": "The quotation marks (\"\" or '') are used to indicate a direct quote.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses semicolons correctly?",
+  "options": [
+   "I love eating pizza; but I don't eat it every day.",
+   "The teacher gave us a multiple-choice question; what's your answer?",
+   "I can't believe it; it's so exciting!",
+   "They said goodbye; and they left."
+  ],
+  "correctIndex": 0,
+  "explanation": "'I love eating pizza; but I don't eat it every day.' is a good example of using semicolons to separate items in a list or to join two independent clauses that are closely related in meaning.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which of the following sentences uses a comma correctly?",
+  "options": [
+   "I love reading books.",
+   "I, love, reading, books.",
+   "I love reading, books.",
+   "I love reading books,"
+  ],
+  "correctIndex": 2,
+  "explanation": "The comma is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of the semicolon (;) in the following sentence: 'I have read three books; two of them were on my summer reading list.'?",
+  "options": [
+   "To separate items in a list",
+   "To introduce a quote",
+   "To end a sentence",
+   "To separate independent clauses that could stand alone"
+  ],
+  "correctIndex": 3,
+  "explanation": "The semicolon separates two independent clauses that could stand alone as sentences, and are joined semantically.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses an apostrophe correctly?",
+  "options": [
+   "I'm reading a book.",
+   "I am reading a book.",
+   "I'm eating my dinner.",
+   "I am eating my dinner."
+  ],
+  "correctIndex": 0,
+  "explanation": "The apostrophe in 'I'm' is used to form the contraction 'I am'.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of an apostrophe (')?",
+  "options": [
+   "To separate items in a list",
+   "To indicate possession or contraction",
+   "To show the beginning of a sentence",
+   "To mark a question"
+  ],
+  "correctIndex": 1,
+  "explanation": "An apostrophe (') is used to indicate possession or a contraction.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of an em dash (—)?",
+  "options": [
+   "To set off a list",
+   "To indicate a parenthetical remark",
+   "To separate items in a list",
+   "To end a sentence"
+  ],
+  "correctIndex": 1,
+  "explanation": "An em dash (—) is used to set off a parenthetical remark or interrupting thought.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate the end of a quotation?",
+  "options": [
+   ".",
+   ",",
+   ";",
+   ":"
+  ],
+  "correctIndex": 0,
+  "explanation": "The period (.) is used at the end of a sentence, including quotations.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of a hyphen (-)?",
+  "options": [
+   "To separate words or phrases that are being combined",
+   "To indicate a pause or break in a sentence",
+   "To end a sentence",
+   "To introduce a quote"
+  ],
+  "correctIndex": 0,
+  "explanation": "A hyphen (-) is used to separate words or phrases that are being combined into a single word or concept.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of the hyphen (-) in the following word: 're-enactment'?",
+  "options": [
+   "To indicate a range or interval",
+   "To separate words that are blended into one word",
+   "To indicate possession",
+   "To separate clauses"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Re-enactment' is an example of a compound adjective formed by two words that have become fused into a single word, and they are separated by a hyphen.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses parentheses correctly?",
+  "options": [
+   "The capital of France (Paris) is one of the most beautiful cities in the world.",
+   "The capital of France Paris is one of the most beautiful cities in the world.",
+   "The capital of France Paris: The most beautiful city in the world.",
+   "The capital of France Paris the most beautiful city in the world."
+  ],
+  "correctIndex": 0,
+  "explanation": "'(Paris)' is used to set off explanatory material.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of the hyphen (-)?",
+  "options": [
+   "To separate items in a list",
+   "To indicate a pause or break",
+   "To connect two words together",
+   "To mark the end of a sentence"
+  ],
+  "correctIndex": 2,
+  "explanation": "The hyphen (-) is used to connect two words together to form a single compound word.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of the comma (,), and how does it differ from other punctuation marks?",
+  "options": [
+   "To separate items in a list",
+   "To end a sentence",
+   "To indicate a pause or separation",
+   "To connect two independent clauses"
+  ],
+  "correctIndex": 2,
+  "explanation": "Comma (,) is used to indicate a pause or separation between elements in a list, for example, 'I love apples, oranges, and bananas.' It can also be used to separate clauses in a complex sentence.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of parentheses ()?",
+  "options": [
+   "To set off parenthetical remarks",
+   "To indicate a list",
+   "To separate clauses",
+   "To introduce a quotation"
+  ],
+  "correctIndex": 0,
+  "explanation": "Parentheses are used to set off parenthetical remarks or explanatory information.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to separate items in a list?",
+  "options": [
+   "comma (,), semicolon (;), colon (:), dash (-)",
+   "hyphen (-), apostrophe ('), dash (-), bracket ([)]",
+   "dash (-), bracket ([)]",
+   "semicolon (;), comma (,), dash (-)"
+  ],
+  "correctIndex": 1,
+  "explanation": "The hyphen (-), apostrophe ('), dash (-), bracket ([)] are all used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of parentheses ( )?",
+  "options": [
+   "To set off an explanatory phrase",
+   "To indicate a parenthetical remark",
+   "To introduce a list",
+   "To mark a quotation"
+  ],
+  "correctIndex": 0,
+  "explanation": "Parentheses ( ) are used to set off an explanatory phrase or a small amount of information.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of the em dash (—) in the following sentence? 'The movie was awful — I wish I hadn't gone!'",
+  "options": [
+   "To separate clauses",
+   "To end a sentence",
+   "To set off a parenthetical remark",
+   "To indicate a range or a quotation"
+  ],
+  "correctIndex": 2,
+  "explanation": "The em dash (—) is used to set off a parenthetical remark.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate the end of a sentence?",
+  "options": [
+   ".",
+   ",",
+   ";",
+   ":"
+  ],
+  "correctIndex": 0,
+  "explanation": "The period (.) is used to indicate the end of a sentence.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to separate clauses in a sentence?",
+  "options": [
+   "comma (,), semicolon (;), dash (-), colon (:)",
+   "hyphen (-), apostrophe (‘’), dash (-), colon (:)",
+   "comma (,), semicolon (;), comma (,), semicolon (;)",
+   "colon (:), period (.), comma (,), semicolon (;)"
+  ],
+  "correctIndex": 1,
+  "explanation": "A semicolon (;) is used to separate clauses in a sentence, while a comma (,) separates items in a list.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of the hyphen (-) in the word 'reduced-to-nothingness'?",
+  "options": [
+   "To separate words that form a compound adjective",
+   "To indicate a range or sequence",
+   "To indicate possession",
+   "To separate alternative spellings"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'reduced-to-nothingness' is an adjective that describes something that has been reduced to a state of nothingness. The hyphen connects these two adjectives to describe the noun more precisely.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of a semicolon (;)?",
+  "options": [
+   "To separate items in a list.",
+   "To end a sentence.",
+   "To separate two independent clauses that are closely related.",
+   "To indicate a question."
+  ],
+  "correctIndex": 2,
+  "explanation": "A semicolon is used to separate two independent clauses that are closely related, and it can be used to reduce line breaks or white space in a sentence.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a quotation?",
+  "options": [
+   ",",
+   ".",
+   ";",
+   "\""
+  ],
+  "correctIndex": 3,
+  "explanation": "'\"\"\"\"' indicates a direct quote.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of a semicolon (;) when used in a sentence?",
+  "options": [
+   "To separate items in a list",
+   "To indicate a pause or break in a sentence",
+   "To join two independent clauses that are closely related",
+   "To introduce a quotation"
+  ],
+  "correctIndex": 2,
+  "explanation": "A semicolon (;) is used to separate two independent clauses in a sentence that could be separated by a period.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of a dash (-) in a sentence?",
+  "options": [
+   "To separate items in a list",
+   "To end a sentence",
+   "To set off a parenthetical remark",
+   "To provide a range or break in thought"
+  ],
+  "correctIndex": 3,
+  "explanation": "A dash (-) is used to set off a parenthetical remark.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a range or a sequence of numbers?",
+  "options": [
+   "-",
+   "--",
+   "_",
+   "*"
+  ],
+  "correctIndex": 1,
+  "explanation": "The en dash (--), also known as a double-dash or two-em dash, is often used to indicate a range or a sequence of numbers.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses a semicolon correctly?",
+  "options": [
+   "It's raining; I forgot my umbrella.",
+   "It's raining; I forgot my umbrella!;",
+   "It's raining; I forgot my umbrella.",
+   "It's raining; I forgot my umbrella;"
+  ],
+  "correctIndex": 0,
+  "explanation": "The semicolon is used to separate two independent clauses in this sentence, indicating that they are closely related but could be separate sentences.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a pause in a sentence?",
+  "options": [
+   ",",
+   ".",
+   ";",
+   ":"
+  ],
+  "correctIndex": 0,
+  "explanation": "A comma (,) is used to separate items in a list or to indicate a pause in a sentence.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a non-definite noun or noun phrase?",
+  "options": [
+   "Quotation mark",
+   "Apostrophe",
+   "Comma",
+   "Annoying symbol"
+  ],
+  "correctIndex": 2,
+  "explanation": "The comma (, ) is used to separate items in a list or to indicate a pause in a sentence.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate that a word or phrase is being divided or divided into parts?",
+  "options": [
+   "hyphen (-)",
+   "dash (--)",
+   "en dash (–)",
+   "apostrophe ('')"
+  ],
+  "correctIndex": 0,
+  "explanation": "The hyphen (-) is used to indicate that a word or phrase is being divided or divided into parts.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a question?",
+  "options": [
+   ",",
+   ".",
+   ";",
+   "?"
+  ],
+  "correctIndex": 3,
+  "explanation": "The question mark (?) is used to indicate a question.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which of the following sentences uses a comma to separate items in a list?",
+  "options": [
+   "I am learning to code in Python, Java, and JavaScript.",
+   "I am learning to code in Python, Java, and JavaScript.",
+   "I am learning to code in Python, Java, JavaScript.",
+   "I am learning to code in Python, Java, and JavaScript."
+  ],
+  "correctIndex": 0,
+  "explanation": "The comma is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate that something is not true or is being denied?",
+  "options": [
+   "!",
+   "?",
+   ",",
+   ";"
+  ],
+  "correctIndex": 0,
+  "explanation": "The exclamation point (!) is used to indicate strong emotion or emphasis.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the purpose of the comma (,)?",
+  "options": [
+   "To separate items in a list",
+   "To introduce a quotation",
+   "To end a sentence",
+   "To separate clauses"
+  ],
+  "correctIndex": 0,
+  "explanation": "The comma (,) is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate an interruption or a pause in speech?",
+  "options": [
+   ",",
+   ";",
+   ".",
+   ":"
+  ],
+  "correctIndex": 0,
+  "explanation": "The comma (, ) is used to separate items in a list or to interrupt the flow of a sentence.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a parenthetical remark or an aside?",
+  "options": [
+   "comma (,), dash (-), semicolon (;), parenthesis (())",
+   "semicolon (;), comma (,), dash (-), parenthesis (())",
+   "parenthesis (()), comma (,), semicolon (;), dash (-)",
+   "dash (-), parenthesis (()), comma (,), semicolon (;)"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Comma' is used to separate items in a list.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a comma splice?",
+  "options": [
+   "Hyphen (-)",
+   "Comma (,)",
+   "Semicolon (;)",
+   "No punctuation"
+  ],
+  "correctIndex": 3,
+  "explanation": "There is no specific punctuation mark for a comma splice, but it is often considered a grammatical error or stylistic choice.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the function of an em dash (——)?",
+  "options": [
+   "To indicate a pause",
+   "To set off a parenthetical remark",
+   "To separate items in a list",
+   "To set off a quotation"
+  ],
+  "correctIndex": 0,
+  "explanation": "An em dash (——) is used to indicate a pause or a break in a sentence.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Which of the following sentences uses a comma to separate items in a list correctly?",
+  "options": [
+   "I have cats, dogs, and birds.",
+   "I have cats dogs and birds.",
+   "I have cats, dogs, and birds.",
+   "I have cats, dogs and birds."
+  ],
+  "correctIndex": 0,
+  "explanation": "The correct answer is 'I have cats, dogs, and birds.' The comma (,) separates 'cats' from 'dogs' and 'and' from 'birds'.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate something is not true or false?",
+  "options": [
+   "!",
+   "?",
+   ".",
+   ","
+  ],
+  "correctIndex": 1,
+  "explanation": "The question mark (?), also known as the interrogative point, is used to indicate something is not true or false.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which of the following is NOT an example of a semicolon (;) usage?",
+  "options": [
+   "Use to separate clauses that are not joined by a conjunction.",
+   "Use to separate items in a list that contain commas within them.",
+   "Use to introduce a quote.",
+   "Use to separate two independent clauses that are logically related."
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence 'Use to introduce a quote.' is incorrect because semicolons are used to separate items in a list or clauses that are closely related, but they cannot be used to introduce a quote directly; instead, we use a comma and then quotation marks.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of the semicolon (;) in the following sentence: 'I need to buy milk; eggs; and bread.'?",
+  "options": [
+   "To separate items in a list that are not related",
+   "To join two independent clauses that are closely related",
+   "To separate items in a list that are related",
+   "To end a sentence"
+  ],
+  "correctIndex": 2,
+  "explanation": "The semicolon separates items in a list that are related, allowing for more variety than a comma.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the function of an apostrophe?",
+  "options": [
+   "To separate items in a list",
+   "To introduce a quotation",
+   "To indicate possession or contraction",
+   "To end a sentence"
+  ],
+  "correctIndex": 2,
+  "explanation": "'s or 't are used to show possession or to indicate a contraction (has, it's). Other punctuation marks have different functions.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the purpose of the hyphen (-) in the word 'well-being'?",
+  "options": [
+   "To indicate possession",
+   "To separate parts of an adjective",
+   "To indicate a range",
+   "To separate words in a title"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Well-being' is a compound adjective, formed from two parts: 'well' and 'being'. It describes something.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What is the purpose of the hyphen (-) in the phrase 'well-known scientist'?",
+  "options": [
+   "To separate items in a list",
+   "To indicate a range or connection between words",
+   "To set off a parenthetical remark",
+   "To indicate a non-definite noun"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Well-known' is an adjective describing 'scientist', and the hyphen joins them together.",
+  "topic": "Punctuation",
+  "level": "Advanced"
+ },
+ {
+  "question": "Which punctuation mark is used to introduce a quotation?",
+  "options": [
+   ".",
+   ",",
+   ";",
+   ":"
+  ],
+  "correctIndex": 0,
+  "explanation": "The period (.) is used to introduce a quotation.",
+  "topic": "Punctuation",
+  "level": "Beginner"
+ },
+ {
+  "question": "Which punctuation mark is used to indicate a range or extent?",
+  "options": [
+   "-",
+   "--",
+   "_",
+   "~"
+  ],
+  "correctIndex": 1,
+  "explanation": "'--' is the en dash, which can be used to indicate a range or extent.",
+  "topic": "Punctuation",
+  "level": "Intermediate"
+ }
+]

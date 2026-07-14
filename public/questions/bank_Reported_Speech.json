@@ -1,0 +1,652 @@
+[
+ {
+  "question": "She said to me, 'I am going to the store.', What is the reported speech?",
+  "options": [
+   "She told me that she is going to the store.",
+   "She told me that she was going to the store.",
+   "She told me that she will go to the store.",
+   "She told me that she goes to the store."
+  ],
+  "correctIndex": 1,
+  "explanation": "When the reporting verb is in the past (told), we change 'am going' to 'was going' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I can speak French fluently.' What is the reported speech?",
+  "options": [
+   "He said that he can speak French fluently.",
+   "He said that he could speak French fluently.",
+   "He said that he has spoken French fluently.",
+   "He said that he spoke French fluently."
+  ],
+  "correctIndex": 1,
+  "explanation": "When the reporting verb is in the past (said), we change 'can speak' to 'could speak' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said to me, 'Be careful.', What is the reported speech?",
+  "options": [
+   "He told me to be careful.",
+   "He told me I should be careful.",
+   "He told me I am being careful.",
+   "He told me he would be careful."
+  ],
+  "correctIndex": 0,
+  "explanation": "The direct speech remains the same in reported speech, and 'be careful' becomes 'told me to be careful'.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "They said, 'If we won the game, we will celebrate.' What is the reported speech?",
+  "options": [
+   "They said that if they won the game, they will celebrate.",
+   "They said that if they won the game, they would celebrate.",
+   "They said that if they won the game, they can celebrate.",
+   "They said that if they won the game, they could celebrate."
+  ],
+  "correctIndex": 1,
+  "explanation": "The reported speech changes 'will' to 'would' to indicate a future condition in the past.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "She said, 'If it rains, we will cancel the picnic.' What is the reported speech?",
+  "options": [
+   "She said that if it rains, they will cancel the picnic.",
+   "She said that if it rained, they would cancel the picnic.",
+   "She said that if it rains, they can cancel the picnic.",
+   "She said that if it rained, they will cancel the picnic."
+  ],
+  "correctIndex": 1,
+  "explanation": "The reported speech changes 'if it rains' to 'if it rained' because it describes a past condition and its hypothetical consequences.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'I am very busy today.', What is the reported speech?",
+  "options": [
+   "She told me that she is very busy today.",
+   "She told me that she was very busy today.",
+   "She told me that she has been very busy today.",
+   "She told me that she will be very busy today."
+  ],
+  "correctIndex": 1,
+  "explanation": "The future tense 'am' in the direct speech changes to the past tense 'was' in the reported speech, and 'today' remains the same.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am going to the park.' What is the reported speech?",
+  "options": [
+   "He said he was going to the park.",
+   "He said he is going to the park.",
+   "He said he had gone to the park.",
+   "He said he will go to the park."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense 'am going' in the direct speech changes to the past continuous 'was going' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "She said, 'I am going to the store.' The reported speech is:",
+  "options": [
+   "She said she was going to the store.",
+   "She said she has been going to the store.",
+   "She said she would go to the store.",
+   "She said she goes to the store."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reporting verb 'said' is in the past, and the modal 'am' becomes 'was' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'Be careful!', what is the reported speech?",
+  "options": [
+   "She told me to be careful.",
+   "She told me that I should be careful.",
+   "She told me that I am careful.",
+   "She told me I was careful."
+  ],
+  "correctIndex": 0,
+  "explanation": "The imperative 'Be careful!' becomes the infinitive phrase 'to be careful' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am going to the store.', What is the reported speech?",
+  "options": [
+   "He said that he was going to the store.",
+   "He said that he has gone to the store.",
+   "He said that he goes to the store.",
+   "He said that he went to the store."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense in the direct speech changes to the past continuous in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said to me, 'Take care of yourself.' What is the reported speech?",
+  "options": [
+   "He told me to take care of myself.",
+   "He told me to take care of me.",
+   "He told me to take care of myself.",
+   "He told me I should take care of myself."
+  ],
+  "correctIndex": 0,
+  "explanation": "'Take care of yourself' can be rewritten as 'take care of myself' in reported speech if it's giving advice to someone else.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said, 'If it rains, we will cancel the trip.' What is the reported speech?",
+  "options": [
+   "He said that if it rains, they will cancel the trip.",
+   "He said that if it rains, they would cancel the trip.",
+   "He said that if it rains, they can cancel the trip.",
+   "He said that if it rains, they would have canceled the trip."
+  ],
+  "correctIndex": 1,
+  "explanation": "The reported speech changes the conditional 'if it rains' to the negative form 'won't rain' and uses the future tense 'will cancel' in the subjunctive mood.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am tired.' What is the reported speech?",
+  "options": [
+   "He said that he was tired.",
+   "He said that he is tired.",
+   "He said that he was not tired.",
+   "He said that he does not know."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from present to past, and 'not' becomes 'was not' because it's not possible to say someone is 'not tired' now.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I have never been to New York.' The reported speech is:",
+  "options": [
+   "He said that he has never been to New York.",
+   "He said that he had never been to New York.",
+   "He said that he was not going to New York.",
+   "He said that he would not go to New York."
+  ],
+  "correctIndex": 1,
+  "explanation": "The reporting verb 'said' is in the past, so we change 'have never been' to 'had never been' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'Take care.', What is the reported speech?",
+  "options": [
+   "She told me to take care.",
+   "She told me I should take care.",
+   "She said to me that I should take care.",
+   "She said to me 'take care'."
+  ],
+  "correctIndex": 0,
+  "explanation": "'Take care' is an imperative sentence, so we change 'take care' to 'to take care' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "She said, 'I am going to the cinema tonight.' What is the reported speech?",
+  "options": [
+   "She said that she was going to the cinema tonight.",
+   "She said that she is going to the cinema tonight.",
+   "She said that she goes to the cinema tonight.",
+   "She said that she will go to the cinema tonight."
+  ],
+  "correctIndex": 0,
+  "explanation": "The first person 'I' becomes 'she' in reported speech, and the present tense 'am going' becomes the past tense 'was going'.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "She said, 'I am going to the movies tonight.' The reported speech is:",
+  "options": [
+   "She said she was going to the movies that night.",
+   "She said she will go to the movies tonight.",
+   "She said she goes to the movies tonight.",
+   "She said she went to the movies tonight."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from present to past for a future action.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'I wish I had your courage.', What is the reported speech?",
+  "options": [
+   "She said to me that she wished she had my courage.",
+   "She said to me that she wished she has my courage.",
+   "She said to me that she wishes she had my courage.",
+   "She said to me that she wishes she has my courage."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present tense 'has' in the direct speech changes to the past perfect 'had' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "She said to me, 'Do not smoke.', What is the reported speech?",
+  "options": [
+   "She told me not to smoke.",
+   "She told me to smoke.",
+   "She said to me not to smoke.",
+   "She said to me to smoke."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes 'do not smoke' to 'not to smoke' in the imperative form.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "She said, 'I will help you.' What is the reported speech?",
+  "options": [
+   "She said that she will help me.",
+   "She said that she would help me.",
+   "She said that she can help me.",
+   "She said that she may help me."
+  ],
+  "correctIndex": 1,
+  "explanation": "'will' in the direct speech changes to 'would' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said, 'I will be back by 10 o'clock.' The reported speech is:",
+  "options": [
+   "He said he would be back by 10 o'clock.",
+   "He said he will be back by 10 o'clock.",
+   "He said he can be back by 10 o'clock.",
+   "He said he may be back by 10 o'clock."
+  ],
+  "correctIndex": 0,
+  "explanation": "The future tense 'will be back' in the direct speech changes to 'would be back' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "She said to me, 'I will call you tomorrow.' What is the reported speech?",
+  "options": [
+   "She told me she will call me tomorrow.",
+   "She told me she would call me tomorrow.",
+   "She told me she calls me tomorrow.",
+   "She told me she called me yesterday."
+  ],
+  "correctIndex": 1,
+  "explanation": "The future tense 'will call' in the direct speech changes to the past tense 'would call' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I will visit you tomorrow.' The reported speech is:",
+  "options": [
+   "He said he would visit me the next day.",
+   "He said he will visit me tomorrow.",
+   "He said he visits me tomorrow.",
+   "He said he visited me yesterday."
+  ],
+  "correctIndex": 0,
+  "explanation": "The future tense 'will' in the direct speech changes to 'would' in the reported speech, and 'tomorrow' changes to 'next day' or 'the next day'.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said, 'I am going to the cinema.' The reported speech is:",
+  "options": [
+   "He said that he was going to the cinema.",
+   "He said that he has gone to the cinema.",
+   "He said that he goes to the cinema.",
+   "He said that he is going to the cinema."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense 'am going' in the direct speech changes to the past continuous 'was going' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "They said, 'We will meet tomorrow.' What is the reported speech?",
+  "options": [
+   "They said they would meet tomorrow.",
+   "They said they will meet tomorrow.",
+   "They said they met tomorrow.",
+   "They said they have met tomorrow."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present simple tense 'will meet' in the direct speech changes to the future continuous tense 'would meet' in the reported speech, and the modal 'will' changes to 'would'.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I have been to Paris.' What is the reported speech?",
+  "options": [
+   "He said he had been to Paris.",
+   "He said he has been to Paris.",
+   "He said he would be to Paris.",
+   "He said he was to Paris."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes 'have been' to 'had been' and the reporting verb 'said' remains in the past tense.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said, 'I will be back by midnight.' The reported speech is:",
+  "options": [
+   "She said she will be back by midnight.",
+   "She said she would be back by midnight.",
+   "She said she was back by midnight.",
+   "She said she has been back by midnight."
+  ],
+  "correctIndex": 1,
+  "explanation": "The reported speech changes the future perfect to the past perfect (by midnight) to maintain consistency with the past context.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "They said, 'We will meet tomorrow.', What is the reported speech?",
+  "options": [
+   "They said they would meet tomorrow.",
+   "They said they will meet tomorrow.",
+   "They said they meet tomorrow.",
+   "They said they are meeting tomorrow."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from future to past (will -> would) and uses 'they' for the subject.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I will finish the project before the deadline.' What is the reported speech?",
+  "options": [
+   "He said that he will finish the project before the deadline.",
+   "He said that he would finish the project before the deadline.",
+   "He said that he can finish the project before the deadline.",
+   "He said that he is going to finish the project before the deadline."
+  ],
+  "correctIndex": 1,
+  "explanation": "When the reporting verb is in the past (said), we change 'will' to 'would' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'Be careful.', What is the reported speech?",
+  "options": [
+   "She told me to be careful.",
+   "She told me I was being careless.",
+   "She asked me to be careful.",
+   "She asked me if I was being careful."
+  ],
+  "correctIndex": 0,
+  "explanation": "The direct speech 'said' changes to 'told' in the reported speech because the function of the sentence remains the same.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "She said to me, 'Eat your vegetables.', What is the reported speech?",
+  "options": [
+   "She told me to eat my vegetables.",
+   "She told me I should eat my vegetables.",
+   "She said I was eating my vegetables.",
+   "She said I was not eating my vegetables."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the imperative mood to the infinitive form 'to eat'.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said to his friend, 'Do not touch the fire.' The reported speech is:",
+  "options": [
+   "He told his friend not to touch the fire.",
+   "He told his friend to not touch the fire.",
+   "He told his friend do not touch the fire.",
+   "He told his friend don't touch the fire."
+  ],
+  "correctIndex": 0,
+  "explanation": "The direct speech command 'Do not touch the fire' changes to 'not to touch the fire' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said to me, 'I am not going anywhere.' The reported speech is:",
+  "options": [
+   "He told me that he was not going anywhere.",
+   "He told me that he is not going anywhere.",
+   "He told me that he would not go anywhere.",
+   "He told me that he can't go anywhere."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from present to past in indirect speech when talking about future plans or habits.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "She said to me, 'I am hungry.', What is the reported speech?",
+  "options": [
+   "She told me she was hungry.",
+   "She told me she is hungry.",
+   "She told me she had been hungry.",
+   "She told me she will be hungry."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from present to past for habitual or general truths.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I have never been to Paris.' What is the reported speech?",
+  "options": [
+   "He said that he had never been to Paris.",
+   "He said that he has never been to Paris.",
+   "He said that he never goes to Paris.",
+   "He said that he never went to Paris."
+  ],
+  "correctIndex": 0,
+  "explanation": "'I have never been' in reported speech changes to 'had never been' because it is talking about an action before another action in the past.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "They said, 'We will meet tomorrow.' The reported speech is:",
+  "options": [
+   "They said they will meet tomorrow.",
+   "They said they would meet tomorrow.",
+   "They said they could meet tomorrow.",
+   "They said they are meeting tomorrow."
+  ],
+  "correctIndex": 1,
+  "explanation": "The future tense 'will meet' in the direct speech changes to the conditional 'would meet' in the reported speech when speaking about future events.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am hungry.' What is the reported speech?",
+  "options": [
+   "He said that he was hungry.",
+   "He said that he is hungry.",
+   "He said that he had been hungry.",
+   "He said that he would be hungry."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the verb tense from present to past for a general truth or habitual action.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "They said, 'We have never been to Paris.' The reported speech is:",
+  "options": [
+   "They said they had never been to Paris.",
+   "They said they have never been to Paris.",
+   "They said they were not going to Paris.",
+   "They said they wouldn't go to Paris."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present perfect tense 'have never been' in the direct speech changes to the past perfect 'had never been' in the reported speech, and 'never' remains the same.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said, 'I will meet you tomorrow.' The reported speech is:",
+  "options": [
+   "She said she would meet me the next day.",
+   "She said she will meet me tomorrow.",
+   "She said she meets me tomorrow.",
+   "She said she met me yesterday."
+  ],
+  "correctIndex": 0,
+  "explanation": "The future tense 'will meet' in the direct speech changes to the conditional 'would meet' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said to me, 'I am hungry.', What is the reported speech?",
+  "options": [
+   "He told me he was hungry.",
+   "He told me he is hungry.",
+   "He told me that he is hungry.",
+   "He told me that he was hungry."
+  ],
+  "correctIndex": 4,
+  "explanation": "'I am' in reported speech becomes 'was' for past habitual or general truths.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I will go to the party.' The reported speech is:",
+  "options": [
+   "He said he would go to the party.",
+   "He said he will go to the party.",
+   "He said he goes to the party.",
+   "He said he went to the party."
+  ],
+  "correctIndex": 0,
+  "explanation": "The future tense 'will go' in the direct speech changes to the conditional 'would go' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said, 'I will go to the party tonight.', The reported speech is:",
+  "options": [
+   "He said that he will go to the party tonight.",
+   "He said that he would go to the party tonight.",
+   "He said that he goes to the party tonight.",
+   "He said that he went to the party tonight."
+  ],
+  "correctIndex": 1,
+  "explanation": "The future tense 'will go' in the direct speech changes to 'would go' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am studying for my exam.' What is the reported speech?",
+  "options": [
+   "He said that he was studying for his exam.",
+   "He said that he is studying for his exam.",
+   "He said that he studies for his exam.",
+   "He said that he studied for his exam."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present continuous tense 'am studying' in the direct speech changes to the past continuous 'was studying' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I have been to New York.' What is the reported speech?",
+  "options": [
+   "He said that he has been to New York.",
+   "He said that he had been to New York.",
+   "He said that he was going to New York.",
+   "He said that he would go to New York."
+  ],
+  "correctIndex": 1,
+  "explanation": "The present perfect tense in the direct speech ('I have been') changes to the past perfect ('had been') in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "She said to me, 'If it rains, we will stay at home.' The reported speech is:",
+  "options": [
+   "She told me that if it rains, we will stay at home.",
+   "She told me that if it rains, we would stay at home.",
+   "She told me that if it rained, we will stay at home.",
+   "She told me that if it rained, we would stay at home."
+  ],
+  "correctIndex": 3,
+  "explanation": "When reporting conditionals, we change 'if it rains' to 'if it rained' and 'we will stay' to 'we would stay' for the second conditional.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'I am hungry.', What is the reported speech?",
+  "options": [
+   "He said he was hungry.",
+   "He said he is hungry.",
+   "He said he has been hungry.",
+   "He said he would be hungry."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reporting verb 'said' is in the past simple, so we change 'am' to 'was'.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "He said, 'I will visit the museum tomorrow.' The reported speech is:",
+  "options": [
+   "He said that he will visit the museum tomorrow.",
+   "He said that he would visit the museum tomorrow.",
+   "He said that he can visit the museum tomorrow.",
+   "He said that he is visiting the museum tomorrow."
+  ],
+  "correctIndex": 1,
+  "explanation": "The future tense 'will' in the direct speech changes to the past tense 'would' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ },
+ {
+  "question": "He said, 'If it rains tomorrow, we will cancel the picnic.' The reported speech is:",
+  "options": [
+   "He said that if it rains tomorrow, they would cancel the picnic.",
+   "He said that if it rains tomorrow, they will cancel the picnic.",
+   "He said that if it rains tomorrow, they are cancelling the picnic.",
+   "He said that if it rains tomorrow, they can cancel the picnic."
+  ],
+  "correctIndex": 0,
+  "explanation": "The reported speech changes the conditional to the negative form and retains the future tense, so we use 'would cancel' to maintain the future potentiality.",
+  "topic": "Reported Speech",
+  "level": "Advanced"
+ },
+ {
+  "question": "He said, 'If I won the lottery, I would buy a house.' The reported speech is:",
+  "options": [
+   "He said he would buy a house if he won the lottery.",
+   "He said he will buy a house if he wins the lottery.",
+   "He said he would buy a house if he had won the lottery.",
+   "He said he bought a house if he had won the lottery."
+  ],
+  "correctIndex": 2,
+  "explanation": "The future conditional 'if I won the lottery' changes to the past conditional 'if he won the lottery' in reported speech.",
+  "topic": "Reported Speech",
+  "level": "Beginner"
+ },
+ {
+  "question": "She said to me, 'I am going to the movies tonight.', What is the reported speech?",
+  "options": [
+   "She told me that she goes to the movies tonight.",
+   "She told me that she was going to the movies that night.",
+   "She told me that she has gone to the movies.",
+   "She told me that she will go to the movies."
+  ],
+  "correctIndex": 1,
+  "explanation": "The present continuous tense 'am going' in the direct speech changes to the past continuous 'was going' in the reported speech.",
+  "topic": "Reported Speech",
+  "level": "Intermediate"
+ }
+]

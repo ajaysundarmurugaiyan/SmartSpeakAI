@@ -1,0 +1,3902 @@
+[
+ {
+  "question": "The children ________ their homework every day.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'children' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The staff ________ a meeting to discuss the project.",
+  "options": [
+   "are having",
+   "is having",
+   "have",
+   "has"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are having' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff _______ their customers that they are always available to help them.",
+  "options": [
+   "service",
+   "services",
+   "are servicing",
+   "is servicing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'staff' is a plural noun, and the verb 'are servicing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The flowers _______ in the garden.",
+  "options": [
+   "bloom",
+   "blooms",
+   "are blooming",
+   "is blooming"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'flowers' is a plural noun, so the verb 'are blooming' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band ________ a new album next year.",
+  "options": [
+   "are releasing",
+   "is releasing",
+   "have released",
+   "releases"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'band' is a singular noun, so the verb 'is releasing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the students in the class _______ their homework every night.",
+  "options": [
+   "does",
+   "do",
+   "have done",
+   "is doing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'majority' is a plural noun, so it takes the plural verb 'do'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The girls ________ their hair every morning.",
+  "options": [
+   "wash",
+   "washes",
+   "are washing",
+   "is washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'girls' is plural, so the verb 'wash' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team ________ a big win in the championship.",
+  "options": [
+   "are having",
+   "have",
+   "is having",
+   "has"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so it takes the plural verb 'are having'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The news of the accident, ________ has been reported by the police, has shocked the community.",
+  "options": [
+   "which",
+   "that",
+   "who",
+   "whom"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'news' is a singular noun, so the verb 'which' is used to describe it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher _______ the students.",
+  "options": [
+   "teach",
+   "teaches",
+   "are teaching",
+   "is teaching"
+  ],
+  "correctIndex": 1,
+  "explanation": "Singular subject takes 'teaches'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people _______ to the concert tonight.",
+  "options": [
+   "are attending",
+   "is attending",
+   "have attended",
+   "attends"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'number' is a plural noun, so the verb 'are attending' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Neither the manager nor the employees __________ satisfied with the work.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'neither...nor' is singular, so the verb 'is' is used.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the lesson plan.",
+  "options": [
+   "write",
+   "writes",
+   "are writing",
+   "is writing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'writes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ its headquarters in New York.",
+  "options": [
+   "are relocating",
+   "is relocating",
+   "have relocated",
+   "relocate"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so it takes the singular verb 'is relocating'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The group of friends _______ to the movies every weekend.",
+  "options": [
+   "go",
+   "goes",
+   "have gone",
+   "has gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'group' is a singular noun, so it takes the singular verb 'goes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The team _______ the game.",
+  "options": [
+   "win",
+   "wins",
+   "are winning",
+   "have won"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'team' is a singular noun, so the verb 'wins' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new product line next month.",
+  "options": [
+   "launch",
+   "launches",
+   "are launching",
+   "is launching"
+  ],
+  "correctIndex": 3,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers __________ their findings at the conference.",
+  "options": [
+   "are presenting",
+   "is presenting",
+   "have presented",
+   "present"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are presenting' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book ________ on the table.",
+  "options": [
+   "lie",
+   "lies",
+   "are lying",
+   "is lying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'book' is singular, so the verb 'lies' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people in the office _______ increasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class ___ increasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby _______ its hands.",
+  "options": [
+   "cry",
+   "cries",
+   "is crying",
+   "are crying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'cries' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new product line this year.",
+  "options": [
+   "launch",
+   "launches",
+   "are launching",
+   "is launching"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'launch' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The average number of students in each class ________ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'average' is singular, so the verb 'is' is used.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dogs _______ their tails.",
+  "options": [
+   "bark",
+   "barks",
+   "are barking",
+   "is barking"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'dogs' is plural, so the verb 'are barking' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ their best to win the game.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Neither of the students ________ their homework yet.",
+  "options": [
+   "does",
+   "do",
+   "have done",
+   "has done"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Neither + subject' requires the plural verb 'do'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students ________ their homework every night.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The audience _______ enjoying the show.",
+  "options": [
+   "are",
+   "is",
+   "has",
+   "have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff __________ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the lesson to the students.",
+  "options": [
+   "explain",
+   "explains",
+   "are explaining",
+   "were explained"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'explains' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The committee _______ a decision at the meeting.",
+  "options": [
+   "makes",
+   "make",
+   "have made",
+   "has made"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'committee' is a singular noun, so it takes the singular verb 'makes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people in the room _____ decreasing all day.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher _______ the lesson to the students.",
+  "options": [
+   "explain",
+   "explains",
+   "are explaining",
+   "were explained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is singular, so the verb 'explain' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The audience _______ interested in the play.",
+  "options": [
+   "are",
+   "is",
+   "has been",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The data from the experiment ________ being analyzed by the scientists.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'data' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The children ___ in the playground.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'children' is a plural noun, so the verb 'are playing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _____ launched a new product.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so it takes the singular verb 'has'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students ________ decreasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Number' is singular, so 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The company _______ a new product line.",
+  "options": [
+   "launch",
+   "launches",
+   "are launching",
+   "is launching"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is singular, so the verb 'launches' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new product line next year.",
+  "options": [
+   "are launching",
+   "is launching",
+   "have launched",
+   "launches"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The band ___ playing their new album next week.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "will be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'band' is a singular noun, so it takes the singular verb 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book _______ on the table.",
+  "options": [
+   "lie",
+   "lies",
+   "are lying",
+   "were lied"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'book' is singular, so the verb 'lies' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ their new car last week.",
+  "options": [
+   "buys",
+   "buy",
+   "are buying",
+   "have bought"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'family' is a singular noun, so the verb 'buy' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The group of friends _______ decided to start their own business.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The flowers ________ in the garden.",
+  "options": [
+   "bloom",
+   "blooms",
+   "are blooming",
+   "is blooming"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'flowers' is a plural noun, so it takes the plural verb 'are blooming'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher ________ the students about the exam.",
+  "options": [
+   "are informing",
+   "is informing",
+   "have informed",
+   "informs"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, so the verb 'is informing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers ________ publishing their findings in a scientific journal.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ their holiday in Paris.",
+  "options": [
+   "go",
+   "goes",
+   "are going",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is plural, so the verb 'go' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The committee _______ their decision yesterday.",
+  "options": [
+   "has make",
+   "have made",
+   "has makes",
+   "have make"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a plural noun, so the verb 'have made' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers _____ publishing their findings in the journal.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ on vacation this summer.",
+  "options": [
+   "go",
+   "goes",
+   "are going",
+   "is going"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Family' is the singular noun, so the verb 'goes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people ________ to the party tonight is limited.",
+  "options": [
+   "are coming",
+   "is coming",
+   "comes",
+   "come"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is coming' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The family _______ been living in this house for over 20 years.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'family' is a singular noun, so the verb 'has' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The girls ________ soccer.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'girls' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people _______ to the concert is amazing.",
+  "options": [
+   "have attended",
+   "has attended",
+   "have attends",
+   "has attends"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so it takes the singular verb 'has attended'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee ________ unanimously voted in favor of the proposal.",
+  "options": [
+   "are",
+   "is",
+   "has",
+   "have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird _______ its wings.",
+  "options": [
+   "flap",
+   "flaps",
+   "are flapping",
+   "is flapping"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'bird' is singular, so the verb 'flaps' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students ________ their exams next week.",
+  "options": [
+   "take",
+   "takes",
+   "are taking",
+   "will take"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'take' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers ________ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The birds _______ in the tree.",
+  "options": [
+   "fly",
+   "flies",
+   "are flying",
+   "is flying"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'birds' is plural, and the verb 'are flying' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family _______ their car every weekend.",
+  "options": [
+   "drive",
+   "drives",
+   "are driving",
+   "is driving"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'family' is a singular noun, so it takes the singular verb 'drives'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Each of the students _______ their homework completed.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'each' is a singular pronoun, so it takes the singular verb 'has'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird _______ its wings to fly.",
+  "options": [
+   "flap",
+   "flaps",
+   "are flapping",
+   "is flapping"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'bird' is singular, so the verb 'flaps' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students _______ their exams next week.",
+  "options": [
+   "is taking",
+   "are taking",
+   "is takes",
+   "are takes"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'students' is a plural noun, so the verb 'are taking' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company _____ launched several new products in the past year.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "is"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Has' is the correct verb form after the subject 'company'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The kids _______ their homework every night.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'kids' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ to the game early to warm up.",
+  "options": [
+   "go",
+   "goes",
+   "are going",
+   "have gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'team' is singular, so it takes the singular verb 'goes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy, which has been _______ by many, has been met with resistance.",
+  "options": [
+   "been criticized",
+   "is criticized",
+   "are criticized",
+   "have been criticized"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'policy' is singular, and the phrase 'which has been' indicates that the verb 'criticized' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The girls _______ their hair every morning.",
+  "options": [
+   "wash",
+   "washes",
+   "are washing",
+   "is washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'girls' is plural, so the verb 'wash' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ their new product launch next week.",
+  "options": [
+   "are launching",
+   "is launching",
+   "launches",
+   "launching"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class ___ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ its tail when it is happy.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "were chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teachers ________ the students' papers carefully.",
+  "options": [
+   "are reading",
+   "is reading",
+   "read",
+   "reads"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teachers' is plural, so the verb 'are reading' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people attending the party _____ increasing every year.",
+  "options": [
+   "are",
+   "is",
+   "has been",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Number' is singular, so 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students.",
+  "options": [
+   "teach",
+   "teaches",
+   "are teaching",
+   "is teaching"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'teaches' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher _______ the students on their report card.",
+  "options": [
+   "grade",
+   "grades",
+   "gave",
+   "gives"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, but in this context, it can be treated as a plural noun, so the verb 'grades' is used.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee ________ its decision at the meeting.",
+  "options": [
+   "has made",
+   "have made",
+   "has makes",
+   "have makes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'committee' is a singular noun, so the verb 'has made' is used to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city ________ beautiful.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'city' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of students in the class _______ decreasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee _____ decided to postpone the meeting.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so it takes the singular verb 'has'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ its tail when it's happy.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "were chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ a new product line next month.",
+  "options": [
+   "is launching",
+   "are launching",
+   "is launches",
+   "are launches"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Neither of the students __________ their exams yet.",
+  "options": [
+   "have taken",
+   "has taken",
+   "had taken",
+   "were taking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'neither' is singular, so the verb 'has taken' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ his milk from a bottle.",
+  "options": [
+   "drink",
+   "drinks",
+   "is drinking",
+   "were drinking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'drinks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ a new employee on Monday.",
+  "options": [
+   "have hired",
+   "has hired",
+   "had hired",
+   "hires"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so it takes the singular verb 'has hired'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The group of students _______ working on their projects.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog _______ his tail.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "are chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The city ________ many beautiful parks.",
+  "options": [
+   "are",
+   "is",
+   "have",
+   "has"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'city' is a singular noun, so it takes the singular verb 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The data ________ being analyzed by the team.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'data' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dogs ________ in the yard.",
+  "options": [
+   "run",
+   "runs",
+   "are running",
+   "is running"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'dogs' is plural, so the verb 'are running' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students _______ their exams today.",
+  "options": [
+   "are taking",
+   "is taking",
+   "have taken",
+   "takes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is a plural noun, so the verb 'are taking' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff _____ been informed of the changes.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The children _______ their homework every night.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "is doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'children' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new marketing strategy to increase sales.",
+  "options": [
+   "are developing",
+   "is developing",
+   "develops",
+   "developed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is developing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class __________ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Number' is singular; 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ its tail.",
+  "options": [
+   "chase",
+   "chases",
+   "are chasing",
+   "is chased"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Its' is singular, so 'chases'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ___ a new product line next month.",
+  "options": [
+   "are launching",
+   "is launching",
+   "have launched",
+   "launch"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers ________ working on the project for years.",
+  "options": [
+   "have been",
+   "has been",
+   "had been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The birds _______ in the trees.",
+  "options": [
+   "fly",
+   "flies",
+   "are flying",
+   "is flying"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'birds' is plural, so the verb 'are flying' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people ________ to the event is amazing.",
+  "options": [
+   "have come",
+   "has come",
+   "have been coming",
+   "has been coming"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'has come' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Each of the students _______ their homework before class.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "have done"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'each' is a singular pronoun, so it takes the singular verb 'does'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The kids ________ soccer in the park.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'kids' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students ________ their exams tomorrow.",
+  "options": [
+   "take",
+   "takes",
+   "are taking",
+   "were taking"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'take' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's profits ________ declining since the economic crisis.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company's profits' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ their new house.",
+  "options": [
+   "am living",
+   "are living",
+   "is living",
+   "have lived"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Are living' (subject is 'family', which is a plural noun).",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The news _______ that the company will go bankrupt.",
+  "options": [
+   "are reporting",
+   "is reported",
+   "reports",
+   "reported"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'news' is singular, so the verb 'is reported' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company ________ a new product line next quarter.",
+  "options": [
+   "are launching",
+   "is launching",
+   "have launched",
+   "launches"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The children ________ their toys.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'children' is a plural noun, so the verb 'are playing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The audience ________ enjoying the show.",
+  "options": [
+   "are",
+   "is",
+   "has been",
+   "have been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people in the room _______ decreasing every hour.",
+  "options": [
+   "are",
+   "is",
+   "has been",
+   "have been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ her tail when she is happy.",
+  "options": [
+   "chase",
+   "chases",
+   "are chasing",
+   "were chased"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of students in the class ________ increasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The audience _______ enjoying the concert so far.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'have been'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ his tail.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "are chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people at the party _______ increasing every hour.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers ________________ conducting the study for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' is used to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ her hair every morning.",
+  "options": [
+   "wash",
+   "washes",
+   "is washing",
+   "are washing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is a singular noun, so the verb 'washes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of students in the class ________ decreasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff _______ their customers' satisfaction with the service.",
+  "options": [
+   "are maintaining",
+   "is maintaining",
+   "maintains",
+   "maintain"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are maintaining' is used to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city ________ in the rain.",
+  "options": [
+   "rains",
+   "rain",
+   "is raining",
+   "are rained"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'city' is a singular noun, so the verb 'is raining' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The group _______ a new policy today.",
+  "options": [
+   "have passed",
+   "has passed",
+   "have been passing",
+   "is passing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'group' is a singular noun, so it takes the singular verb 'has passed'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff, along with the manager, ________ working on the project.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog _______ his toy chewed.",
+  "options": [
+   "chew",
+   "ches",
+   "chews",
+   "is chewing"
+  ],
+  "correctIndex": 2,
+  "explanation": "Singular noun takes 'choows'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The group of friends _______ going to the movies tonight.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people attending the concert ________ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog _______ in the garden.",
+  "options": [
+   "runs",
+   "run",
+   "are running",
+   "is running"
+  ],
+  "correctIndex": 3,
+  "explanation": "The subject 'dog' is singular, so the verb 'is running' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ a new policy to reduce costs.",
+  "options": [
+   "are implementing",
+   "is implementing",
+   "have implemented",
+   "implement"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is implementing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team _______ their project on time for the conference.",
+  "options": [
+   "are finishing",
+   "finish",
+   "is finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are finishing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city _______ many tourists every summer.",
+  "options": [
+   "attract",
+   "attracts",
+   "are attracting",
+   "were attracted"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'city' is singular, so the verb 'attracts' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of students _______ to the party is very impressive.",
+  "options": [
+   "are coming",
+   "is coming",
+   "have come",
+   "comes"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is coming' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers ________ publishing their findings for months.",
+  "options": [
+   "have been working on",
+   "has been working on",
+   "are working on",
+   "is working on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been working on' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ his toy.",
+  "options": [
+   "cry",
+   "cries",
+   "is crying",
+   "are crying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is a singular noun, so the verb 'cries' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The research team _____ conducting experiments for months.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team _____ been working on the project for months.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird ________ its wings.",
+  "options": [
+   "flap",
+   "flaps",
+   "are flapping",
+   "is flapping"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'bird' is singular, so the verb 'flaps' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The research team _______ their findings at the conference.",
+  "options": [
+   "are presenting",
+   "is presenting",
+   "have presented",
+   "is presents"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so it takes the plural verb 'are presenting'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff _____ been working on this project for months.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students about their homework.",
+  "options": [
+   "is giving",
+   "gives",
+   "are giving",
+   "give"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is singular, so the verb 'is giving' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The class _______ on time every day.",
+  "options": [
+   "arrive",
+   "arrives",
+   "are arriving",
+   "is arriving"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Class' is singular: takes the singular verb 'arrives'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff ________ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "had been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ their vacation next week.",
+  "options": [
+   "are going",
+   "is going",
+   "have gone",
+   "goes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a plural noun, so the verb 'are going' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The committee ________ their decision after much discussion.",
+  "options": [
+   "have made",
+   "has made",
+   "are making",
+   "make"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so the verb 'has made' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people attending the party _______ increasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so it takes the singular verb 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ its tail when it's happy.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "were chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people in the company _______ growing steadily.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee __________ a decision at the meeting.",
+  "options": [
+   "make",
+   "makes",
+   "are making",
+   "is making"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so it takes the singular verb 'makes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird _______ in the tree.",
+  "options": [
+   "fly",
+   "flies",
+   "flying",
+   "are flying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'bird' is singular, so the verb 'flies' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The audience _______ the performance.",
+  "options": [
+   "are enjoying",
+   "is enjoying",
+   "enjoy",
+   "has enjoyed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'are enjoying'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the employees ___ satisfied with their new benefits.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'majority' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby _______ her hair every day.",
+  "options": [
+   "wash",
+   "washes",
+   "are washing",
+   "is washed"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'washes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ to the beach for vacation.",
+  "options": [
+   "goes",
+   "go",
+   "going",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a plural noun, so the verb 'goes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff ________ a meeting to discuss the new policy.",
+  "options": [
+   "are holding",
+   "is holding",
+   "holds",
+   "hold"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are holding' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ her toys every morning.",
+  "options": [
+   "washes",
+   "wash",
+   "are washing",
+   "is washing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'baby' is singular, so the verb 'washes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The class _______ a field trip next month.",
+  "options": [
+   "are taking",
+   "is taking",
+   "take",
+   "takes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'class' is a plural noun, so the verb 'are taking' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee __________ a decision yesterday.",
+  "options": [
+   "has made",
+   "have made",
+   "had made",
+   "was making"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'committee' is a singular noun, so the verb 'has made' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The kids _______ soccer in the park.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "were playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'kids' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people ________ to the party tonight.",
+  "options": [
+   "are arriving",
+   "is arriving",
+   "arrive",
+   "arrives"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'number' is a plural noun, so it takes the plural verb 'are arriving'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The data ________ showing a significant trend.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'data' is a singular noun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat _______ its tail when it's happy.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "are chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band _____ been playing together for ten years.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "were being"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'band' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class ___ been decreasing steadily since last year.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so the verb 'has' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students _______ their homework every night.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "have done"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ to the beach every summer.",
+  "options": [
+   "goes",
+   "go",
+   "going",
+   "went"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a singular noun, so it takes the singular verb 'goes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company __________ a new marketing strategy to increase sales.",
+  "options": [
+   "are developing",
+   "is developing",
+   "develop",
+   "develops"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is developing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ in the crib.",
+  "options": [
+   "sleep",
+   "sleeps",
+   "are sleeping",
+   "is sleeping"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is a singular noun, so the verb 'sleeps' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The committee _______ meeting to discuss the budget.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so it takes the singular verb 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of scientists __________ a breakthrough in the field of genetics.",
+  "options": [
+   "have made",
+   "has made",
+   "am making",
+   "make"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have made' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ its tail when it's angry.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "were chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team ________ their project by next month.",
+  "options": [
+   "are finishing",
+   "finish",
+   "is finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so it takes the plural verb 'are finishing'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The board of directors ________ meeting to discuss the merger.",
+  "options": [
+   "are",
+   "is",
+   "has",
+   "have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'board' is a singular noun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby _______ its first steps today.",
+  "options": [
+   "take",
+   "takes",
+   "is taking",
+   "have taken"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'takes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band _______ their new album next month.",
+  "options": [
+   "are releasing",
+   "is releasing",
+   "has released",
+   "have released"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'band' is a singular noun, so it takes the singular verb 'is releasing'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The audience _______ enjoying the performance.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ his dinner.",
+  "options": [
+   "eat",
+   "eats",
+   "is eating",
+   "was eating"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'eats' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher _______ the students about their behavior.",
+  "options": [
+   "are telling",
+   "is telling",
+   "tell",
+   "tells"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, so it takes the singular verb 'is telling'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Neither the manager nor the employees ___ satisfied with the service.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'neither...nor' is a singular construction, so the verb 'is' is used to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher _______ the lesson.",
+  "options": [
+   "teach",
+   "teaches",
+   "are teaching",
+   "is teaching"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'teaches' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ on vacation.",
+  "options": [
+   "go",
+   "goes",
+   "are going",
+   "has gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Family' is singular, but 'goes' agrees with the plural 'parents'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of experts ________ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The book ___ on the table.",
+  "options": [
+   "lie",
+   "lies",
+   "are lying",
+   "were lied"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'book' is singular, so the verb 'lies' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ their uniforms before the game.",
+  "options": [
+   "put on",
+   "puts on",
+   "are putting on",
+   "is putting on"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a singular noun, but in this context, it can be considered a plural unit, so the verb 'put on' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of experts _______ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "had been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a collective noun, and in this context, it is considered a plural noun, so the verb 'have been' is used to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ her toy.",
+  "options": [
+   "cry",
+   "cries",
+   "is crying",
+   "are crying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'cries' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ a new strategy to win the game.",
+  "options": [
+   "are developing",
+   "is developing",
+   "have developed",
+   "develops"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are developing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Each of the students ___ working on their own project.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'each' is a singular pronoun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students on their exams.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, so the verb 'grades' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band ________ their new album next week.",
+  "options": [
+   "are releasing",
+   "is releasing",
+   "have released",
+   "releases"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'band' is a plural noun, so the verb 'are releasing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The news that the company is going bankrupt _____ being met with concern.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'news' is an uncountable noun, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ their house last year.",
+  "options": [
+   "sell",
+   "sells",
+   "are selling",
+   "is selling"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is plural, so the verb 'sell' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher ________ the lesson plan before class.",
+  "options": [
+   "prepare",
+   "preparing",
+   "prepares",
+   "prepared"
+  ],
+  "correctIndex": 3,
+  "explanation": "The subject 'teacher' is a singular noun, so it takes the singular verb 'prepared'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people in the office _______ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' is used.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ its tail when it is happy.",
+  "options": [
+   "wags",
+   "wag",
+   "are waggling",
+   "is wagging"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'dog' is singular, so the verb 'wags' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teachers ________ their students' homework every night.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teachers' is a plural noun, so the verb 'grade' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The data _____ being analyzed by the team.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'data' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students on their project.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, so the verb 'grades' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ a great game yesterday.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "have played"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Team' is treated as singular.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee _____ been discussing the budget for months.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'committee' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ its teething ring.",
+  "options": [
+   "bite",
+   "bites",
+   "is biting",
+   "were biting"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'baby' is singular, so the verb 'bite' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teachers _______ the students on their homework.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teachers' is plural, so the verb 'grade' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The family ________ their children to school every morning.",
+  "options": [
+   "take",
+   "takes",
+   "are taking",
+   "were taken"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'family' is a singular noun, so the verb 'takes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ its tail.",
+  "options": [
+   "chase",
+   "chases",
+   "are chasing",
+   "is chased"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ its employees about the new policy.",
+  "options": [
+   "are informing",
+   "is informing",
+   "have informed",
+   "informs"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'company' is a plural noun, so the verb 'are informing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Each of the students in the class ________ a unique perspective on the issue.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was having"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'each' is a singular pronoun, so it takes the singular verb 'has'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ milk from a bottle.",
+  "options": [
+   "drink",
+   "drinks",
+   "is drinking",
+   "were drinking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'drinks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The committee _______ meeting at 2 o'clock.",
+  "options": [
+   "meet",
+   "meets",
+   "are meeting",
+   "is meeting"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'committee' is a singular noun, so it takes the singular verb 'meets'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the students in the class ________ in favor of the new policy.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'majority' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ his toy.",
+  "options": [
+   "chase",
+   "chases",
+   "is chasing",
+   "are chasing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'chases' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teachers _______ the students' homework carefully.",
+  "options": [
+   "are looking at",
+   "is looking at",
+   "are look at",
+   "is look at"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teachers' is a plural noun, so the verb 'are looking at' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff ________ their clients' satisfaction as their top priority.",
+  "options": [
+   "take",
+   "takes",
+   "are taking",
+   "have taken"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'staff' is a singular noun, so the verb 'takes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog _______ his tail when it's happy.",
+  "options": [
+   "bark",
+   "barks",
+   "is barking",
+   "are barking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'barks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band _____ been touring for months.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'band' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the students _______ in favor of the new policy.",
+  "options": [
+   "are",
+   "is",
+   "am",
+   "be"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'majority' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ its first steps.",
+  "options": [
+   "walk",
+   "walks",
+   "is walking",
+   "are walking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'walks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band ________ a new album next month.",
+  "options": [
+   "are releasing",
+   "is releasing",
+   "have released",
+   "will release"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'band' is a singular noun, so the verb 'is releasing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the students ________ in favor of the new policy.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'majority' is a plural noun, so the verb 'are' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ its crying.",
+  "options": [
+   "cry",
+   "cries",
+   "is crying",
+   "are crying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'cries' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people in the company ________ growing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The government ________ a new law to reduce pollution.",
+  "options": [
+   "has passed",
+   "have passed",
+   "had passed",
+   "is passing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'government' is a singular noun, so the verb 'has passed' is used.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city _______ very beautiful.",
+  "options": [
+   "are",
+   "is",
+   "am",
+   "be"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'city' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The band ________ a new album this year.",
+  "options": [
+   "is releasing",
+   "are releasing",
+   "is releases",
+   "are releases"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'band' is a singular noun, so the verb 'is releasing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The research team of scientists _______ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the lesson plan every day.",
+  "options": [
+   "write",
+   "writes",
+   "are writing",
+   "were writing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'writes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new policy to reduce costs.",
+  "options": [
+   "are implementing",
+   "is implementing",
+   "have implemented",
+   "has implemented"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is implementing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy, ________ was announced last week, has already shown positive results.",
+  "options": [
+   "which",
+   "that",
+   "who",
+   "whom"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'policy' is a singular noun, so the verb 'which' is used in the relative clause to agree with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ her first steps yesterday.",
+  "options": [
+   "takes",
+   "take",
+   "are taking",
+   "is taking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'take' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ to win the game.",
+  "options": [
+   "are trying",
+   "is trying",
+   "have tried",
+   "tries"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so it takes the plural verb 'are trying'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers _______ their findings at the conference.",
+  "options": [
+   "are presenting",
+   "is presenting",
+   "present",
+   "has presented"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are presenting' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher _______ the lesson plan for tomorrow.",
+  "options": [
+   "are writing",
+   "is writing",
+   "writes",
+   "write"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'is writing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team ________ their best to win the game.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "is doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a singular noun, so it takes the singular verb 'do'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The average of the scores of the students in the class ________ below 70.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'average' is singular, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher _______ the students' papers.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is singular, so the verb 'grades' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ a vacation every summer.",
+  "options": [
+   "goes",
+   "go",
+   "going",
+   "have"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a singular noun, but it can be considered a collective unit, so the verb 'goes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "Neither of the students __________ their homework yet.",
+  "options": [
+   "have done",
+   "has done",
+   "had done",
+   "did"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'neither' is a singular pronoun, so the verb 'has done' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The cat ________ her food on the floor.",
+  "options": [
+   "eat",
+   "eats",
+   "are eating",
+   "is eating"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'cat' is singular, so the verb 'eats' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The group _______ their project at the conference.",
+  "options": [
+   "are presenting",
+   "is presenting",
+   "have presented",
+   "present"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so the verb 'are presenting' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The data _______ being analyzed by the team of researchers.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'data' is a singular noun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The birds ________ in the tree.",
+  "options": [
+   "fly",
+   "flies",
+   "are flying",
+   "is flying"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'birds' is a plural noun, so it takes the plural verb 'are flying'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team ________ their project on time.",
+  "options": [
+   "are finishing",
+   "is finishing",
+   "finish",
+   "finishes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so it takes the plural verb 'are finishing'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The band _____ been performing for twenty years.",
+  "options": [
+   "have",
+   "has",
+   "were",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'band' is a plural noun, so the verb 'have' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The kids _______ soccer in the backyard.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "were playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'kids' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team __________ their project on time.",
+  "options": [
+   "are finishing",
+   "finish",
+   "is finishing",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are finishing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The government _______ a new tax on all income above $100,000.",
+  "options": [
+   "are imposing",
+   "is imposing",
+   "have imposed",
+   "imposes"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'government' is a singular noun, so the verb 'is imposing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird ________ its feathers.",
+  "options": [
+   "preen",
+   "preens",
+   "is preening",
+   "are preening"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'bird' is singular, so the verb 'preens' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ________ a new employee next month.",
+  "options": [
+   "are hiring",
+   "is hiring",
+   "have hired",
+   "hires"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so it takes the singular verb 'is hiring'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people attending the concert ________ increasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so it takes the singular verb 'is'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students' assignments every day.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is a singular noun, so the verb 'grades' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team of researchers ________ their findings at the conference.",
+  "options": [
+   "are presenting",
+   "is presenting",
+   "has presented",
+   "have presented"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are presenting' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee ________ its decision until next week.",
+  "options": [
+   "is holding",
+   "are holding",
+   "hold",
+   "holds"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'committee' is a singular noun, so the verb 'is holding' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ its mother.",
+  "options": [
+   "cry",
+   "cries",
+   "is crying",
+   "are crying"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is singular, so the verb 'cries' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ a new strategy for the game.",
+  "options": [
+   "are developing",
+   "is developing",
+   "develops",
+   "have developed"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are developing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company _____ been profitable for the past five years.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so it takes the singular verb 'has'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The family ________ their vacation.",
+  "options": [
+   "goes",
+   "go",
+   "going",
+   "are going"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'family' is a singular noun, so the verb 'go' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family _______ to the beach for vacation.",
+  "options": [
+   "go",
+   "goes",
+   "are going",
+   "have gone"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Family' is singular, so 'goes'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff _______ their best to meet the demands of the client.",
+  "options": [
+   "are doing",
+   "is doing",
+   "have done",
+   "did"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are doing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The city ________ the tourists with its beautiful views.",
+  "options": [
+   "amaze",
+   "amazes",
+   "are amaze",
+   "is amaze"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'city' is a singular noun, so the verb 'amazes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ their project on time.",
+  "options": [
+   "are finishing",
+   "is finishing",
+   "finish",
+   "have finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'are finishing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff __________ a meeting to discuss the new policy.",
+  "options": [
+   "are holding",
+   "is holding",
+   "have held",
+   "holds"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are holding' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students their homework.",
+  "options": [
+   "give",
+   "gives",
+   "are giving",
+   "is given"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'teacher' is singular, so the verb 'gives' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people _______ to the concert is impressive.",
+  "options": [
+   "are attending",
+   "is attending",
+   "have attended",
+   "attends"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is attending' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people attending the concert __________ steadily increasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The teacher ________ the students' papers carefully.",
+  "options": [
+   "reads",
+   "read",
+   "are reading",
+   "were reading"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is singular, so the verb 'reads' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family _____ going to the beach tomorrow.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class ___________ increasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The children _______ soccer in the park.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'children' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company ___ a new product line next year.",
+  "options": [
+   "are launching",
+   "is launching",
+   "launches",
+   "launched"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'is launching' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people who have been vaccinated ________ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dogs ________ in the garden.",
+  "options": [
+   "run",
+   "runs",
+   "are running",
+   "is running"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'dogs' is plural, so the verb 'are running' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The number of people __________ to the event has increased.",
+  "options": [
+   "are attending",
+   "is attending",
+   "have attended",
+   "has attended"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'number' is a plural noun, so the verb 'are attending' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The staff __________ their duties efficiently.",
+  "options": [
+   "are perform",
+   "is performing",
+   "are performed",
+   "performs"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'staff' is a plural noun, so the verb 'are performing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The birds _______ their nests in the trees.",
+  "options": [
+   "build",
+   "builds",
+   "are building",
+   "were building"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'birds' is plural, so the verb 'build' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students _______ their homework every day.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "is doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The board of directors ________ meeting to discuss the budget.",
+  "options": [
+   "are",
+   "is",
+   "has been",
+   "have"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'board' is a singular noun, so the verb 'is' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The children ________ soccer in the park.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "were playing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'children' is plural, so the verb 'play' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team _______ a new product next month.",
+  "options": [
+   "launch",
+   "launches",
+   "are launching",
+   "is launching"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a singular noun, but it can be considered plural in this context, so the verb 'launch' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The committee ________ their decision yesterday.",
+  "options": [
+   "have make",
+   "has makes",
+   "have made",
+   "has made"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'committee' is a plural noun, so the verb 'have made' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby ________ its first steps today.",
+  "options": [
+   "takes",
+   "take",
+   "are taking",
+   "was taking"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'baby' is singular, so the verb 'takes' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The team ________ the game last night.",
+  "options": [
+   "win",
+   "wins",
+   "are winning",
+   "were winning"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is singular, but can be considered plural in some contexts, but in this case, 'win' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The team of researchers __________ working on the project for months.",
+  "options": [
+   "have been",
+   "has been",
+   "are",
+   "is"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have been' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The bird ________ its nest in the tree.",
+  "options": [
+   "build",
+   "builds",
+   "are building",
+   "were building"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'bird' is singular, so the verb 'builds' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The company _______ a new product line this year.",
+  "options": [
+   "launch",
+   "launches",
+   "are launching",
+   "has launched"
+  ],
+  "correctIndex": 2,
+  "explanation": "The subject 'company' is a singular noun, but it can be considered plural in some contexts, so the present continuous tense 'are launching' is used to maintain grammatical agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students in the class ________ decreasing.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The students ________ their homework every day.",
+  "options": [
+   "do",
+   "does",
+   "are doing",
+   "is doing"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is plural, so the verb 'do' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The family ________ their vacation to Hawaii.",
+  "options": [
+   "are going",
+   "is going",
+   "goes",
+   "have gone"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'family' is a plural noun, so the verb 'are going' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of students __________ decreasing every year.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is a singular noun, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The car _______ down the street.",
+  "options": [
+   "drive",
+   "drives",
+   "is driving",
+   "was driving"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'car' is singular, so the verb 'drives' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher _______ the students' homework every night.",
+  "options": [
+   "grade",
+   "grades",
+   "grading",
+   "graded"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'teacher' is a singular noun, so it takes the singular verb 'grade'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The audience _______ enjoying the play.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'audience' is a plural noun, so it takes the plural verb 'are'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ his tail when he's happy.",
+  "options": [
+   "barks",
+   "bark",
+   "are barking",
+   "is barking"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'dog' is singular, so the verb 'barks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The students ___ working on their projects.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'students' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company ________ been profitable for the last five years.",
+  "options": [
+   "have",
+   "has",
+   "had",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'company' is a singular noun, so the verb 'has' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The baby _______ milk from a bottle.",
+  "options": [
+   "drink",
+   "drinks",
+   "is drinking",
+   "were drinking"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'baby' is a singular noun, so the verb 'drinks' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The class _______ taking a field trip to the museum.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'class' is a plural noun, so the verb 'are' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The majority of the students _______ to the new policy.",
+  "options": [
+   "are objecting",
+   "is objecting",
+   "have objected",
+   "object"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'majority' is a plural noun, so it takes the plural verb 'are objecting'.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The team _______ the game next week.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'team' is a singular noun, so the verb 'plays' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The group of friends _______ to the movies tonight.",
+  "options": [
+   "are going",
+   "is going",
+   "have gone",
+   "goes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so the verb 'are going' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The number of people at the party _____ increasing every hour.",
+  "options": [
+   "are",
+   "is",
+   "have been",
+   "has been"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'number' is singular, so the verb 'is' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ },
+ {
+  "question": "The dog ________ in the park.",
+  "options": [
+   "play",
+   "plays",
+   "are playing",
+   "is playing"
+  ],
+  "correctIndex": 1,
+  "explanation": "The subject 'dog' is singular, so the verb 'plays' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Beginner"
+ },
+ {
+  "question": "The group _______ their project by next month.",
+  "options": [
+   "are finishing",
+   "is finishing",
+   "finish",
+   "has finished"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'group' is a plural noun, so the verb 'are finishing' agrees with it.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The research team __________ their findings at the conference.",
+  "options": [
+   "have presented",
+   "has presented",
+   "are presenting",
+   "is presenting"
+  ],
+  "correctIndex": 0,
+  "explanation": "The subject 'team' is a plural noun, so the verb 'have presented' is used to maintain subject-verb agreement.",
+  "topic": "Subject-Verb Agreement",
+  "level": "Advanced"
+ }
+]

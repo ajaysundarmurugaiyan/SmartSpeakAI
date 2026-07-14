@@ -1,0 +1,652 @@
+[
+ {
+  "question": "What does 'break a leg' mean?",
+  "options": [
+   "to wish someone bad luck",
+   "to tell someone to rest",
+   "to warn someone about an upcoming challenge",
+   "to encourage someone to perform well"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Break a leg' is an idiom that means to wish someone good luck.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'beat around the bush' mean?",
+  "options": [
+   "to talk directly and clearly",
+   "to avoid talking about something directly",
+   "to speak loudly and clearly",
+   "to change the subject"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Beat around the bush' is an idiom that means to avoid talking about something directly or bluntly.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is _______ the cost of development to meet the tight schedule.",
+  "options": [
+   "cutting corners",
+   "spending lavishly",
+   "saving every penny",
+   "bending rules"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'cutting corners' means to save money or resources by reducing quality or standards.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'let off' mean?",
+  "options": [
+   "to stop or end something",
+   "to start something",
+   "to change something",
+   "to describe something"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Let off' can mean to stop or end something.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'take it easy' mean?",
+  "options": [
+   "to work very hard",
+   "to relax and have fun",
+   "to be strict and demanding",
+   "to focus on one thing at a time"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Take it easy' is an idiom that means to relax and have fun.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The student was _______ by the complexity of the problem, but managed to solve it.",
+  "options": [
+   "stumped",
+   "baffled",
+   "thrown off",
+   "puzzled"
+  ],
+  "correctIndex": 0,
+  "explanation": "Stumped means to be unable to deal with something or someone.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'take it easy' mean?",
+  "options": [
+   "to work very hard",
+   "to relax and enjoy yourself",
+   "to be angry",
+   "to be sad"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Take it easy' is an idiom that means to relax and enjoy yourself.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was _______ about the office politics.",
+  "options": [
+   "a fish out of water",
+   "on cloud nine",
+   "at ease",
+   "in the know"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'a fish out of water' means someone who feels uncomfortable or out of place in their surroundings.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was _______ by the complexity of the project but he managed to finish it.",
+  "options": [
+   "stumped",
+   "puzzled",
+   "flummoxed",
+   "amused"
+  ],
+  "correctIndex": 0,
+  "explanation": "Stumped means feeling confused or unable to think of something.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make up one's mind' mean?",
+  "options": [
+   "to change your mind",
+   "to decide something",
+   "to forget what you were thinking",
+   "to start thinking about something"
+  ],
+  "correctIndex": 1,
+  "explanation": "This idiom is used to describe someone who has made a decision or reached a conclusion.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'cost an arm and a leg' mean?",
+  "options": [
+   "something is very cheap",
+   "something is of high quality",
+   "something is very expensive",
+   "something is free"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Cost an arm and a leg' means something is very expensive.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company is _______ its losses and trying to turn things around.",
+  "options": [
+   "digging its own grave",
+   "pulling in its horns",
+   "making hay while the sun shines",
+   "cutting its losses"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'digging its own grave' means to make things worse for oneself.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make heads or tails' mean?",
+  "options": [
+   "to understand something",
+   "to have no idea about something",
+   "to care about something",
+   "to think about something logically"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Make heads or tails' is an idiom that means to have no idea or understanding about something.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'in one fell swoop' mean?",
+  "options": [
+   "to do something in a complex and detailed manner",
+   "to do something quickly and with one motion",
+   "to do something slowly and carefully",
+   "to do something that is difficult to accomplish"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'in one fell swoop' means to do something quickly and with one motion, often implying a sudden and decisive action.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What does the phrase 'cut to the chase' mean?",
+  "options": [
+   "to talk about something in a roundabout way",
+   "to get to the point or main idea quickly",
+   "to change the subject",
+   "to avoid talking about something"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'cut to the chase' is an idiom that means to get to the point or main idea quickly, often used when someone is talking about something that is boring or irrelevant.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'in a nutshell' mean?",
+  "options": [
+   "to describe something in detail",
+   "to summarize something briefly",
+   "to introduce someone",
+   "to interrupt someone"
+  ],
+  "correctIndex": 1,
+  "explanation": "This idiom is used to describe something in a brief and concise manner.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher asked us to _______ our homework before the deadline.",
+  "options": [
+   "turn off",
+   "turn up",
+   "turn in",
+   "turn down"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Turn in' is an idiom that means to submit something.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ policy of the government has led to a decrease in crime rates.",
+  "options": [
+   "hands-off",
+   "heavy-handed",
+   "soft-spoken",
+   "tough-talking"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'hands-off' means not interfering or intervening.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'kick the bucket' mean?",
+  "options": [
+   "to eat something delicious",
+   "to take something seriously",
+   "to die",
+   "to play a game"
+  ],
+  "correctIndex": 2,
+  "explanation": "The idiom 'kick the bucket' is an expression used to describe someone who has died.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new employee was _______ by the complexity of the project, but he managed to pull it off.",
+  "options": [
+   "frightened out of their wits",
+   "scared to death",
+   "in over their heads",
+   "out of their depth"
+  ],
+  "correctIndex": 2,
+  "explanation": "The phrase 'in over one's heads' means to be overwhelmed or unable to cope with something.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ its profits for several years now.",
+  "options": [
+   "washed up",
+   "gone downhill",
+   "hit bottom",
+   "seen better days"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'washed up' means to have lost all financial support or resources.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'rain on someone's parade' mean?",
+  "options": [
+   "to make something fun or exciting",
+   "to cause someone to be upset",
+   "to change the subject",
+   "to give advice"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'rain on someone's parade' is an idiom that means to spoil or ruin the happiness or success of someone.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'take someone(s) for granted' mean?",
+  "options": [
+   "to value something highly",
+   "to treat someone(s) as if they are not important",
+   "to give credit to someone",
+   "to ignore someone's efforts"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'take someone(s) for granted' means to treat someone(s) as if they are not important, without recognizing their worth or effort.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If you _______ me, I won't be able to finish the project on time.",
+  "options": [
+   "give up",
+   "give in",
+   "let me down",
+   "let me through"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Give up' means to stop trying or working hard.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make ends meet' mean?",
+  "options": [
+   "to spend money wisely",
+   "to save money for the future",
+   "to run out of money",
+   "to borrow money from someone"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Make ends meet' means to spend money wisely in order to have enough to live on.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'hit the books' mean?",
+  "options": [
+   "to go out and socialize",
+   "to focus on one's studies",
+   "to play video games",
+   "to exercise"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'hit the books' is an idiom that means to study or focus on one's studies.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was _______ about the company's policies, so she asked several questions to get a better understanding.",
+  "options": [
+   "on the fence",
+   "in the know",
+   "in the dark",
+   "on the ground"
+  ],
+  "correctIndex": 2,
+  "explanation": "The phrase 'in the dark' means not knowing something or being unaware of a situation.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make up' mean?",
+  "options": [
+   "to stop talking",
+   "to start talking",
+   "to change something",
+   "to leave something out"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Make up' can have multiple meanings, but in the context of language and grammar, it often means to change or alter something.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy is _______ for everyone, whether they're rich or poor.",
+  "options": [
+   "classless",
+   "classist",
+   "class-free",
+   "class-conscious"
+  ],
+  "correctIndex": 2,
+  "explanation": "The sentence is using 'class-free' to mean not concerned with class distinctions.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was very _______ during her first day on the job.",
+  "options": [
+   "bent out of shape",
+   "on cloud nine",
+   "in a tizzy",
+   "on edge"
+  ],
+  "correctIndex": 3,
+  "explanation": "On edge means feeling nervous or tense.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'take the cake' mean?",
+  "options": [
+   "to be the most popular or successful",
+   "to be the least popular or successful",
+   "to have eaten a cake",
+   "to have not eaten a cake"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Take the cake' is an idiom that means to be the most popular or successful.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does 'a piece of cake' mean?",
+  "options": [
+   "very difficult",
+   "very easy",
+   "very expensive",
+   "very crowded"
+  ],
+  "correctIndex": 1,
+  "explanation": "'A piece of cake' means something that is very easy to do or achieve.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was _______ when he found out he had to work on weekends.",
+  "options": [
+   "burned out",
+   "stuck in limbo",
+   "on cloud nine",
+   "in the clear"
+  ],
+  "correctIndex": 0,
+  "explanation": "Burned out means physically or mentally exhausted from working too much.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make the cut' mean?",
+  "options": [
+   "to be excluded or removed",
+   "to be included or accepted",
+   "to improve one's skills",
+   "to get a job interview"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'make the cut' is an idiom that originated in Hollywood, meaning to be selected for a film or role.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does 'on the same page' mean?",
+  "options": [
+   "to disagree with someone",
+   "to have different ideas or opinions",
+   "to understand each other's point of view",
+   "to be in a hurry"
+  ],
+  "correctIndex": 2,
+  "explanation": "'On the same page' means to understand each other's point of view.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "What does the phrase 'to kick the bucket' mean?",
+  "options": [
+   "to talk to someone in a rude way",
+   "to die or pass away",
+   "to start something new",
+   "to be busy or occupied"
+  ],
+  "correctIndex": 1,
+  "explanation": "'To kick the bucket' is an old-fashioned idiom that means to die or pass away.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'give someone the third degree' mean?",
+  "options": [
+   "to ask someone questions in a polite way",
+   "to ask someone many questions in a very direct or aggressive way",
+   "to tell someone to be more careful",
+   "to give someone advice"
+  ],
+  "correctIndex": 1,
+  "explanation": "This idiom is used to describe someone asking someone else many questions in a very direct or aggressive way, often as a means of interrogation or investigation.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'let the cat out of the bag' mean?",
+  "options": [
+   "to reveal a secret",
+   "to keep a secret safe",
+   "to change a topic",
+   "to start talking"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Let the cat out of the bag' is an idiom that means to reveal or disclose a secret.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher asked the students to come up with a _______ solution to the problem.",
+  "options": [
+   "quick fix",
+   "one-size-fits-all",
+   "pie in the sky",
+   "band-aid"
+  ],
+  "correctIndex": 0,
+  "explanation": "A 'quick fix' is a temporary solution to a problem.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'take someone down a peg' mean?",
+  "options": [
+   "to give someone encouragement",
+   "to make someone angry or upset",
+   "to reduce someone's confidence or ability",
+   "to praise someone"
+  ],
+  "correctIndex": 2,
+  "explanation": "The phrase 'take someone down a peg' is an idiom that means to reduce someone's confidence or ability.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'bite the bullet' mean?",
+  "options": [
+   "to take on or face something unpleasant",
+   "to avoid or delay dealing with a problem",
+   "to change one's opinion or decision",
+   "to speak in a loud or aggressive manner"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'bite the bullet' is an idiom that means to face a difficult situation or challenge courageously.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher gave us a lot of _______ on how to improve our presentation skills.",
+  "options": [
+   "guidance",
+   "advice",
+   "suggestions",
+   "feedback"
+  ],
+  "correctIndex": 1,
+  "explanation": "Advice is advice given in order to help someone.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'once in a blue moon' mean?",
+  "options": [
+   "every day",
+   "very often",
+   "rarely or not at all",
+   "in a million years"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Once in a blue moon' is an idiom used to describe something that happens very rarely or not at all.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the phrase 'rain on someone's parade' mean?",
+  "options": [
+   "to help someone with their project",
+   "to join someone in planning an event",
+   "to spoil or ruin something",
+   "to describe someone's mood"
+  ],
+  "correctIndex": 2,
+  "explanation": "The phrase 'rain on someone's parade' is an idiom that means to spoil or ruin something, often used to describe someone who is trying to make someone else unhappy or disappointed.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "If you're feeling _______ today, you might want to take it easy and rest.",
+  "options": [
+   "burned out",
+   "overworked",
+   "relaxed",
+   "tired"
+  ],
+  "correctIndex": 0,
+  "explanation": "The phrase 'burned out' means someone is exhausted and overworked.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make a scene' mean?",
+  "options": [
+   "to behave in a quiet and polite manner",
+   "to cause a disturbance or make a lot of noise",
+   "to apologize for something",
+   "to tell a joke"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'make a scene' is an idiom that means to cause a disturbance or make a lot of noise, often in a public place.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher gave the students a _______ question to test their knowledge.",
+  "options": [
+   "tricky",
+   "easy",
+   "obvious",
+   "boring"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tricky means difficult or causing problems.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's sales have been _______ ever since they launched their new product.",
+  "options": [
+   "in the red",
+   "on the rise",
+   "on the decline",
+   "at a standstill"
+  ],
+  "correctIndex": 1,
+  "explanation": "On the rise: becoming more successful or popular over time.",
+  "topic": "Idioms and Phrases",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'make the grade' mean?",
+  "options": [
+   "to perform well",
+   "to perform poorly",
+   "to pass a class",
+   "to fail a test"
+  ],
+  "correctIndex": 0,
+  "explanation": "This idiom is used to describe someone or something that is doing well and meeting expectations.",
+  "topic": "Idioms and Phrases",
+  "level": "Beginner"
+ },
+ {
+  "question": "The student was _______ to the teacher's explanation of the topic.",
+  "options": [
+   "on fire",
+   "at a loss",
+   "in a pickle",
+   "on board"
+  ],
+  "correctIndex": 1,
+  "explanation": "The phrase 'at a loss' means to be confused or unable to think of something.",
+  "topic": "Idioms and Phrases",
+  "level": "Intermediate"
+ }
+]

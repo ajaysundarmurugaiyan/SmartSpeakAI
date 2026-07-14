@@ -1,0 +1,652 @@
+[
+ {
+  "question": "What is the meaning of 'apple'?",
+  "options": [
+   "A type of fruit",
+   "A type of vegetable",
+   "A type of animal",
+   "A type of plant"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'apple' refers to the edible fruit that comes from an apple tree.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'anachronistic' mean?",
+  "options": [
+   "Related to or occurring in an incorrect chronological order",
+   "Relating to or occurring during the correct chronological order",
+   "Having a similar meaning to another word",
+   "Having a different meaning from another word"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'anachronistic' means related to or occurring in an incorrect chronological order.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ weather forecast predicted a high pressure system moving in from the west.",
+  "options": [
+   "meteorological",
+   "climatic",
+   "atmospheric",
+   "weatherwise"
+  ],
+  "correctIndex": 2,
+  "explanation": "Atmospheric refers to the air and its properties.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'big' mean?",
+  "options": [
+   "Small",
+   "Medium",
+   "Large",
+   "Short"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Big' describes something or someone that is large in size.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the meaning of 'metonymy'?",
+  "options": [
+   "A figure of speech that uses a word or phrase to represent something else",
+   "A type of irony where something opposite to what is intended happens",
+   "A rhetorical device used to emphasize something by saying its opposite",
+   "A type of metaphor that describes one thing as another"
+  ],
+  "correctIndex": 0,
+  "explanation": "Metonymy is a figure of speech that uses a word or phrase to represent something else, often a more abstract concept or a part instead of the whole.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ its marketing strategy to target a younger demographic.",
+  "options": [
+   "rehashed",
+   "revised",
+   "rewritten",
+   "redesigned"
+  ],
+  "correctIndex": 1,
+  "explanation": "Revised means to change or update something.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'table' mean?",
+  "options": [
+   "A piece of furniture with legs and a surface for eating",
+   "A type of computer hardware",
+   "A form of transportation",
+   "A type of office supply"
+  ],
+  "correctIndex": 0,
+  "explanation": "A table is a piece of furniture with legs and a surface used for sitting, working, or storing objects.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'aberration' mean?",
+  "options": [
+   "Something that is out of the ordinary or unusual",
+   "A form of music therapy",
+   "A type of medical diagnosis",
+   "A form of physical exercise"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'aberration' means something that is out of the ordinary or unusual, often used to describe behavior or events that are unexpected or deviate from what is considered normal.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ its policy to reduce carbon emissions by 50% by 2030.",
+  "options": [
+   "revived",
+   "reversed",
+   "abandoned",
+   "adhered to"
+  ],
+  "correctIndex": 3,
+  "explanation": "Adhered to means to follow or maintain something.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'car'?",
+  "options": [
+   "A type of bicycle",
+   "A type of train",
+   "A type of boat",
+   "A type of vehicle"
+  ],
+  "correctIndex": 3,
+  "explanation": "A car is a type of vehicle used for transportation.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "The hotel staff were _______ to the guests who had been delayed due to bad weather.",
+  "options": [
+   "polite",
+   "indifferent",
+   "hostile",
+   "cordial"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cordial means showing friendliness and goodwill.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new employee was _______ to the company's policies and procedures on his first day.",
+  "options": [
+   "well-acquainted",
+   "familiar",
+   "unfamiliar",
+   "ignorant"
+  ],
+  "correctIndex": 0,
+  "explanation": "The sentence is using 'well-acquainted' to describe someone who has a good knowledge or understanding of something.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'rain'?",
+  "options": [
+   "A type of weather",
+   "A type of animal",
+   "A type of food",
+   "A type of plant"
+  ],
+  "correctIndex": 0,
+  "explanation": "Rain is a type of precipitation that falls from the sky.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "The new policy is ______ to the existing one.",
+  "options": [
+   "incompatible",
+   "complementary",
+   "consistent",
+   "dissimilar"
+  ],
+  "correctIndex": 0,
+  "explanation": "Incompatible means not able to be used or worked together.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company's new marketing strategy is _______ to its target audience, generating significant interest and engagement.",
+  "options": [
+   "recondite",
+   "mellifluous",
+   "obscenely",
+   "targeted"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Targeted' means intended or designed for a specific group of people.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'household'?",
+  "options": [
+   "A type of furniture",
+   "A group of people living together",
+   "A kind of animal",
+   "A type of food"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Household' refers to a group of people who live in the same house.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'labyrinthine' mean?",
+  "options": [
+   "having a complicated or confusing structure",
+   "having a straightforward and easy-to-understand structure",
+   "related to maps or geographical features",
+   "relating to ancient Egyptian architecture"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'labyrinthine' comes from the Greek 'labyrinthos', meaning a complex maze. It describes something that is complex, confusing, or difficult to navigate.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ of the word 'onomatopoeia' is from Greek, meaning 'making its own name' or 'name-giving'",
+  "options": [
+   "heteronym",
+   "homophone",
+   "polyphone",
+   "onomatopoeic"
+  ],
+  "correctIndex": 3,
+  "explanation": "'Onomatopoeia' comes from Greek, meaning 'making its own name' or 'name-giving'.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'book'?",
+  "options": [
+   "A type of fruit",
+   "A type of animal",
+   "A written or printed publication",
+   "A type of clothing"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Book' can be used as a noun to refer to a written or printed publication.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "The _______ of the city is very dangerous at night due to the high crime rate.",
+  "options": [
+   "chaos",
+   "tranquility",
+   "serenity",
+   "calmness"
+  ],
+  "correctIndex": 0,
+  "explanation": "Chaos means a state of confusion and disorder.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ landscape was dotted with small villages scattered across the valley.",
+  "options": [
+   "picturesque",
+   "desolate",
+   "urbanized",
+   "industrial"
+  ],
+  "correctIndex": 0,
+  "explanation": "Peculiar to the noun 'landscape' - 'picturesque' means having a pleasing or attractive appearance.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the opposite of 'hot'?",
+  "options": [
+   "cold",
+   "warm",
+   "cool",
+   "dry"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Cold' means having or feeling low temperature.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'perpetual' mean?",
+  "options": [
+   "occurring or existing continuously for a long time",
+   "occurring or existing only once",
+   "occurring or existing for a short time",
+   "impossible to occur or exist"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'perpetual' means occurring or existing continuously for a long time.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The company has _______ its workforce to reduce costs.",
+  "options": [
+   "downsized",
+   "outsourced",
+   "upgraded",
+   "retrained"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'downsized' means to reduce the size or number of employees in an organization.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'cat' mean?",
+  "options": [
+   "A type of dog",
+   "A type of bird",
+   "A small furry animal with claws",
+   "A type of fish"
+  ],
+  "correctIndex": 2,
+  "explanation": "A cat is a small domesticated carnivorous mammal that typically has soft fur, a short nose, and a playful and independent nature.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'catalyze' mean?",
+  "options": [
+   "to slow down a chemical reaction",
+   "to speed up a chemical reaction",
+   "to change the color of something",
+   "to make something more complex"
+  ],
+  "correctIndex": 1,
+  "explanation": "The word 'catalyze' means to accelerate or quicken a chemical reaction by adding a substance called a catalyst.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ of the sentence is the noun or noun phrase that receives the action of the verb.",
+  "options": [
+   "subject",
+   "predicate",
+   "direct object",
+   "indirect object"
+  ],
+  "correctIndex": 0,
+  "explanation": "Subject is defined as 'the noun or noun phrase that receives the action of the verb.'",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'dog'?",
+  "options": [
+   "A type of bird",
+   "A type of fish",
+   "A four-legged animal that often barks",
+   "A type of mammal"
+  ],
+  "correctIndex": 2,
+  "explanation": "A dog is a domesticated carnivorous mammal that typically has a body length between 30 and 75 cm (12 and 30 in), a weight between 4.5 and 50 kg (11 and 110 lb), a flat nose, an upright tail, nonretractable claws, a single dew claw on each foot, and a metabolism that produces more heat than other carnivores.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'belligerent' mean?",
+  "options": [
+   "Having a good relationship with someone",
+   "Being friendly and polite",
+   "Having an aggressive or hostile attitude",
+   "Being very quiet and reserved"
+  ],
+  "correctIndex": 2,
+  "explanation": "The word 'belligerent' means having an aggressive or hostile attitude, often used to describe someone who is verbally or physically confrontational.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher was _______ by the student's advanced vocabulary and grammar.",
+  "options": [
+   "flabbergasted",
+   "fascinated",
+   "amused",
+   "astonished"
+  ],
+  "correctIndex": 1,
+  "explanation": "Fascinated means having or showing great interest or attention.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'hot'?",
+  "options": [
+   "Cold",
+   "Warm",
+   "Hot",
+   "Dry"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Hot' describes something that has a high temperature.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the meaning of the word 'pneumonia'?",
+  "options": [
+   "A lung infection that causes coughing and fever",
+   "A type of cancer that affects the lungs",
+   "A type of blood disorder",
+   "A type of digestive disease"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pneumonia is an inflammation of the lungs that can be caused by bacteria, viruses, or other irritants. It often causes symptoms such as coughing, fever, and shortness of breath.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ of the argument was that the new policy would benefit everyone.",
+  "options": [
+   "tenor",
+   "tenure",
+   "theme",
+   "thesis"
+  ],
+  "correctIndex": 3,
+  "explanation": "Thesis: the main point or argument.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'rainbow'?",
+  "options": [
+   "A type of cloud",
+   "A bridge over water",
+   "A colorful arch in the sky",
+   "A type of flower"
+  ],
+  "correctIndex": 2,
+  "explanation": "A rainbow is a natural phenomenon that occurs when sunlight is refracted, reflected, and dispersed by water droplets in the atmosphere.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'mellifluous' mean?",
+  "options": [
+   "Having a pleasant taste",
+   "Having a pleasant sound",
+   "Having a bitter flavor",
+   "Having a sharp smell"
+  ],
+  "correctIndex": 1,
+  "explanation": "The adjective 'mellifluous' describes something that has a smooth, sweet, or melodious sound.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ of the word 'paradox' is to describe a statement that seems self-contradictory but may still be true.",
+  "options": [
+   "redundancy",
+   "antonym",
+   "connotation",
+   "definition"
+  ],
+  "correctIndex": 3,
+  "explanation": "A definition is a statement that explains the meaning of a word or phrase.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'car' mean?",
+  "options": [
+   "A type of fish",
+   "A kind of music",
+   "A vehicle used for transportation",
+   "A type of building"
+  ],
+  "correctIndex": 2,
+  "explanation": "A car is a vehicle that people drive to travel short distances.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the meaning of the word 'obscure'?",
+  "options": [
+   "to make something more visible",
+   "to make something less visible",
+   "to make something more interesting",
+   "to make something less interesting"
+  ],
+  "correctIndex": 1,
+  "explanation": "The word 'obscure' can have different meanings, but its most common use is to make something less visible or known.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The teacher's _______ and patience made the students feel comfortable and eager to learn.",
+  "options": [
+   "rudeness",
+   "impoliteness",
+   "calmness",
+   "bravery"
+  ],
+  "correctIndex": 2,
+  "explanation": "Calmness means a state of being relaxed and composed, which can make people feel comfortable and eager to learn.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'tire'?",
+  "options": [
+   "To fill something with air",
+   "To make something empty of air",
+   "A type of car",
+   "A type of tire"
+  ],
+  "correctIndex": 1,
+  "explanation": "The verb 'tire' means to make tired or weary.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What does the word 'fervent' mean?",
+  "options": [
+   "Having no energy or enthusiasm",
+   "Full of passion or strong emotion",
+   "Having a neutral or indifferent attitude",
+   "Having a very mild or gentle emotion"
+  ],
+  "correctIndex": 1,
+  "explanation": "The word 'fervent' means full of passion or strong emotion.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The _______ smell of the flowers attracted many passersby to the garden.",
+  "options": [
+   "alluring",
+   "repellent",
+   "intoxicating",
+   "noisy"
+  ],
+  "correctIndex": 0,
+  "explanation": "Alluring means having an attractive or enticing quality.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What does 'dog' mean?",
+  "options": [
+   "A type of bird",
+   "A type of fish",
+   "A type of mammal that is a domesticated carnivorous predator",
+   "A type of reptile"
+  ],
+  "correctIndex": 2,
+  "explanation": "The word 'dog' refers to a type of mammal that is a domesticated carnivorous predator, often kept as a pet.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the meaning of the word 'malleable'?",
+  "options": [
+   "Capable of being shaped or molded",
+   "Having a rigid and inflexible nature",
+   "Having a loose and scattered structure",
+   "Having a strong and unbreakable texture"
+  ],
+  "correctIndex": 0,
+  "explanation": "The word 'malleable' refers to something that is capable of being shaped or molded, often used to describe materials or substances that can be easily changed or modified.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy was _______ to accommodate all the parties involved.",
+  "options": [
+   "slovenly",
+   "inclusive",
+   "exclusive",
+   "elusive"
+  ],
+  "correctIndex": 1,
+  "explanation": "Inclusive means intended or designed to include everyone.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the meaning of 'run'?",
+  "options": [
+   "To walk quickly",
+   "To jump high",
+   "To move fast in a different direction",
+   "To go somewhere"
+  ],
+  "correctIndex": 0,
+  "explanation": "The verb 'run' can be used to describe the action of walking quickly, often in a particular direction.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "The teacher asked the student to ______ his answer to avoid making mistakes.",
+  "options": [
+   "double back",
+   "check back",
+   "double-check",
+   "cross-check"
+  ],
+  "correctIndex": 2,
+  "explanation": "'Double-check' means to check something again to ensure it is correct.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ },
+ {
+  "question": "The new policy has _______ the gap between rich and poor significantly.",
+  "options": [
+   "closed",
+   "widened",
+   "bridged",
+   "blended"
+  ],
+  "correctIndex": 2,
+  "explanation": "Bridged means to connect or join two things.",
+  "topic": "Vocabulary",
+  "level": "Advanced"
+ },
+ {
+  "question": "What is the opposite of 'big'?",
+  "options": [
+   "Small",
+   "Big",
+   "Short",
+   "Wide"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Small' is the opposite of 'big'.",
+  "topic": "Vocabulary",
+  "level": "Beginner"
+ },
+ {
+  "question": "What is the meaning of the word 'sophisticated'?",
+  "options": [
+   "Simple and basic",
+   "Complex and advanced",
+   "Informal and casual",
+   "Neutral and unremarkable"
+  ],
+  "correctIndex": 1,
+  "explanation": "'Sophisticated' means having a high level of knowledge or skill.",
+  "topic": "Vocabulary",
+  "level": "Intermediate"
+ }
+]
