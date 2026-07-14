@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { BookOpen, MessageCircle, Mic, Trophy, CheckCircle, Target, Star, TrendingUp, Award, Clock } from 'lucide-react';
+import { BookOpen, MessageCircle, Mic, Trophy, CheckCircle, Target, Star, TrendingUp, Award, Clock, FileText } from 'lucide-react';
 import Navbar from '../components/Navbar';
 import QuizModal from '../components/QuizModal';
 import { useAuth } from '../contexts/AuthContext';
@@ -294,6 +294,28 @@ const DailyActivities = () => {
           </div>
 
           {/* Activities Grid */}
+          {/* Practice Exam (Premium) */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            onClick={() => navigate('/practice-exam')}
+            className="cursor-pointer mb-8 rounded-2xl p-6 bg-gradient-to-r from-indigo-600 to-purple-600 text-white shadow-lg hover:shadow-xl transition-shadow flex items-center justify-between gap-4"
+          >
+            <div className="flex items-center gap-4 min-w-0">
+              <div className="w-14 h-14 bg-white/20 rounded-xl flex items-center justify-center flex-shrink-0">
+                <FileText className="w-8 h-8 text-white" />
+              </div>
+              <div className="min-w-0">
+                <h3 className="text-xl font-bold flex items-center gap-2 flex-wrap">
+                  Practice Exam
+                  <span className="text-[10px] font-semibold bg-amber-400 text-gray-900 px-2 py-0.5 rounded-full">PREMIUM</span>
+                </h3>
+                <p className="text-white/80 text-sm">Topic-wise mock tests with instant answers &amp; explanations</p>
+              </div>
+            </div>
+            <span className="hidden sm:inline text-white/90 font-medium whitespace-nowrap">Start →</span>
+          </motion.div>
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {activities.map((activity, index) => {
               const Icon = activity.icon === 'BookOpen' ? BookOpen :
